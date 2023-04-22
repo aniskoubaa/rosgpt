@@ -1,19 +1,31 @@
 # RosGPT# rosGPT: Natural Language Commands for ROS
 
-rosGPT is a ROS2 and ROS package that enables humans to send natural language commands to a robot. The package converts these commands to a JSON format and then to the appropriate ROS commands for execution.
+ROSGPT is a ROS2 and ROS package that enables humans to send natural language commands to a robot. The package converts these commands to a JSON format and then to the appropriate ROS commands for execution.
 
-## Overview
+## Reference paper
 
-rosGPT consists of:
+Soon on ARXIV
 
-1. A `chatgpt_ros2.py` ROS2 node in the `ros2_chatgpt_python` package, which serves as a REST server that receives text commands and publishes them to the `voice_cmd` topic.
-2. A `tb3.py` node that subscribes to the `voice_cmd` topic, parses the JSON message, and executes the received command.
-3. An `index.html` page with `script.js` and `style.css` files, providing a user interface for humans to send voice commands. The voice command is converted to text and sent as a natural language command to the REST server in the `chatgpt_ros2` node.
+## How to use
 
-## Installation
+Coming soon
 
-1. Clone the repository to your workspace:
 
-```bash
-$ cd ~/ros2_ws/src
-$ git clone https://github.com/your_username/rosGPT.git
+## License
+
+This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, share, and adapt this material for non-commercial purposes, as long as you provide attribution to the original author(s) and the source.
+
+## Contribute
+
+As this project is still under progress, contributions are welcome! To contribute, please follow these steps:
+
+1. Fork the repository on GitHub.
+2. Create a new branch for your feature or bugfix.
+3. Commit your changes and push them to your fork.
+4. Create a pull request to the main repository.
+
+Before submitting your pull request, please ensure that your changes do not break the build and adhere to the project's coding style.
+
+For any questions or suggestions, please open an issue on the [GitHub issue tracker](https://github.com/aniskoubaa/rosgpt/issues).
+
+
