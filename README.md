@@ -1,4 +1,4 @@
-# RosGPT# rosGPT: Natural Language Commands for ROS
+# ROSGPT: ChatGPT Interface for ROS2 for Human-Robot Interaction
 
 ROSGPT is a ROS2 and ROS package that enables humans to send natural language commands to a robot. The package converts these commands to a JSON format and then to the appropriate ROS commands for execution.
 
