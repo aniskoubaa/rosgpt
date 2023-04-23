@@ -4,7 +4,7 @@ ROSGPT is a ROS2 and ROS package that enables humans to send natural language co
 
 ## Reference paper
 
-Soon on ARXIV
+Soon on ARXIV and preprints
 
 ## How to use
 
