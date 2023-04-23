@@ -11,7 +11,7 @@ Anis Koubaa. "ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and R
 
 This video shows a brief demonstration on how to get started with ROSGPT. 
 
-[![ROSGPT VIDEO DEMO](https://img.youtube.com/vi/prluA9zfWhU/0.jpg)](https://www.youtube.com/watch?v=prluA9zfWhU)
+[![ROSGPT VIDEO DEMO](https://img.youtube.com/vi/urkQD-hB5Hg/0.jpg)](https://www.youtube.com/watch?v=urkQD-hB5Hg)
 
 
 ## License
