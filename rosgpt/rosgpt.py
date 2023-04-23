@@ -41,7 +41,7 @@ api = Api(app)
 #In Ubuntu: echo 'export OPENAI_API_KEY=your_api_key' >> ~/.bashrc
 # Get the API key from the environment variable. 
 openai_api_key = os.getenv('OPENAI_API_KEY')
-print(openai_api_key)
+#print(openai_api_key)
 
 # Now you can use the openai_api_key variable to authenticate with the OpenAI API
 
@@ -100,12 +100,11 @@ class ROSGPTNode(Node):
         Args:
             message (str): The message to be published.
         """
-        print('initial message: ', message) # Log the published message
         msg = String() # Create a new String message 
         msg.data = message # Convert the message to a JSON string and set the data field of the message
         self.publisher.publish(msg) # Publish the message using the publisher 
-        print('message Published: ', message) # Log the published message
-        print('msg.data Published: ', msg.data) # Log the published message
+        #print('message Published: ', message) # Log the published message
+        #print('msg.data Published: ', msg.data) # Log the published message
         
         
 
@@ -176,8 +175,9 @@ class ROSGPTProxy(Resource):
                     
                     '''
         prompt = prompt+'\nprompt: '+text_command
-        # ... (omitted for brevity)
-        print(prompt)
+        #print(prompt) #for testing
+        
+
         # Create the message structure for the GPT-3 model
         messages = [
             {"role": "system", "content": "You are a helpful assistant."},
@@ -199,7 +199,7 @@ class ROSGPTProxy(Resource):
         
         # Extract the GPT-3 model response from the returned JSON
         chatgpt_response = response.choices[0].message['content'].strip()
-        print(chatgpt_response)
+        #print(chatgpt_response)
         # Find the start and end indices of the JSON string in the response
         start_index = chatgpt_response.find('{')
         end_index = chatgpt_response.rfind('}') + 1
@@ -220,12 +220,13 @@ class ROSGPTProxy(Resource):
         """
 
         text_command = request.form['text_command']
-        
+        print ('[ROSGPT] Command received. ', text_command, '. Asking ChatGPT ...')
         # Run the speak function on a separate thread
-        print('text_command:', text_command,'\n')
+        #print('text_command:', text_command,'\n')
         threading.Thread(target=speak, args=(text_command+"Message received. Now consulting ChatGPT for a response.",)).start()
         chatgpt_response = self.askGPT(text_command)
-        print('eval(chatgpt_response)', eval(chatgpt_response))
+        print ('[ROSGPT] Response received from ChatGPT. \n', str(json.loads(chatgpt_response))[:60], '...')
+        #print('eval(chatgpt_response)', eval(chatgpt_response))
         # Run the speak function on a separate thread
         threading.Thread(target=speak, args=("We have received a response from ChatGPT.",)).start()
 
@@ -236,12 +237,6 @@ class ROSGPTProxy(Resource):
         #print(json.loads(chatgpt_response))
         return json.loads(chatgpt_response)
 
-
-@app.route('/start_turtlesim')
-def start_turtlesim():
-    # Use subprocess to run the "ros2 run turtlesim turtlesim_node" command
-    subprocess.Popen(['ros2', 'run', 'turtlesim', 'turtlesim_node'])
-    return 'Turtlesim node started!'
 
 @app.route('/')
 def index():

@@ -33,10 +33,15 @@ def send_text_command(text_command):
     if response.status_code == 200:
         response_str = response.content.decode('utf-8')
         #print(response_str)
-        response_dict = json.loads(response_str)
-        #print(response_dict)
-        print("\nResponse:", response_dict['text'])
-        print("\nJSON:", json.loads(response_dict['json']))
+        try:
+            response_dict = json.loads(response_str)
+            #print(response_dict)
+            print("\nResponse:", response_dict['text'])
+            print("\nJSON:", json.loads(response_dict['json']))
+        except json.JSONDecodeError:
+            print('[json.JSONDecodeError] Invalid or empty JSON string received:', response_dict)
+        except Exception as e:
+            print('[Exception] An unexpected error occurred:', str(e)) 
     else:
         print("Error:", response.status_code)
 
@@ -48,5 +53,6 @@ if __name__ == '__main__':
     to the console.
     """
     while True:
+        print('Enter a move command or a rotate command. The current ROSGPTParser of rosgpt_turtlesim does not multiple command. Will be extended later')
         text_command = input("Enter a text command: ")
         send_text_command(text_command)

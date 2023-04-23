@@ -34,19 +34,24 @@ class ROSGPTClient(Node):
         """
         Sends a text command to the ROSGPT system and receives a response from the ChatGPT language model.
         """
-        text_command = input("Enter a text command: ")
-        data = {'text_command': text_command}
+        while rclpy.ok():
+            print('Enter a move command or a rotate command. The current ROSGPTParser of rosgpt_turtlesim does not multiple command. Will be extended later')
+            text_command = input("Enter a text command: ")
+            data = {'text_command': text_command}
 
-        response = requests.post(self.server_url, data=data)
+            response = requests.post(self.server_url, data=data)
 
-        if response.status_code == 200:
-            response_str = response.content.decode('utf-8')
-            response_dict = json.loads(response_str)
+            if response.status_code == 200:
+                try:
+                    response_str = response.content.decode('utf-8')
+                    response_dict = json.loads(response_str)
 
-            self.get_logger().info('Response: {}'.format(response_dict['text']))
-            self.get_logger().info('JSON: {}'.format(json.loads(response_dict['json'])))
-        else:
-            self.get_logger().error('Error: {}'.format(response.status_code))
+                    self.get_logger().info('Response: {}'.format(response_dict['text']))
+                    self.get_logger().info('JSON: {}'.format(json.loads(response_dict['json'])))
+                except Exception as e:
+                    print('[Exception] An unexpected error occurred:', str(e)) 
+            else:
+                self.get_logger().error('Error: {}'.format(response.status_code))
 
 
 def main(args=None):
