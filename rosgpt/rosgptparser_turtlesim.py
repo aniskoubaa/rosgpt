@@ -116,7 +116,7 @@ class TurtlesimController(Node):
 
         start_pose = copy.copy(self.pose)
 
-        #self.move_executor.add_node(self)
+        #self.move_executor.add_node(self)#
 
         while self.get_distance(start_pose, self.pose) < distance:
             #print('start_pose', start_pose, 'self.pose', self.pose, 'moved_distance: ', self.get_distance(start_pose, self.pose))
