@@ -119,15 +119,15 @@ class TurtlesimController(Node):
         #self.move_executor.add_node(self)
 
         while self.get_distance(start_pose, self.pose) < distance:
-            print('start_pose', start_pose, 'self.pose', self.pose, 'moved_distance: ', self.get_distance(start_pose, self.pose))
-            print('self.get_distance (start_pose, self.pose)<distance: ', self.get_distance(start_pose, self.pose) < distance)
-
+            #print('start_pose', start_pose, 'self.pose', self.pose, 'moved_distance: ', self.get_distance(start_pose, self.pose))
+            #print('self.get_distance (start_pose, self.pose)<distance: ', self.get_distance(start_pose, self.pose) < distance)
+            print('distance moved: ', self.get_distance(start_pose, self.pose))
             self.velocity_publisher.publish(twist_msg)
             self.move_executor.spin_once(timeout_sec=0.1)
 
         twist_msg.linear.x = 0.0
         self.velocity_publisher.publish(twist_msg)
-        print('start_pose', start_pose, 'self.pose', self.pose, 'distance: ', self.get_distance(start_pose, self.pose))
+        print('distance moved: ', self.get_distance(start_pose, self.pose))
         print('The Robot has stopped...')
 
         #self.move_executor.remove_node(self)
@@ -166,7 +166,7 @@ class TurtlesimController(Node):
             
             #rclpy.spin_once(self)
             time.sleep(0.01)
-        print ('rotated_related_angle_degree', rotated_related_angle_degree, 'desired_relative_angle_degree', desired_relative_angle_degree)
+        #print ('rotated_related_angle_degree', rotated_related_angle_degree, 'desired_relative_angle_degree', desired_relative_angle_degree)
         twist_msg.angular.z = 0.0
         self.velocity_publisher.publish(twist_msg)
         print('The Robot has stopped...')
