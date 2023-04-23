@@ -99,7 +99,7 @@ class TurtlesimController(Node):
     def get_distance(self,start, destination):
         return math.sqrt(((destination.x-start.x)**2 + (destination.y-start.y)**2))
     
-    def move(self, linear_speed, distance, is_forward):
+    def move(self, linear_speed, distance, is_forward): 
         if is_forward:
             direction = 'forward'
         else:
