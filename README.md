@@ -8,7 +8,7 @@ ROSGPT is a pioneering approach that combines the power of ChatGPT and ROS (Robo
 
 **Author**: Anis Koubaa
 
-**Citation**: Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS. Preprints.org, 2023, 2023040827. [https://doi.org/10.20944/preprints202304.0827.v2](https://doi.org/10.20944/preprints202304.0827.v2)
+**Citation**: Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS. Preprints.org, 2023, 2023040827. [[https://doi.org/10.20944/preprints202304.0827.v2](https://www.preprints.org/manuscript/202304.0827/v2)](https://www.preprints.org/manuscript/202304.0827/v2)
 
 
 **BibTeX Citation**:
