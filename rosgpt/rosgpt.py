@@ -6,14 +6,7 @@
 #
 # This work is licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 # International Public License. See https://creativecommons.org/licenses/by-nc-sa/4.0/ for details.
-# ================================================== DESCRIPTION ==============================================
-# This code implements a ROS2 node for a Turtlesim robot with methods to move, rotate, and go to a specified goal. 
-#It also subscribes to a '/voice_cmd' topic of type String, which expects messages in the form of a JSON serialized command. 
-#The node extracts the parameters from the received message and executes the corresponding method with default values if any parameters are missing. 
-#The implementation also includes a Flask REST API and a web application that communicates with the ROS2 node using the API. 
-#The node uses the OpenAI GPT-3 model to process natural language commands and generate responses. 
-#The implementation also includes a Text-to-Speech engine using the pyttsx3 library for audible communication of text messages. 
-# ==============================================================================================================================
+
 import os
 import json
 import openai

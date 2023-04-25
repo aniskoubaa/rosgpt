@@ -16,6 +16,12 @@ This video shows a brief demonstration on how to get started with ROSGPT.
 [![ROSGPT VIDEO DEMO](https://img.youtube.com/vi/urkQD-hB5Hg/0.jpg)](https://www.youtube.com/watch?v=urkQD-hB5Hg)
 
 
+## About ROSGPT ROS2 Package
+
+The ROSGPT ROS2 package contains the following scripts:
+- `rosgpt.py`: 
+
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, share, and adapt this material for non-commercial purposes, as long as you provide attribution to the original author(s) and the source.

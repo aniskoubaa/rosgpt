@@ -6,6 +6,7 @@
 #
 # This work is licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 # International Public License. See https://creativecommons.org/licenses/by-nc-sa/4.0/ for details.
+
 import rclpy
 import json
 import threading

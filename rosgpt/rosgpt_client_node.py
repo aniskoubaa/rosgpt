@@ -6,14 +6,7 @@
 #
 # This work is licensed under the terms of the Creative Commons Attribution-NonCommercial-ShareAlike 4.0
 # International Public License. See https://creativecommons.org/licenses/by-nc-sa/4.0/ for details.
-# ================================================== DESCRIPTION ===============================================================
-#This code defines a ROS (Robot Operating System) client node that sends text commands to the ROSGPT system, 
-# which is a natural language processing system based on the GPT (Generative Pre-trained Transformer) model. 
-#The ROSGPT system processes the text command using the ChatGPT language model and returns a response that is printed to the console. 
-#The ROSGPTClient class is defined as a subclass of the Node class.
-#The client node uses the requests library to send HTTP requests to the ROSGPT server and receive responses. 
-#The ROS2 spin() function is called to run the ROSGPT client node.
-#=============================================================================================================================
+
 import json
 import rclpy
 from rclpy.node import Node
