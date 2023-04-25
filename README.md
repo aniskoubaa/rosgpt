@@ -5,9 +5,18 @@ The package uses ChatGPT to converte unstructured human commands into structured
 
 ## Reference Paper
 
-Anis Koubaa. "ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS"
-Preprints.org 2023, 2023040827. 
-https://doi.org/10.20944/preprints202304.0827.v2.
+# ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS
+
+[![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202304.0827.v2-blue)](https://doi.org/10.20944/preprints202304.0827.v2)
+
+**Author**: Anis Koubaa
+
+**Citation**: Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS. Preprints.org, 2023, 2023040827. [https://doi.org/10.20944/preprints202304.0827.v2](https://doi.org/10.20944/preprints202304.0827.v2)
+
+## Overview
+
+ROSGPT is a pioneering approach that combines the power of ChatGPT and ROS (Robot Operating System) to redefine human-robot interaction. By leveraging large language models like ChatGPT, ROSGPT enables the conversion of unstructured human language into actionable robotic commands. This repository contains the implementation of ROSGPT, allowing developers to explore and contribute to the project.
+
 
 ## Video Demo
 
