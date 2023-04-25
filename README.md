@@ -50,8 +50,6 @@ The ROSGPT ROS2 package includes a collection of scripts that work together to p
 
 ## Environment Setup
 
-## Environment Setup
-
 This ROS 2 package was tested using ROS 2 Humble with Ubuntu 22.04. It should also work with ROS 2 Foxy and other ROS 2 versions. 
 You need to install the following dependencies:
 
