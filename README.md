@@ -48,7 +48,22 @@ The ROSGPT ROS2 package includes a collection of scripts that work together to p
 
 - **rosgptparser_tb3_nav.py**: This script also implements the ROSGPTParser, subscribing to the `/voice_cmd` topic and receiving JSON commands. The JSON commands are parsed and transformed into navigation goal tasks for the Turtlebot3 robot.
 
+## Environment Setup
 
+## Environment Setup
+
+This ROS 2 package was tested using ROS 2 Humble with Ubuntu 22.04. It should also work with ROS 2 Foxy and other ROS 2 versions. 
+You need to install the following dependencies:
+
+- Add your OpenAI API Key in your `.bashrc` as an environment variable
+   ```bash
+   echo 'export OPENAI_API_KEY=your_api_key' >> ~/.bashrc
+
+- Install the dependencies required for the text-to-speech functionality
+   ```bash
+   sudo apt-get install libespeak1
+   pip3 install pyttsx3
+   ```
 
 ## License
 
