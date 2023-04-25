@@ -1,28 +1,34 @@
 # ROSGPT: ChatGPT Interface for ROS2 for Human-Robot Interaction
 
-ROSGPT is a ROS2 2 package that enables humans to send natural language commands to a robot. 
-The package uses ChatGPT to converte unstructured human commands into structured JSON commands, which will be Parsed by the ROSGPTParser to execute the corresponding task. 
+ROSGPT is a pioneering approach that combines the power of ChatGPT and ROS (Robot Operating System) to redefine human-robot interaction. By leveraging large language models like ChatGPT, ROSGPT enables the conversion of unstructured human language into actionable robotic commands. This repository contains the implementation of ROSGPT, allowing developers to explore and contribute to the project.
 
 ## Reference Paper
-
-# ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS
-
 [![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202304.0827.v2-blue)](https://doi.org/10.20944/preprints202304.0827.v2)
 
 **Author**: Anis Koubaa
 
 **Citation**: Koubaa, A. (2023). ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS. Preprints.org, 2023, 2023040827. [https://doi.org/10.20944/preprints202304.0827.v2](https://doi.org/10.20944/preprints202304.0827.v2)
 
-## Overview
+**BibTeX Citation**:
 
-ROSGPT is a pioneering approach that combines the power of ChatGPT and ROS (Robot Operating System) to redefine human-robot interaction. By leveraging large language models like ChatGPT, ROSGPT enables the conversion of unstructured human language into actionable robotic commands. This repository contains the implementation of ROSGPT, allowing developers to explore and contribute to the project.
+```bibtex
+@article{koubaa2023rosgpt,
+  title={ROSGPT: Next-Generation Human-Robot Interaction with ChatGPT and ROS},
+  author={Koubaa, Anis},
+  journal={Preprints.org},
+  year={2023},
+  volume={2023},
+  pages={2023040827},
+  doi={10.20944/preprints202304.0827.v2}
+}
+```
 
 
 ## Video Demo
 
-This video shows a brief demonstration on how to get started with ROSGPT. 
+Explore ROSGPT in action with this video demonstration, showcasing the process of getting started and the capabilities of the system.
 
-[![ROSGPT VIDEO DEMO](https://img.youtube.com/vi/urkQD-hB5Hg/0.jpg)](https://www.youtube.com/watch?v=urkQD-hB5Hg)
+[![ROSGPT Video Demonstration](https://img.youtube.com/vi/urkQD-hB5Hg/0.jpg)](https://www.youtube.com/watch?v=urkQD-hB5Hg)
 
 
 ## ROSGPT ROS2 Package Description 
