@@ -1,0 +1,66 @@
+/* Override Materialize default button color to use Material-UI blue color */
+.btn,
+.btn-large {
+background-color: #007bff;
+}
+
+/* Style the buttons */
+.btn {
+color: white;
+margin-right: 1rem;
+}
+
+.btn-large {
+display: flex;
+align-items: center;
+justify-content: center;
+width: 100%;
+margin-bottom: 1rem;
+}
+
+.disclaimer {
+  background-color: #ffc107;
+  color: #212529;
+  padding: 10px;
+  text-align: center;
+  font-size: 14px;
+}
+
+
+/* Style the icons */
+.material-icons {
+font-size: 1.5rem;
+margin-right: 0.5rem;
+}
+
+/* Style the container and text */
+.container {
+max-width: 800px;
+margin: auto;
+text-align: center;
+}
+
+h1 {
+margin-top: 1rem;
+margin-bottom: 0.5rem;
+}
+
+p {
+margin-top: 0;
+margin-bottom: 1rem;
+}
+
+#output {
+border: 1px solid #ccc;
+padding: 1rem;
+min-height: 100px;
+max-height: 200px;
+overflow: auto;
+margin-bottom: 1rem;
+text-align: left;
+}
+
+#output p {
+margin: 0;
+font-size: 1.2rem;
+}
