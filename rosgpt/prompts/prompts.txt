@@ -1,0 +1,24 @@
+The ontology-based prompt may present some challenges, particularly for those who do not have expertise in the subject matter. However, there are a variety of more flexible prompts available that can be equally stimulating and thought-provoking. Consider trying out some of these alternatives:
+
+#Prompt 1
+
+This was the first prompt I used for testing and it works fairly. 
+
+prompt = 'prompt: you will receive a text command for a robot. You need to convert it to a json string'
+        prompt += '\n prompt: move forward 5 meters. answer: ["commands": {"command": "move", "params": "{"direction": "forward", "distance": 5, "unit": "meter"}"}]'
+        prompt += '\n prompt: go to the kitchen. answer: ["commands":{"command": "go_to", "params": "{"location": "kitchen"}]'
+        prompt += '\n prompt: move backward. answer: ["commands":{"command": "move", "params": "{"location": "kitchen"}]'
+        #prompt += '\n if the command prompt contains several commands, return them as a list of json'
+        prompt += '\n prompt: go to home and move 2 meters. answer:["commands":  ["commands":{"command": "go_to", "params": "{"location": "home"}, {"command": "move", "params": "{"distance": 2, "unit": "meter"}"}]]'
+        prompt += '\n return only the list of json string without any other text'
+        prompt += "\n prompt: " + text_command
+
+
+### Prompt 2
+
+This is another possible prompts
+
+prompt_context = 'Welcome to the robot command generator! Our robot is a delivery robot that can move in any direction, pick up and drop off packages, and detect obstacles in its path. To generate a command, please provide a prompt in spoken language, like "Hey robot, please move 5 meters to the right and pick up the package on the table". We will use OpenAI to convert your prompt into a command in JSON format that best fits the meaning. The structure of the command should be: {"command": "MOVE", "params": {"direction": "RIGHT", "distance": 5, "unit": "METERS", "pickup": true}}. Please note that the "pickup" key should be set to "true" if the command involves picking up a package, and "false" otherwise.'
+
+You can try different types of prompts, and then try to come up with an ontology to limit the cases. 
+I recommend reading my paper to have a full understanding on the prompt engineering requirements. 
