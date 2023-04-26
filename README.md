@@ -63,6 +63,14 @@ You need to install the following dependencies:
    pip3 install pyttsx3
    ```
 
+## ROS1 Support
+
+ROS1 is an earlier version of the Robot Operating System (ROS), which is still widely used in many robotics applications. While ROSGPT was originally developed for ROS 2 Humble on Ubuntu 22.04, we recognize the importance of supporting ROS1 as well.
+
+To use ROSGPT with ROS1, you will need to modify the ROS 2 code in the scripts to the corresponding ROS 1 code. We are actively working on developing this functionality, but it is still a work-in-progress.
+
+If you have already developed an extension to enable ROSGPT to work with ROS1, we would love to hear from you! Please create a pull request in a new branch and we will review it for inclusion in the ROSGPT repository. 
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, share, and adapt this material for non-commercial purposes, as long as you provide attribution to the original author(s) and the source.
