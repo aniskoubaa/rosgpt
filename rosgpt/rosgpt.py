@@ -21,6 +21,8 @@ import pyttsx3  # pip install pyttsx3 #you need to install libespeak1 on Ubuntu 
 from rclpy.executors import SingleThreadedExecutor
 import subprocess
 
+from ament_index_python import get_package_share_directory
+
 # Instantiate a Flask application object with the given name
 app = Flask(__name__)
 
@@ -234,7 +236,7 @@ class ROSGPTProxy(Resource):
 @app.route('/')
 def index():
     #print(os.path.join(app.root_path, 'webapp'))
-    return send_from_directory(os.path.join(app.root_path, 'webapp'), 'index.html')
+    return send_from_directory(os.path.join(get_package_share_directory('rosgpt'), 'webapp'), 'index.html')
 
 
 def main():
@@ -246,6 +248,3 @@ def main():
 
 if __name__ == '__main__':
     main()
-
-
-
