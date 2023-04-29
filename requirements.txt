@@ -1,0 +1,5 @@
+openai
+flask
+flask_restful
+flask_cors
+pyttsx3
