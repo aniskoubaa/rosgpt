@@ -176,14 +176,14 @@ The main goal of this project is to illustrate how natural language instructions
 
 **BibTeX Citation**:
 
-@article{koubaa2024next,
+```@article{koubaa2024next,
   title={Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System},
   author={Koubaa, Anis and Ammar, Adel and Boulila, Wadii},
   journal={Software: Practice and Experience},
   year={2024},
   month={September},
   doi={10.1002/spe.3377}
-}
+}```
 
 
 ## License
