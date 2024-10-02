@@ -1,0 +1,1002 @@
+Ascend to an altitude of 500 feet.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Increase the elevation to a height of 500 feet.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Climb to a height of 500 feet above ground.,No JSON
+Reach an altitude of 500 feet above sea level.,No JSON
+Ascend to a height of 500 feet in the air.,No JSON
+Fly forward for 1 mile at a speed of 40 mph.,No JSON
+Proceed straight at a velocity of 40 miles per hour for a distance of 1 mile.,No JSON
+Travel in a straight line for 1 mile, maintaining a speed of 40 mph.,No JSON
+Move forward for a distance of 1 mile, traveling at a speed of 40 mph.,No JSON
+Cover a distance of 1 mile by flying forward at a velocity of 40 mph.,No JSON
+Hover in place for 10 minutes.,No JSON
+Stay still for a duration of 10 minutes.,No JSON
+Maintain a hovering position for the next 10 minutes.,No JSON
+Remain suspended in one spot for a period of 10 minutes.,No JSON
+Hold a stationary hover for the next 10 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 20 degrees per second.,No JSON
+Rotate at a speed of 20 degrees per second in a clockwise direction by 180 degrees.,No JSON
+With an angular speed of 20 degrees per second, rotate clockwise to make a 180-degree turn.,No JSON
+Perform a 180-degree clockwise rotation at a rate of 20 degrees per second.,No JSON
+Rotate in a clockwise direction at an angular velocity of 20 degrees per second, covering a total rotation of 180 degrees.,No JSON
+Land at the designated landing zone.,No JSON
+Please ensure you touch down safely at the specified landing area.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is essential that you land at the designated land zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Make sure you reach the assigned landing zone for landing.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 80,    "direction": {    "type": "str",      "value": "north"  },    "duration": 15,
+Ensure your landing takes place at the specified landing area.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Decrease your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Lower yourself to an altitude of 200 meters.,No JSON
+Descend until you reach an altitude of 200 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 200,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Bring your altitude down to 200 meters.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Fly forward for 3 kilometers at a speed of 80 km/h.,No JSON
+Proceed in the forward direction for a distance of 3 kilometers, maintaining a speed of 80 km/h.,No JSON
+Travel straight ahead for 3 kilometers, with a velocity of 80 km/h.,No JSON
+Move ahead for a distance of 3 kilometers, maintaining a speed of 80 km/h.,No JSON
+Fly in a straight line, covering a distance of 3 kilometers, at a speed of 80 km/h.,No JSON
+Hover in place for 15 minutes.,No JSON
+Stay stationary for a duration of 15 minutes.,No JSON
+Maintain a hovering position for a period of 15 minutes.,No JSON
+Remain suspended in one place for 15 minutes.,No JSON
+Hold in mid-air without moving for 15 minutes.,No JSON
+Rotate counterclockwise by 45 degrees at an angular speed of 10 degrees per second.,No JSON
+Turn left at a rate of 10 degrees per second for a duration of 45 degrees.,No JSON
+Perform a counterclockwise rotation of 45 degrees with an angular velocity of 10 degrees per second.,No JSON
+Rotate anticlockwise with an angular speed of 10 degrees per second for 45 degrees.,No JSON
+Execute a 45-degree counterclockwise rotation, with each second corresponding to a 10-degree turn.,No JSON
+Land at the designated landing zone.,No JSON
+Please arrive at the pre-assigned landing area.,No JSON
+Make your way to the specified landing zone.,No JSON
+Ensure you land at the designated landing spot.,No JSON
+Please touch down at the designated landing area.,No JSON
+Ascend to an altitude of 1000 feet.,No JSON
+Climb to a height of 1000 feet.,No JSON
+Reach an elevation of 1000 feet.,No JSON
+Go up to an altitude of 1000 feet.,No JSON
+Achieve a height of 1000 feet.,No JSON
+Fly forward for 2 miles at a speed of 45 mph.,No JSON
+Proceed straight ahead for a distance of 2 miles, maintaining a speed of 45 mph.,No JSON
+Cover a distance of 2 miles by flying in a straight line, maintaining a speed of 45 mph.,No JSON
+Fly ahead for 2 miles while moving at a speed of 45 mph.,No JSON
+Maintain a speed of 45 mph while flying forward for a distance of 2 miles.,No JSON
+Hover in place for 20 minutes.,No JSON
+Remain stationary for a period of 20 minutes.,No JSON
+Stay suspended in one spot for a duration of 20 minutes.,No JSON
+Keep still for 20 minutes while floating in the air.,No JSON
+Hold position for 20 minutes without moving.,No JSON
+Rotate clockwise by 270 degrees at an angular speed of 15 degrees per second.,No JSON
+Rotate 270 degrees in a clockwise direction with a speed of 15 degrees per second.,No JSON
+Execute a clockwise rotation of 270 degrees at a rate of 15 degrees per second.,No JSON
+Perform a rotation in the clockwise direction, turning 270 degrees with an angular speed of 15 degrees per second.,No JSON
+Turn by 270 degrees in a clockwise manner while maintaining an angular velocity of 15 degrees per second.,No JSON
+Land at the designated landing zone.,No JSON
+Please make a landing at the specified landing zone.,No JSON
+Ensure that you land at the assigned landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is necessary for you to touch down at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+The instruction is to land specifically at the assigned landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 300 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Lower your altitude to 300 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 300)"  }}}
+Move down to an altitude of 300 meters.,No JSON
+Deescalate to a height of 300 meters.,No JSON
+Descend until you reach an altitude of 300 meters.,No JSON
+Fly forward for 4 kilometers at a speed of 70 km/h.,No JSON
+Proceed straight ahead for a distance of 4 kilometers, maintaining a speed of 70 kilometers per hour.,No JSON
+Travel in a forward direction for a total of 4 kilometers, at a constant velocity of 70 kilometers per hour.,No JSON
+Cover a distance of 4 kilometers by flying forward, while maintaining a speed of 70 kilometers per hour.,No JSON
+Fly in a straight line for a distance of 4 kilometers, with a velocity of 70 kilometers per hour.,No JSON
+Hover in place for 25 minutes.,No JSON
+Stay suspended in one spot for a duration of 25 minutes.,No JSON
+Remain airborne without moving for a period of 25 minutes.,No JSON
+Levitate motionlessly for 25 minutes.,No JSON
+Hold position without any movement for 25 minutes.,No JSON
+Rotate counterclockwise by 135 degrees at an angular speed of 25 degrees per second.,No JSON
+Perform a counterclockwise rotation of 135 degrees with an angular velocity of 25 degrees per second.,No JSON
+Turn left by 135 degrees with an angular speed of 25 degrees per second.,No JSON
+Rotate anticlockwise by 135 degrees at a rate of 25 degrees per second.,No JSON
+Execute a 135-degree counterclockwise rotation at a speed of 25 degrees every second.,No JSON
+Land at the designated landing zone.,No JSON
+Please ensure you land at the specified landing area.,No JSON
+Your objective is to touch down at the designated landing zone.,No JSON
+You are required to land at the assigned landing zone.,No JSON
+Make sure you reach the designated landing area safely.,No JSON
+Ascend to an altitude of 1500 feet.,No JSON
+Increase your altitude to 1500 feet.,No JSON
+Climb up to a height of 1500 feet.,No JSON
+Reach an elevation of 1500 feet.,No JSON
+Scale to a height of 1500 feet.,No JSON
+Fly forward for 5 miles at a speed of 50 mph.,No JSON
+Proceed straight ahead at a velocity of 50 mph for a distance of 5 miles.,No JSON
+Travel in a forward direction, maintaining a speed of 50 mph, for a total distance of 5 miles.,No JSON
+Move ahead for a distance of 5 miles, maintaining a speed of 50 mph.,No JSON
+Cover a distance of 5 miles by flying straight ahead at a speed of 50 mph.,No JSON
+Hover in place for 30 minutes.,No JSON
+Stay in one spot for a duration of 30 minutes.,No JSON
+Maintain a fixed position for the next half an hour.,No JSON
+Remain suspended in mid-air for the next 30 minutes.,No JSON
+Hold still for a period of 30 minutes.,No JSON
+Rotate clockwise by 360 degrees at an angular speed of 30 degrees per second.,No JSON
+1) Turn to the right in a full circle, completing a rotation of 360 degrees at a rate of 30 degrees per second.,No JSON
+2) Rotate in a clockwise direction, making a complete 360-degree revolution while moving at a speed of 30 degrees per second.,No JSON
+3) Perform a clockwise rotation for a total of 360 degrees, with an angular velocity of 30 degrees per second.,No JSON
+4) Spin to the right, completing a full 360-degree turn at a rate of 30 degrees per second.,No JSON
+Land at the designated landing zone.,No JSON
+Please make your way to the designated landing zone and touch down.,No JSON
+The designated landing zone is where you should aim to touch down.,No JSON
+You are required to land at the specific landing zone as indicated.,No JSON
+Ensure that you come to a safe landing at the designated landing zone.,No JSON
+Descend to an altitude of 400 meters.,No JSON
+Decrease your altitude to 400 meters.,No JSON
+Lower yourself to an altitude of 400 meters.,No JSON
+Go down to an altitude of 400 meters.,No JSON
+Descend until you reach an altitude of 400 meters.,No JSON
+Fly forward for 6 kilometers at a speed of 60 km/h.,No JSON
+Proceed straight ahead for a distance of 6 kilometers, maintaining a speed of 60 km/h.,No JSON
+Maintain a speed of 60 km/h and cover a distance of 6 kilometers by flying forward.,No JSON
+Fly straight ahead at 60 km/h for a distance of 6 kilometers.,No JSON
+Keep a consistent speed of 60 km/h and fly forwards for a distance of 6 kilometers.,No JSON
+Hover in place for 35 minutes.,No JSON
+Stay suspended in mid-air for a duration of 35 minutes.,No JSON
+Maintain a fixed position in the air for the next 35 minutes.,No JSON
+Remain stationary in the same spot for a period of 35 minutes.,No JSON
+Keep yourself suspended without moving for the next 35 minutes.,No JSON
+Rotate counterclockwise by 180 degrees at an angular speed of 35 degrees per second.,No JSON
+Turn in the opposite direction at a rate of 35 degrees per second for a total rotation of 180 degrees counterclockwise.,No JSON
+Perform a 180-degree counterclockwise rotation at a speed of 35 degrees per second.,No JSON
+Rotate with an angular velocity of 35 degrees per second in a counterclockwise direction for a total rotation of 180 degrees.,No JSON
+Execute a counterclockwise rotation of 180 degrees at a rate of 35 degrees per second.,No JSON
+Land at the designated landing zone.,No JSON
+Please make a landing at the specified landing zone.,No JSON
+Ensure a safe landing at the assigned landing area.,No JSON
+You are instructed to touch down at the designated landing zone.,No JSON
+It is requested that you land at the predetermined landing zone.,No JSON
+Ascend to an altitude of 2000 feet.,No JSON
+Increase your elevation to a height of 2000 feet.,No JSON
+Reach a height of 2000 feet above the ground level.,No JSON
+Climb to an altitude of 2000 feet.,No JSON
+Ascend to a height of 2000 feet above sea level.,No JSON
+Fly forward for 7 miles at a speed of 55 mph.,No JSON
+Proceed in a forward direction covering a distance of 7 miles, maintaining a speed of 55 miles per hour.,No JSON
+Travel straight ahead for a total distance of 7 miles, ensuring a constant speed of 55 mph.,No JSON
+Move in a forward direction, covering a distance of 7 miles, with a steady speed of 55 miles per hour.,No JSON
+Ascend ahead for 7 miles, maintaining a velocity of 55 mph.,No JSON
+Hover in place for 40 minutes.,No JSON
+Stay in one position for a duration of 40 minutes.,No JSON
+Remain suspended in the air without moving for a total of 40 minutes.,No JSON
+Maintain a hovering position for the next 40 minutes.,No JSON
+Levitate and hold your position for a period of 40 minutes.,No JSON
+Rotate clockwise by 90 degrees at an angular speed of 40 degrees per second.,No JSON
+Please rotate in a clockwise direction at a speed of 40 degrees per second for 90 degrees.,No JSON
+Rotate 90 degrees in a clockwise direction at an angular speed of 40 degrees per second.,No JSON
+Turn right by 90 degrees with an angular speed of 40 degrees per second.,No JSON
+Rotate at a rate of 40 degrees per second in a clockwise direction, completing a 90 degree rotation.,No JSON
+Land at the designated landing zone.,No JSON
+Please touch down at the assigned landing area.,No JSON
+Ensure that you arrive at the specified landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Make sure to land at the designated touchdown point.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is required that you land at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Lower yourself to a height of 500 meters.,No JSON
+Decrease your altitude to 500 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 500)"  }}}
+Go down to an altitude of 500 meters.,No JSON
+Reduce your height to 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Fly forward for 8 kilometers at a speed of 65 km/h.,No JSON
+Proceed ahead for a distance of 8 kilometers, maintaining a speed of 65 km/h.,No JSON
+Cover a distance of 8 kilometers by flying straight ahead at a velocity of 65 km/h.,No JSON
+Maintain a speed of 65 km/h and travel in a straight line for a distance of 8 kilometers.,No JSON
+Fly straight ahead for a total of 8 kilometers, ensuring you maintain a speed of 65 km/h.,No JSON
+Hover in place for 45 minutes.,No JSON
+Stay suspended in position for a duration of 45 minutes.,No JSON
+Remain airborne without moving for a period of 45 minutes.,No JSON
+Keep yourself elevated without any movement for a span of 45 minutes.,No JSON
+Suspend yourself in mid-air for a time frame of 45 minutes without shifting position.,No JSON
+Rotate counterclockwise by 270 degrees at an angular speed of 45 degrees per second.,No JSON
+Rotate in the anticlockwise direction by 270 degrees with an angular velocity of 45 degrees per second.,No JSON
+Perform a counterclockwise rotation of 270 degrees, with an angular speed of 45 degrees per second.,No JSON
+Turn left by 270 degrees at a rate of 45 degrees per second, in the counterclockwise direction.,No JSON
+Execute a rotation in the anticlockwise direction, covering 270 degrees, at a speed of 45 degrees per second.,No JSON
+Land at the designated landing zone.,No JSON
+Please proceed to land at the specified landing zone.,No JSON
+Make your way to the indicated landing zone and prepare for landing.,No JSON
+Follow the instructions and land at the designated landing zone.,No JSON
+It is required that you land at the assigned landing zone.,No JSON
+Ascend to an altitude of 2500 feet.,No JSON
+Climb to a height of 2500 feet.,No JSON
+Reach an elevation of 2500 feet.,No JSON
+Scale to an altitude of 2500 feet.,No JSON
+Increase your height to 2500 feet.,No JSON
+Fly forward for 9 miles at a speed of 50 mph.,No JSON
+Proceed straight for a distance of 9 miles, maintaining a speed of 50 mph.,No JSON
+Cover a distance of 9 miles by flying forward at a speed of 50 mph.,No JSON
+Maintain a speed of 50 mph while traveling straight ahead for 9 miles.,No JSON
+Fly in a forward direction at a speed of 50 mph, covering a distance of 9 miles.,No JSON
+Hover in place for 50 minutes.,No JSON
+Stay still for a duration of 50 minutes.,No JSON
+Maintain a stationary position for 50 minutes.,No JSON
+Remain in one spot for a period of 50 minutes.,No JSON
+Hold steady for 50 minutes without moving.,No JSON
+Rotate clockwise by 135 degrees at an angular speed of 50 degrees per second.,No JSON
+Turn 135 degrees to the right at a rate of 50 degrees per second.,No JSON
+Rotate 135 degrees in a clockwise direction at a speed of 50 degrees per second.,No JSON
+Perform a clockwise rotation of 135 degrees at an angular velocity of 50 degrees per second.,No JSON
+Rotate in a clockwise direction, completing a 135-degree turn at a speed of 50 degrees per second.,No JSON
+Land at the designated landing zone.,No JSON
+Please touch down at the specified landing area.,No JSON
+Descend and touch base at the assigned landing zone.,No JSON
+Make your approach and touch ground at the designated landing site.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Please bring the aircraft to a stop at the approved landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 600 meters and swin.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 600,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Swim after descending to an altitude of 600 meters.,No JSON
+Dive down to a depth of 600 meters and start swimming.,No JSON
+Lower yourself to an altitude of 600 meters and begin swimming.,No JSON
+Drop down to a height of 600 meters and begin your swim.,No JSON
+Turn left at a 45-degree angle and fly straight for 500 meters.,No JSON
+Make a 45-degree turn to the left and continue flying straight for a distance of 500 meters.,No JSON
+Take a left turn at a 45-degree angle and proceed straight for 500 meters.,No JSON
+Rotate to the left at a 45-degree angle and maintain a straight flight for 500 meters.,No JSON
+Head in a leftward direction, turning at a 45-degree angle, and keep flying straight for a distance of 500 meters.,No JSON
+Ascend to an altitude of 1000 feet and maintain position for 10 minutes.,No JSON
+Climb to a height of 1000 feet and stay in that position for 10 minutes.,No JSON
+Rise up to an elevation of 1000 feet and hold that position for a duration of 10 minutes.,No JSON
+Increase your altitude to 1000 feet and remain at that level for 10 minutes.,No JSON
+Go up to a height of 1000 feet and keep your position steady for 10 minutes.,No JSON
+Perform a vertical climb to 200 meters at a speed of 10 meters per second.,No JSON
+Ascend vertically at a rate of 10 meters per second until reaching an altitude of 200 meters.,No JSON
+Execute a vertical ascent, maintaining a velocity of 10 meters per second, until reaching an elevation of 200 meters.,No JSON
+Carry out a climb in a vertical direction, increasing the altitude at a speed of 10 meters per second until it reaches 200 meters.,No JSON
+Engage in a vertical ascent, maintaining a speed of 10 meters per second, until reaching a height of 200 meters.,No JSON
+Fly around in a circular pattern with a radius of 100 meters for 15 minutes.,No JSON
+Circle around with a 100-meter radius for a duration of 15 minutes.,No JSON
+Execute a 15-minute flight in a circular pattern, maintaining a 100-meter radius.,No JSON
+Perform a circular flight with a radius of 100 meters, lasting for 15 minutes.,No JSON
+Fly in a circular trajectory with a 100-meter radius, continuously for 15 minutes.,No JSON
+Hover in place and capture aerial photographs of the surrounding area.,No JSON
+Stay suspended and take aerial photographs of the nearby area.,No JSON
+Maintain a stationary position and capture aerial photographs of the surrounding area.,No JSON
+Levitate and snap aerial photographs of the surrounding area.,No JSON
+Remain still and capture overhead photographs of the nearby area.,No JSON
+Descend to an altitude of 50 meters and fly at a speed of 80 km/h for 20 minutes.,No JSON
+Please decrease your altitude to 50 meters and maintain a speed of 80 km/h for the next 20 minutes.,No JSON
+Begin descending to an altitude of 50 meters and maintain a speed of 80 km/h for the next 20 minutes.,No JSON
+Adjust your altitude to 50 meters and maintain a speed of 80 km/h for the next 20 minutes.,No JSON
+Reduce your altitude to 50 meters and continue flying at a speed of 80 km/h for the next 20 minutes.,No JSON
+Perform a series of rapid maneuvers, including rolls and loops, for a duration of 5 minutes.,No JSON
+Execute a sequence of swift actions involving rolls and loops continuously for a span of 5 minutes.,No JSON
+Carry out a set of quick maneuvers, including rolls and loops, lasting for 5 minutes.,No JSON
+Engage in a succession of fast movements, such as rolls and loops, for a period of 5 minutes.,No JSON
+Conduct a series of rapid actions, comprising of rolls and loops, for a duration of 5 minutes.,No JSON
+Fly forward for 1 kilometer at a speed of 40 km/h and then perform a quick stop.,No JSON
+Proceed ahead for a distance of 1 kilometer with a velocity of 40 km/h and subsequently execute an abrupt halt.,No JSON
+Move forward for 1 kilometer at a speed of 40 km/h and subsequently come to a rapid stop.,No JSON
+Ascend to an altitude of 500 meters and conduct a surveillance mission for 30 minutes.,No JSON
+Increase your altitude to 500 meters and carry out a 30-minute surveillance operation.,No JSON
+Rise to a height of 500 meters and undertake a surveillance mission lasting 30 minutes.,No JSON
+Scale up to an altitude of 500 meters and engage in a 30-minute surveillance endeavor.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 500,    "direction": {    "type": "str",      "value": "stationary"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Climb to a height of 500 meters and perform a surveillance task for a duration of 30 minutes.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Fly in a zigzag pattern at a velocity of 20 m/s for a distance of 3 kilometers.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Perform a zigzag flight pattern for a distance of 3 kilometers at a velocity of 20 m/s.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Cover the distance of 3 kilometers by flying in a zigzag pattern at a speed of 20 m/s.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Fly at a velocity of 20 m/s, covering a distance of 3 kilometers in a zigzag manner.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Execute a flight, maintaining a velocity of 20 m/s, while flying in a zigzag pattern for a distance of 3 kilometers.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Perform a 180-degree clockwise rotation at a rate of 45 degrees per second.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "minutes"}}
+Turn in a clockwise direction by 180 degrees with an angular velocity of 45 degrees per second.,No JSON
+Execute a 180-degree rotation in the clockwise direction, rotating at a speed of 45 degrees per second.,No JSON
+Rotate by 180 degrees in a clockwise manner, with an angular speed of 45 degrees per second.,No JSON
+Land at the designated landing zone and conduct a visual inspection of the UAV.,No JSON
+Please ensure that you land the UAV at the designated landing zone and proceed with a visual inspection.,{"action": "fly",  "params": {  "speed": 15.0,    "altitude": 80,    "direction": {    "type": "str",      "value": "north"  },   
+It is essential to touch down at the specified landing zone and carry out a thorough visual inspection of the UAV.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Follow the instructions to land the UAV at the designated landing zone and then proceed to visually inspect it.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Prioritize landing the UAV at the designated zone and then conduct a comprehensive visual inspection of its components.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }},  "action": "inspect",  "params": {  "type": "str",    "value": "comprehensive"}}
+Hover in place and release a payload at a specified drop zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }},  "action": "inspect",  "params": {  "type": "str",    "value": "comprehensive"}}
+Maintain a hovering position and deploy a payload at a designated release zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }},  "action": "inspect",  "params": {  "type": "str",    "value": "comprehensive"}}
+Stay suspended in one spot and discharge a payload at a predefined drop area.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0   },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "discharge_payload",  "params": {  "drop_area": {    "type": "tuple",      "value": "()"  }}}
+Remain in a stationary hover and release a payload at a specified dropzone.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0   },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "discharge_payload",  "params": {  "drop_area": {    "type": "tuple",      "value": "()"  }}}
+Hold position in mid-air and deliver a payload at a designated drop zone.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0   },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "discharge_payload",  "params": {  "drop_area": {    "type": "tuple",      "value": "()"  }}}
+Descend to an altitude of 100 feet and conduct a search and rescue mission for 1 hour.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 100,    "direction": {    "type": "str",      "value": "down"  },    "duration": 3600,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Initiate a search and rescue mission for 1 hour while descending to an altitude of 100 feet.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 100,    "direction": {    "type": "str",      "value": "down"  },    "duration": 3600,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Lower your altitude to 100 feet and engage in a search and rescue operation for 1 hour.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 100,    "direction": {    "type": "str",      "value": "down"  },    "duration": 3600,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Perform a search and rescue task for 1 hour after descending to an altitude of 100 feet.,No JSON
+Conduct a search and rescue operation for 1 hour, maintaining an altitude of 100 feet.,{"action": "search_and_rescue",  "params": {  "duration": {    "type": "float",      "value": 3600.0  },    "altitude": {    "type": "float",      "value": 100.0  },    "unit_duration": "seconds",    "unit_altitude": "feet"}}
+Perform a barrel roll maneuver at a high velocity of 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 100.0,    "angle": 360.0,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a barrel roll maneuver at a rapid speed of 100 km/h.,No JSON
+Carry out a barrel roll maneuver at a high rate of 100 km/h.,No JSON
+Conduct a barrel roll maneuver with considerable velocity, reaching 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 100.0,    "angle": 360,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a high-speed barrel roll maneuver, achieving a velocity of 100 km/h.,No JSON
+Fly forward for 500 meters and then execute a sharp turn to the right.,No JSON
+Proceed straight ahead for a distance of 500 meters, then execute a precise right turn.,No JSON
+Fly in a forward direction covering a distance of 500 meters, followed by a sudden turn to the right.,No JSON
+Move ahead for 500 meters and perform a quick right turn.,No JSON
+Travel straight for a distance of 500 meters before making a sharp right turn.,No JSON
+Ascend to an altitude of 1000 meters and maintain position for 5 minutes while collecting data.,No JSON
+Climb to a height of 1000 meters and stay in that position for 5 minutes, gathering data.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 300.0  },    "altitude": {    "type": "float",      "value": 1000.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Rise to an elevation of 1000 meters and remain stationary for 5 minutes to collect data.,No JSON
+Increase your altitude to 1000 meters and hold that position for 5 minutes, all the while gathering data.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 300.0  },    "altitude": {    "type": "float",      "value": 1000.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Move upwards until you reach an altitude of 1000 meters, then maintain that height for 5 minutes, collecting data.,No JSON
+Fly in a figure-eight pattern with a total distance of 2 kilometers.,No JSON
+Perform a flight maneuver in the shape of a figure-eight, covering a total distance of 2 kilometers.,No JSON
+Execute a flight path that resembles a figure-eight, spanning a distance of 2 kilometers in total.,No JSON
+Navigate through the air using a figure-eight trajectory, covering a combined distance of 2 kilometers.,No JSON
+Travel in a pattern resembling the number eight, flying a total distance of 2 kilometers.,No JSON
+Hover in place and initiate a search for a lost object on the ground.,No JSON
+Stay stationary and begin a search for a missing item on the ground.,No JSON
+Keep still and start looking for a lost object on the surface.,{"action": "fly", 
+Maintain a hovering position and commence a search for a misplaced item on the ground.,No JSON
+Suspend movement and initiate a search for a lost object on the floor.,No JSON
+Descend to ground level and perform a touch-and-go maneuver before landing at the designated spot.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"},  "action": "hover",  "params": {  "duration": {    "type": "float",      "value": 10.0  },    "altitude": {    "type
+Proceed to the ground level and execute a touch-and-go maneuver followed by landing at the designated spot.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Move downwards to the ground level and conduct a touch-and-go maneuver prior to landing at the specified location.,(37.7749, -122.4194)
+Descend to the surface level and execute a touch-and-go maneuver before touching down at the assigned spot.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Lower your altitude to ground level and perform a touch-and-go maneuver, then proceed to land at the designated spot.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+- Fly to waypoint A at a distance of 1 kilometer.,No JSON
+Proceed to waypoint A, located at a distance of 1 kilometer, by flying.,No JSON
+Utilize flight to reach waypoint A, which is situated 1 kilometer away.,No JSON
+Cover a distance of 1 kilometer by flying towards waypoint A.,No JSON
+Fly towards waypoint A, which is precisely 1 kilometer away.,No JSON
+- Descend to an altitude of 200 meters above ground level.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Reduce your altitude to 200 meters above the ground.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Go down until you reach an altitude of 200 meters above the ground.,No JSON
+Lower your altitude to 200 meters above the ground level.,No JSON
+Descend until you are flying at an altitude of 200 meters above the ground.,No JSON
+- Perform a vertical climb at a rate of 5 meters per second.,{"action": "rotate",  "params": {  "angular_velocity": 5.0,    "angle": 0,    "is_clockwise": true,    "unit": "degrees"}}
+Ascend vertically, maintaining a speed of 5 meters per second.,No JSON
+Execute a vertical ascent, moving at a pace of 5 meters per second.,No JSON
+Scale upwards in a straight line, advancing at a rate of 5 meters per second.,No JSON
+Carry out a vertical climb, sustaining a speed of 5 meters per second.,No JSON
+- Fly in a zigzag pattern for 10 minutes.,No JSON
+Perform a zigzag flight pattern for a duration of 10 minutes.,No JSON
+Fly in a serpentine motion for a period of 10 minutes.,No JSON
+Execute a back-and-forth flying motion for a duration of 10 minutes.,No JSON
+Soar in a crisscross pattern for a total of 10 minutes.,No JSON
+- Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,No JSON
+Rotate in the clockwise direction at a rate of 45 degrees per second for a total of 180 degrees.,No JSON
+Perform a clockwise rotation of 180 degrees at a speed of 45 degrees per second.,No JSON
+Turn in a clockwise direction, rotating 180 degrees at a rate of 45 degrees per second.,No JSON
+Rotate at a speed of 45 degrees per second in the clockwise direction, completing a 180-degree rotation.,No JSON
+- Fly forward at a speed of 30 km/h for 500 meters.,{"action": "fly",  "params": {  "speed": 30.0,    "altitude": null,    "direction": {    "type": "str",      "value": "forward"  },    "duration": null,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "meters"}}
+Move straight ahead for a distance of 500 meters at a velocity of 30 kilometers per hour.,No JSON
+Travel in a forward direction for 500 meters, maintaining a speed of 30 kilometers per hour.,No JSON
+Glide forward at a rate of 30 km/h, covering a distance of 500 meters.,No JSON
+Proceed straight ahead, flying at a speed of 30 km/h, until you have traveled 500 meters.,No JSON
+- Hover at a specific location for 15 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 900.0  },    "altitude": {    "type": "float",      "value": 100.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Remain stationary at a designated spot for a duration of 15 minutes.,No JSON
+Stay in one place for a period of 15 minutes.,No JSON
+Maintain a fixed position for 15 minutes.,No JSON
+Hold steady at a specific point for a duration of 15 minutes.,No JSON
+- Ascend to an altitude of 500 meters above ground level.,{"action": "fly",  "params": {  "speed": null,    "altitude": 500,    "direction": null,    "duration": null,    "unit_speed": null,    "unit_altitude": "meters",    "unit_duration": null}}
+Increase your height until you reach an altitude of 500 meters above ground level.,No JSON
+Climb up until you are at an altitude of 500 meters above ground level.,No JSON
+Move upwards until you reach a height of 500 meters above ground level.,No JSON
+Reach an altitude that is 500 meters above ground level.,No JSON
+- Perform a horizontal slide to the left for 200 meters.,No JSON
+Slide 200 meters horizontally to the left.,No JSON
+Move to the left in a horizontal slide for a distance of 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a horizontal leftward slide spanning 200 meters.,No JSON
+Take a 200 meter horizontal slide towards the left.,No JSON
+- Circle around a fixed point at a radius of 100 meters for 5 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 360,    "is_clockwise": true,    "unit": "degrees"}}
+Move in a circular path, keeping a distance of 100 meters from a central point, for a duration of 5 minutes.,No JSON
+Perform rotations around a center point, maintaining a constant radius of 100 meters, for a duration of 5 minutes.,No JSON
+Traverse a circular trajectory with a fixed distance of 100 meters from a central point, continuing for 5 minutes.,No JSON
+Orbit around a specific point with a radius of 100 meters, maintaining this distance for a period of 5 minutes.,No JSON
+- Fly backward at a speed of 40 km/h for 1 kilometer.,{"action": "fly",  "params": {  "speed": 40.0,    "altitude": null,    "direction": {    "type": "str",      "value": "backward"  },    "duration": 1000,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "kilometers"}}
+Reverse your flight direction and travel at a velocity of 40 kilometers per hour for a distance of 1 kilometer.,No JSON
+Travel in the opposite direction at a speed of 40 km/h for a distance of 1 kilometer.,{"action": "fly",  "params": {  "speed": 40.0,    "altitude": 0,    "direction": {    "type": "str",      "value": "south"  },    "duration": {    "type": "float",      "value": 1.0  },    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Move backwards through the air with a velocity of 40 kilometers per hour, covering a distance of 1 kilometer.,{"action": "fly",  "params": {  "speed": -40.0,    "altitude": null,    "direction": {    "type": "str",      "value": "backward"  },    "duration": null,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Perform a flight in reverse, traveling at a speed of 40 km/h for a distance of 1 kilometer.,No JSON
+- Descend rapidly at a rate of 10 meters per second.,{"action": "fly",  "params": {  "speed": 1
+Quickly descend at a speed of 10 meters per second.,No JSON
+Drop down rapidly, maintaining a rate of 10 meters per second.,No JSON
+Perform a swift descent, descending at a speed of 10 meters per second.,No JSON
+Go down at a rapid pace, descending at a rate of 10 meters per second.,No JSON
+- Perform a barrel roll maneuver to the right at an angular speed of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 60.0,    "angle": 360.0,    "is_clockwise": false,    "unit": "degrees"}}
+Execute a rightward barrel roll, rotating at a velocity of 60 degrees per second.,No JSON
+Carry out a barrel roll rotation to the right, with an angular speed of 60 degrees per second.,No JSON
+Rotate to the right in a barrel roll fashion, at a rate of 60 degrees per second.,No JSON
+Engage in a barrel roll maneuver, turning to the right at a speed of 60 degrees per second.,No JSON
+- Fly in a figure-eight pattern for 10 minutes.,No JSON
+Perform a figure-eight flight maneuver for a duration of 10 minutes.,No JSON
+Fly in a pattern resembling the shape of an eight for a total of 10 minutes.,No JSON
+Execute a flight path that resembles a figure-eight configuration, lasting 10 minutes.,No JSON
+Conduct aerial movements in the form of a figure-eight for a period of 10 minutes.,No JSON
+- Ascend to an altitude of 800 meters above sea level.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 800,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Achieve an elevation of 800 meters above sea level.,{"action": "fly",  "params": {  "altitude": 800,    "duration": 0,    "speed": 0,    "direction": {    "type": "str",      "value": "up"  },    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Reach a height of 800 meters above sea level.,No JSON
+Climb to an altitude of 800 meters above sea level.,No JSON
+Move up to a height of 800 meters above sea level.,No JSON
+- Hover in place while capturing photos for 20 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 1200.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Maintain a stationary hover for a duration of 20 minutes, taking photos.,No JSON
+Hold position and take photographs for a period of 20 minutes.,No JSON
+Stay in one spot and capture photos continuously for 20 minutes.,No JSON
+Remain suspended in the air and photograph for a duration of 20 minutes.,No JSON
+- Fly forward at a speed of 50 km/h for 2 kilometers.,{"action": "fly",  "params": {  "speed": 50.0,    "altitude": null,    "direction": {    "type": "str",      "value": "forward"  },    "duration": 2000,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Move ahead at a velocity of 50 kilometers per hour for a distance of 2 kilometers.,No JSON
+Travel straight ahead for a distance of 2 kilometers at a speed of 50 km/h.,No JSON
+Propel forward for 2 kilometers at a rate of 50 kilometers per hour.,No JSON
+Cover a distance of 2 kilometers by flying forward at a speed of 50 km/h.,No JSON
+- Descend to a low altitude of 50 meters above ground level.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 50.0,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Lower your altitude to 50 meters above the ground.,No JSON
+Move down to an altitude of 50 meters above the ground.,No JSON
+Decrease your altitude until you are only 50 meters above the ground.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 50)"  }}}
+Explanation:
+The user is asking the drone to decrease its altitude until it is only 50 meters above the ground. The ontology does not have an action for "decrease altitude", so we use the "navigate_to_point" action and specify the desired altitude in the "coordinates" field. The "coordinates" field is a tuple with three values: latitude, longitude, and altitude. In this case, we set the latitude and longitude to 0, since we want to stay at the same location, and set the altitude to 50.
+Descend to a height of 50 meters above the ground level.,{"action": "descend",  "params": {  "altitude": 50,    "unit_altitude": "meters"}}
+- Perform a sudden stop and hover for 2 minutes.,{"action": "fly",  "params": {  "speed": 15.0,    "altitude": 80,    "direction": {    "type": "str",      "value": "south"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"
+Execute an abrupt halt and remain stationary for a duration of 2 minutes.,No JSON
+Carry out an immediate cessation of movement and maintain a stable position for 2 minutes.,No JSON
+Achieve an instant stop and remain suspended in the air for a period of 2 minutes.,No JSON
+Implement a sudden pause and hover motionless for a timeframe of 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 120.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+- Land at the designated landing zone, then record a video.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+After landing at the specified landing area, proceed to film a video.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }},  "action": "film_video"}
+Upon arrival at the designated landing zone, commence recording a video.,No JSON
+Touch down at the designated landing zone and proceed to capture a video.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Once you have safely landed at the assigned landing area, begin filming a video.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(-, -)"  }}}
+Ascend to an altitude of 500 feet.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Climb to a height of 500 feet.,No JSON
+Reach an elevation of 500 feet.,No JSON
+Achieve a position at an altitude of 500 feet.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 500)"  }}}
+Ascend to a height of 500 feet above ground level.,No JSON
+Fly forward for 1 mile at a speed of 40 mph.,No JSON
+Proceed straight ahead for a distance of 1 mile, maintaining a velocity of 40 mph.,No JSON
+Move forward for a mile, traveling at a speed of 40 miles per hour.,No JSON
+Fly in a straight line for a mile while maintaining a speed of 40 miles per hour.,No JSON
+Travel forward for a distance of 1 mile, with a velocity of 40 mph.,No JSON
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Reduce your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Lower down to an altitude of 200 meters.,No JSON
+Move downwards until you reach an altitude of 200 meters.,No JSON
+Descend until you are flying at 200 meters above ground level.,No JSON
+Hover in place for 10 minutes.,No JSON
+Stay suspended in the air for a duration of 10 minutes.,No JSON
+Maintain a hovering position for a period of 10 minutes.,No JSON
+Remained fixed in mid-air for a time span of 10 minutes.,No JSON
+Suspend yourself without moving for the next 10 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,No JSON
+Rotate by 180 degrees in a clockwise direction, with an angular velocity of 45 degrees per second.,No JSON
+Turn clockwise by 180 degrees, at a rate of 45 degrees per second.,No JSON
+Perform a clockwise rotation of 180 degrees, with an angular speed of 45 degrees per second.,No JSON
+Execute a 180-degree clockwise rotation at a speed of 45 degrees per second.,No JSON
+Fly in a zigzag pattern for 2 kilometers at a speed of 50 km/h.,No JSON
+Perform a zigzag maneuver for a distance of 2 kilometers, maintaining a speed of 50 km/h while flying.,No JSON
+Fly in a serpentine pattern, covering a distance of 2 kilometers, at a velocity of 50 km/h.,No JSON
+Maintain a speed of 50 km/h while flying in a zigzag fashion for a total distance of 2 kilometers.,{"action": "fly",  "params": {  "speed": 50.0,    "direction": {    "type": "str",      "value": "zigzag"  },    "distance": {    "type": "float",      "value": 2.0  },    "unit_speed": "km/h",    "unit_distance": "kilometers"}}
+Cover a distance of 2 kilometers by flying in a zigzag formation at a constant speed of 50 km/h.,No JSON
+Ascend to an altitude of 1000 feet.,No JSON
+Increase your altitude to 1000 feet.,No JSON
+Climb to a height of 1000 feet.,No JSON
+Reach an elevation of 1000 feet.,No JSON
+Move upward and maintain a height of 1000 feet.,No JSON
+Fly forward for 5 miles at a speed of 30 mph.,No JSON
+Proceed straight ahead for a distance of 5 miles, maintaining a velocity of 30 mph.,No JSON
+Travel in a straight line for 5 miles, moving at a speed of 30 mph.,No JSON
+Cover a distance of 5 miles by flying straight ahead at a velocity of 30 mph.,No JSON
+Maintain a speed of 30 mph while flying forward for a total distance of 5 miles.,No JSON
+Hover and take aerial photographs for 20 minutes.,No JSON
+Capture aerial photographs by flying and hovering for a duration of 20 minutes.,No JSON
+Utilize aerial photography techniques by hovering and capturing images for a period of 20 minutes.,No JSON
+Take aerial photos by hovering in the air for a total of 20 minutes.,No JSON
+Fly and maintain a hover position for 20 minutes to capture aerial photographs.,No JSON
+Rotate counterclockwise by 270 degrees at an angular speed of 60 degrees per second.,No JSON
+Rotate 270 degrees counterclockwise with an angular velocity of 60 degrees per second.,No JSON
+Perform a counterclockwise rotation of 270 degrees at a speed of 60 degrees per second.,No JSON
+Turn left by 270 degrees at a rate of 60 degrees per second.,No JSON
+Execute a rotation in the counterclockwise direction of 270 degrees with an angular speed of 60 degrees per second.,No JSON
+Descend to an altitude of 100 meters.,{"action": "fly",  "params": {  "speed": 15.
+Lower down to an altitude of 100 meters.,No JSON
+Reduce your altitude to 100 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move downward until you reach an altitude of 100 meters.,No JSON
+Descend until you are at a height of 100 meters.,No JSON
+Fly in a circular path with a radius of 500 meters at a speed of 20 km/h.,No JSON
+Maintain a 20 km/h speed while flying in a circular path with a radius of 500 meters.,No JSON
+Circle at a speed of 20 km/h with a 500-meter radius.,No JSON
+Fly at a speed of 20 km/h, following a circular path with a 500-meter radius.,No JSON
+Perform a circular flight with a 500-meter radius, maintaining a speed of 20 km/h.,No JSON
+Ascend to an altitude of 1500 feet.,No JSON
+Increase your elevation to a height of 1500 feet.,No JSON
+Climb to a 1500-foot altitude.,No JSON
+Reach a height of 1500 feet.,No JSON
+Ascend to a level that is 1500 feet above the ground.,No JSON
+Fly forward and survey the area for 3 miles at a speed of 35 mph.,No JSON
+Proceed ahead and conduct a visual inspection of the surrounding region for a distance of 3 miles, traveling at a velocity of 35 miles per hour.,No JSON
+Advance and observe the vicinity for a span of 3 miles, maintaining a speed of 35 mph.,No JSON
+Move forward while surveying the area within a 3-mile radius, traveling at a speed of 35 mph.,No JSON
+Glide ahead and explore the surroundings for a distance of 3 miles, progressing at a velocity of 35 mph.,No JSON
+Hover and drop a package at the designated location.,No JSON
+Carry a package and release it at the specified spot by slightly floating above it.,{"action": "fly",  "params": {  "speed": 5.0,    "altitude": 50,    "direction": {    "type": "str",      "value": "towards_target"  },    "duration": 30,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds",    "package": {    "type": "str",      "value": "a_package"  },    "release_location": {    "type": "tuple",      "value": "(37.7749, -122.4194, 100)"  }}}
+Gently float and deposit a package at the predetermined destination.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 10.0  },    "altitude": {    "type": "float",      "value": 50.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(predetermined_destination)"  }}}
+Utilize aerial suspension to transport and release a package precisely where directed.,No JSON
+Levitate above a designated area and carefully place a package down.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0   },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "place_package",  "params": {  "location": {    "type": "tuple",      "value": "(0.0, 0.0)"  }}}
+Rotate clockwise by 45 degrees at an angular speed of 15 degrees per second.,No JSON
+Execute a clockwise rotation of 45 degrees with an angular velocity of 15 degrees per second.,No JSON
+Perform a rotation to the right by 45 degrees at a rate of 15 degrees per second.,No JSON
+Turn in a clockwise direction, covering 45 degrees, at a speed of 15 degrees per second.,No JSON
+Rotate to the right by 45 degrees while maintaining an angular speed of 15 degrees per second.,No JSON
+Descend to an altitude of 50 meters.,{"action": "descend",  "params": {  "altitude": 50}}
+Reduce your altitude to 50 meters.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 50.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Go down to a height of 50 meters.,No JSON
+Lower yourself to an altitude of 50 meters.,No JSON
+Descend until you reach a height of 50 meters.,No JSON
+Fly in a figure-eight pattern for 1 kilometer at a speed of 45 km/h.,No JSON
+Perform a figure-eight flight for a distance of 1 kilometer at a velocity of 45 km/h.,No JSON
+Fly in a figure-eight shape covering a distance of 1 kilometer with a speed of 45 km/h.,No JSON
+Execute a figure-eight maneuver while traveling for 1 kilometer at a velocity of 45 km/h.,No JSON
+Pilot the aircraft in a figure-eight pattern, covering a distance of 1 kilometer at a speed of 45 km/h.,No JSON
+Ascend to an altitude of 2000 feet.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 2000,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Reach a height of 2000 feet.,No JSON
+Climb to an elevation of 2000 feet.,No JSON
+Increase your altitude to 2000 feet.,{"action": "fly",  "params": {  "altitude": 2000,    "duration": 0,    "speed": 0,    "direction": {    "type": "str",      "value": "up"  },    "unit_speed": "ft/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Ascend to a level that is 2000 feet above ground.,No JSON
+Fly forward and inspect power lines for 4 miles at a speed of 25 mph.,No JSON
+Proceed ahead and examine power lines over a distance of 4 miles while traveling at a velocity of 25 mph.,No JSON
+Move forward while conducting an inspection of power lines for a span of 4 miles at a rate of 25 mph.,No JSON
+Journey ahead and visually assess power lines covering a distance of 4 miles with a speed of 25 mph.,No JSON
+Go in the direction ahead and survey power lines for 4 miles, traveling at a speed of 25 mph.,No JSON
+Land at the designated landing zone, then take a nap.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+First, make a safe descent to the assigned landing area, and then find a comfortable spot to rest and sleep.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+After successfully reaching the designated landing zone, feel free to relax and take a nap.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Upon arrival at the specified landing spot, simply locate a suitable place to lie down and allow yourself to take a nap.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Safely land at the designated landing zone before finding a peaceful spot to unwind and get some sleep.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Fly forward for 1 kilometer at a speed of 40 km/h.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Proceed straight for a distance of 1 kilometer with a velocity of 40 kilometers per hour.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Travel straight ahead covering a distance of 1 kilometer at a speed of 40 kilometers per hour.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Move forward for 1 kilometer, maintaining a constant speed of 40 kilometers per hour.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Fly in a straight line for 1 kilometer while traveling at a speed of 40 kilometers per hour.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Ascend to an altitude of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Reach a height of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Climb up to an elevation of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Move upwards until you are at an altitude of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Achieve a vertical position of 500 meters.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Hover in place for 10 minutes.,No JSON
+Stay stationary for a duration of 10 minutes.,No JSON
+Remain suspended in the air for a period of 10 minutes.,No JSON
+Keep yourself hovering in one spot for a duration of 10 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 600.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Maintain a fixed position in the air for 10 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 20 degrees per second.,No JSON
+Rotate in a clockwise direction at a constant speed of 20 degrees per second, covering a total angle of 180 degrees.,No JSON
+Perform a 180-degree clockwise rotation at a velocity of 20 degrees per second.,No JSON
+Rotate in the clockwise direction, completing a full 180-degree turn, with an angular velocity of 20 degrees per second.,No JSON
+Rotate at a rate of 20 degrees per second in a clockwise direction, completing a 180-degree rotation.,No JSON
+Fly forward for 500 meters at a speed of 50 km/h.,No JSON
+Proceed ahead for a distance of 500 meters, maintaining a velocity of 50 km/h.,No JSON
+Move straight ahead at 50 km/h for a distance of 500 meters.,No JSON
+Cover a distance of 500 meters by flying in a forward direction at a speed of 50 km/h.,No JSON
+Maintain a speed of 50 km/h and travel for 500 meters in a forward direction.,No JSON
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Lower your altitude to 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Decrease your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Descend until you reach an altitude of 200 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 200,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Bring your altitude down to 200 meters.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Hover in place for 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Stay still for a duration of 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Remain stationary for a period of 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Hold your position for a span of 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Do not move for a total of 2 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Rotate counterclockwise by 45 degrees at an angular speed of 10 degrees per second.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Turn to the left by 45 degrees at a rate of 10 degrees per second.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 0.0  },    "altitude": {    "type": "float",      "value": 200.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Rotate anti-clockwise by 45 degrees with an angular velocity of 10 degrees per second.,No JSON
+Spin counterclockwise by 45 degrees, moving 10 degrees per second.,No JSON
+Twist to the left by 45 degrees, rotating at a speed of 10 degrees per second.,No JSON
+Fly forward for 3 kilometers at a speed of 70 km/h.,No JSON
+Move ahead for a distance of 3 kilometers with a velocity of 70 km/h.,No JSON
+Travel straight ahead for 3 kilometers at a rate of 70 km/h.,No JSON
+Proceed in a forward direction, covering a distance of 3 kilometers, maintaining a speed of 70 km/h.,No JSON
+Maintain a speed of 70 km/h while moving straight ahead for a distance of 3 kilometers.,No JSON
+Ascend to an altitude of 800 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 800,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Reach a height of 800 meters.,No JSON
+Climb to an elevation of 800 meters.,No JSON
+Increase your altitude to 800 meters.,{"action": "fly",  "params": {  "altitude": 800,    "duration": 0,    "speed": 0,    "direction": {    "type": "str",      "value": "up"  },    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Go up to a height of 800 meters.,No JSON
+Hover in place for 15 minutes.,No JSON
+Stay still for a duration of 15 minutes.,No JSON
+Maintain a hovering position for the next 15 minutes.,No JSON
+Remain in place without moving for a period of 15 minutes.,No JSON
+Suspend motion for a time period of 15 minutes.,No JSON
+Rotate clockwise by 270 degrees at an angular speed of 40 degrees per second.,No JSON
+Perform a clockwise rotation of 270 degrees, with an angular speed of 40 degrees per second.,No JSON
+Rotate in a clockwise direction by 270 degrees, at a rate of 40 degrees per second.,No JSON
+Rotate at an angular speed of 40 degrees per second, in a clockwise direction for 270 degrees.,No JSON
+Execute a clockwise rotation, rotating 270 degrees at a speed of 40 degrees per second.,No JSON
+Fly forward for 2.5 kilometers at a speed of 55 km/h.,No JSON
+Proceed at a velocity of 55 km/h and cover a distance of 2.5 kilometers by flying forward.,No JSON
+Maintain a flying speed of 55 km/h while covering a distance of 2.5 kilometers in the forward direction.,{"action": "fly",  "params": {  "speed": 55.0,    "altitude": null,    "direction": {    "type": "str",      "value": "forward"  },    "duration": null,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Fly straight ahead for 2.5 kilometers with a speed of 55 km/h.,No JSON
+Travel a distance of 2.5 kilometers by flying forward at a constant speed of 55 km/h.,No JSON
+Descend to an altitude of 300 meters.,No JSON
+Lower yourself to a height of 300 meters.,No JSON
+Reduce your altitude to 300 meters.,No JSON
+Move down to a height of 300 meters.,No JSON
+Descend until you reach an altitude of 300 meters.,No JSON
+Hover in place for 8 minutes.,No JSON
+Stay still for a duration of 8 minutes.,No JSON
+Maintain a stationary position for a period of 8 minutes.,No JSON
+Suspend movement and remain in one spot for 8 minutes.,No JSON
+Keep hovering without moving for a total of 8 minutes.,No JSON
+Rotate counterclockwise by 120 degrees at an angular speed of 25 degrees per second.,No JSON
+Turn left at a rate of 25 degrees per second for 120 degrees.,No JSON
+Rotate anti-clockwise with an angular velocity of 25 degrees per second for 120 degrees.,No JSON
+Perform a counterclockwise rotation of 120 degrees with an angular speed of 25 degrees per second.,No JSON
+Rotate in the opposite direction of clockwise by 120 degrees at a speed of 25 degrees per second.,No JSON
+Fly forward for 4 kilometers at a speed of 80 km/h.,No JSON
+Proceed ahead for a distance of 4 kilometers with a velocity of 80 km/h.,No JSON
+Move in a forward direction for 4 kilometers maintaining a speed of 80 km/h.,No JSON
+Cover a distance of 4 kilometers by flying forward at a speed of 80 km/h.,No JSON
+Travel at 80 km/h in a straight path for 4 kilometers.,No JSON
+Ascend to an altitude of 1000 meters.,No JSON
+Increase your altitude to 1000 meters.,{"action": "fly",  "params": {  "altitude": 1000,    "duration": 0,    "speed": 0,    "direction": {    "type": "str",      "value": "up"  },    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Reach a height of 1000 meters.,No JSON
+Climb up to an elevation of 1000 meters.,No JSON
+Scale up to an altitude of 1000 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 1000,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Hover in place for 20 minutes.,No JSON
+Remain suspended in one spot for a duration of 20 minutes.,No JSON
+Stay airborne without moving for a period of 20 minutes.,No JSON
+Keep stationary in mid-air for a period of 20 minutes.,No JSON
+Suspend motion and hover in the same position for a duration of 20 minutes.,No JSON
+Rotate clockwise by 360 degrees at an angular speed of 50 degrees per second.,No JSON
+Execute a 360-degree clockwise rotation at a speed of 50 degrees per second.,No JSON
+Perform a full clockwise rotation of 360 degrees with an angular velocity of 50 degrees per second.,No JSON
+Rotate in a clockwise direction by 360 degrees, maintaining an angular speed of 50 degrees per second.,No JSON
+Turn in a clockwise direction, completing a 360-degree rotation at a rate of 50 degrees per second.,No JSON
+Fly forward for 2.7 kilometers at a speed of 60 km/h.,No JSON
+Proceed straight ahead for a distance of 2.7 kilometers while maintaining a velocity of 60 km/h.,No JSON
+Travel in a straight line for a total of 2.7 kilometers, maintaining a constant speed of 60 km/h.,{"action": "fly",  "params": {  "speed": 60.0,    "altitude": 0.0,    "direction": {    "type": "str",      "value": "straight"  },    "duration": {    "type": "float",      "value": 2.7 / 60.0  },    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Go forward for a distance of 2.7 kilometers at a speed of 60 km/h.,No JSON
+Cover a distance of 2.7 kilometers by traveling straight ahead at a speed of 60 km/h.,No JSON
+Descend to an altitude of 400 meters.,No JSON
+Reduce your altitude to 400 meters.,No JSON
+Move down until you are at an altitude of 400 meters.,No JSON
+Descend until you reach a height of 400 meters.,No JSON
+Lower your altitude to 400 meters.,No JSON
+Hover in place for 12 minutes.,No JSON
+Stay in one spot for a duration of 12 minutes.,No JSON
+Remain stationary for a period of 12 minutes.,No JSON
+Keep still for 12 minutes.,No JSON
+Do not move for a total of 12 minutes.,No JSON
+Rotate counterclockwise by 150 degrees at an angular speed of 35 degrees per second.,No JSON
+Make a counterclockwise rotation of 150 degrees at a rate of 35 degrees per second.,No JSON
+Perform a rotation in the counterclockwise direction by 150 degrees with an angular speed of 35 degrees per second.,No JSON
+Rotate in the counterclockwise direction by 150 degrees, moving at a speed of 35 degrees per second.,No JSON
+Rotate at a rate of 35 degrees per second in the counterclockwise direction, until a total rotation of 150 degrees is reached.,No JSON
+Fly forward for 5 kilometers at a speed of 90 km/h.,No JSON
+Proceed straight ahead for a distance of 5 kilometers, maintaining a velocity of 90 kilometers per hour.,No JSON
+Travel in a straight line, covering a distance of 5 kilometers, while sustaining a speed of 90 kilometers per hour.,{"action": "fly",  "params": {  "speed": 90.0,    "direction": {    "type": "str",      "value": "straight"  },    "distance": {    "type": "float",      "value": 5.0  },    "unit_speed": "km/h",    "unit_distance": "kilometers"}}
+Propel forward for a span of 5 kilometers, traveling at a rate of 90 kilometers per hour.,No JSON
+Move ahead for 5 kilometers at a velocity of 90 kilometers per hour.,No JSON
+Ascend to an altitude of 1200 meters.,No JSON
+Increase your elevation to 1200 meters.,No JSON
+Climb to a height of 1200 meters.,No JSON
+Reach an altitude of 1200 meters.,No JSON
+Move upwards to a position of 1200 meters above ground level.,No JSON
+Hover in place for 25 minutes.,No JSON
+Stay still for a duration of 25 minutes.,No JSON
+Maintain a hovering position for 25 minutes.,No JSON
+Remain in place without moving for a period of 25 minutes.,No JSON
+Hold your position in mid-air for a total of 25 minutes.,No JSON
+Rotate clockwise by 450 degrees at an angular speed of 55 degrees per second.,No JSON
+Perform a clockwise rotation of 450 degrees with an angular velocity of 55 degrees per second.,No JSON
+Rotate in a clockwise direction by 450 degrees at a speed of 55 degrees per second.,No JSON
+Execute a rotation to the right by 450 degrees at a rate of 55 degrees per second.,No JSON
+Turn in a clockwise direction by 450 degrees at a speed of 55 degrees per second.,No JSON
+Fly forward for 3.2 kilometers at a speed of 65 km/h.,No JSON
+Move ahead for a distance of 3.2 kilometers with a velocity of 65 kilometers per hour.,No JSON
+Proceed straight for 3.2 kilometers at a pace of 65 km/h.,No JSON
+Travel in a forward direction covering a distance of 3.2 kilometers, maintaining a speed of 65 km/h.,No JSON
+Go forward for a stretch of 3.2 kilometers while maintaining a velocity of 65 km/h.,No JSON
+Descend to an altitude of 500 meters.,No JSON
+Lower your altitude to 500 meters.,No JSON
+Decrease your altitude to 500 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 500)"  }}}
+Descend until you reach an altitude of 500 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 500)"  }}}
+Bring yourself down to an altitude of 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Hover in place for 18 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Maintain a stationary hover for a duration of 18 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Stay in one position for a period of 18 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Remain suspended in the air for a total of 18 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Do not move and stay at the same spot for the next 18 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate counterclockwise by 180 degrees at an angular speed of 45 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Turn in the opposite direction by 180 degrees, rotating at a speed of 45 degrees per second counterclockwise.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Perform a 180-degree counterclockwise rotation with an angular velocity of 45 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate by 180 degrees counterclockwise, moving at a rate of 45 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a counterclockwise rotation of 180 degrees, with a speed of 45 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Fly forward for 6 kilometers at a speed of 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Proceed ahead for a distance of 6 kilometers, maintaining a speed of 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Cover a distance of 6 kilometers by flying straight, ensuring a speed of 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move forward for 6 kilometers while flying at a velocity of 100 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Maintain a speed of 100 km/h as you fly straight ahead for a distance of 6 kilometers.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Ascend to an altitude of 1400 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Climb to a height of 1400 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Reach an elevation of 1400 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Scale to a height of 1400 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Go up to an altitude of 1400 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Hover in place for 30 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Stay suspended in one spot for a duration of 30 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Maintain a stationary position for the next half-hour.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Remain hovering without moving for a period of 30 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Suspend yourself in the air for the next 30 minutes without any movement.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate clockwise by 540 degrees at an angular speed of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate 540 degrees in a clockwise direction at a rate of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Perform a clockwise rotation of 540 degrees with an angular velocity of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Turn in a clockwise direction, completing a 540-degree rotation at a speed of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a rotation of 540 degrees in the clockwise direction, with a rate of 60 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Fly forward for 3.7 kilometers at a speed of 70 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Proceed straight ahead covering a distance of 3.7 kilometers, maintaining a speed of 70 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Travel in a forward direction for a duration of 3.7 kilometers, cruising at a velocity of 70 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move ahead for a span of 3.7 kilometers, traveling at a constant speed of 70 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Propel forward for a distance of 3.7 kilometers, maintaining a speed of 70 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Descend to an altitude of 600 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Reduce your altitude to 600 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move down to an altitude of 600 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Decrease your altitude until you reach 600 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Descend until you are at 600 meters altitude.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Hover in place for 22 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Stay still for a duration of 22 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Hold your position for a period of 22 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Remain stationary for 22 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Do not move for the next 22 minutes.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate counterclockwise by 210 degrees at an angular speed of 50 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Turn left by 210 degrees with a rotational velocity of 50 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Rotate anti-clockwise by 210 degrees, maintaining an angular speed of 50 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Perform a counterclockwise rotation of 210 degrees with an angular velocity of 50 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Execute a 210-degree counterclockwise rotation at a rate of 50 degrees per second.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Fly forward for 7 kilometers at a speed of 110 km/h, then take a nap.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Proceed ahead for a distance of 7 kilometers, maintaining a speed of 110 km/h, and then rest.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Travel forwards at a velocity of 110 km/h for a duration of 7 kilometers, then relax.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Cover a distance of 7 kilometers by flying forward at a speed of 110 km/h, followed by a period of rest.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move straight ahead at a rate of 110 km/h for 7 kilometers, and then take a break.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Ascend to an altitude of 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Increase your elevation to 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Climb up to a height of 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Reach an altitude of 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move upward to a height of 500 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Fly forward for 10 kilometers at a speed of 80 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Proceed straight ahead for a distance of 10 kilometers, maintaining a speed of 80 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Travel in a forward direction for 10 kilometers, with a constant velocity of 80 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Cover a distance of 10 kilometers by flying straight ahead at a speed of 80 km/h.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Move forward at a rate of 80 km/h for a total of 10 kilometers.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Hover in place for 15 minutes.,No JSON
+Stay suspended in one spot for a duration of 15 minutes.,No JSON
+Maintain a hovering position without movement for a period of 15 minutes.,No JSON
+Keep floating in a fixed location for 15 minutes.,No JSON
+Remain in mid-air without any displacement for a total of 15 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,No JSON
+Turn in a clockwise direction by 180 degrees, moving at a rate of 45 degrees per second.,No JSON
+Rotate at an angular speed of 45 degrees per second in a clockwise manner, completing a 180-degree turn.,No JSON
+Perform a 180-degree clockwise rotation, maintaining an angular velocity of 45 degrees per second.,No JSON
+Turn in a clockwise direction at a constant speed of 45 degrees per second, completing a 180-degree rotation.,No JSON
+Land at the designated landing zone.,No JSON
+Please touch down at the specified landing area.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Make your descent and land on the assigned landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is required for you to land at the designated area.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Ensure that you land precisely at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 100 meters.,{"action": "fly",  "params": {  "speed": 15.
+Reduce your altitude to 100 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Decrease your altitude to 100 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Descend until you reach an altitude of 100 meters.,No JSON
+Bring yourself down to an altitude of 100 meters.,No JSON
+Fly backward for 5 kilometers at a speed of 40 km/h.,No JSON
+Reverse course and travel a distance of 5 kilometers at a speed of 40 km/h.,No JSON
+Travel in the opposite direction for a distance of 5 kilometers, maintaining a speed of 40 km/h.,{"action": "fly",  "params": {  "speed": 40.0,    "direction": {    "type": "str",      "value": "south"  },    "distance": {    "type": "float",      "value": 5.0  },    "unit_speed": "km/h",    "unit_distance": "kilometers"}}
+Cover a distance of 5 kilometers by flying backward at a speed of 40 km/h.,No JSON
+Fly in reverse for 5 kilometers, cruising at a speed of 40 km/h.,No JSON
+Circle around a specific location for 20 minutes.,No JSON
+Perform a circular motion around a particular spot for a duration of 20 minutes.,No JSON
+Move in a circular pattern around a designated area for a period of 20 minutes.,No JSON
+Encircle a specific location for 20 minutes, continuously moving in a circular motion.,No JSON
+Follow a circular path around a particular place for a duration of 20 minutes.,No JSON
+Rotate counterclockwise by 270 degrees at an angular speed of 60 degrees per second.,No JSON
+Rotate in a counterclockwise direction by 270 degrees with an angular velocity of 60 degrees/sec.,No JSON
+Turn left by 270 degrees at a rate of 60 degrees per second.,No JSON
+Perform a counterclockwise rotation of 270 degrees with an angular speed of 60 degrees per second.,No JSON
+Rotate anticlockwise at a speed of 60 degrees per second for 270 degrees.,No JSON
+Ascend to an altitude of 1000 meters.,No JSON
+Reach a height of 1000 meters.,No JSON
+Climb up to an elevation of 1000 meters.,No JSON
+Increase the altitude to 1000 meters.,No JSON
+Achieve a vertical position of 1000 meters.,{"action": "fly",  "params": {  "altitude": 1000,    "duration": 0,    "speed": 0,    "direction": {    "type": "str",      "value": "up"  },    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Fly forward for 15 kilometers at a speed of 100 km/h.,No JSON
+Proceed at a velocity of 100 km/h for a distance of 15 kilometers in a forward direction.,No JSON
+Travel straight ahead for 15 kilometers, maintaining a speed of 100 km/h.,No JSON
+Cover a distance of 15 kilometers by flying straight ahead, with a velocity of 100 km/h.,No JSON
+Move forward at a speed of 100 km/h and travel a distance of 15 kilometers.,No JSON
+Hover in place for 10 minutes.,No JSON
+Stay suspended in midair for a duration of 10 minutes.,No JSON
+Maintain a hovering position for a period of 10 minutes.,No JSON
+Remain airborne without moving for 10 minutes.,No JSON
+Suspend yourself in one spot for a duration of 10 minutes.,No JSON
+Rotate clockwise by 90 degrees at an angular speed of 30 degrees per second.,No JSON
+Turn in the clockwise direction by 90 degrees, with an angular velocity of 30 degrees per second.,No JSON
+Rotate to the right by 90 degrees at a rate of 30 degrees every second.,No JSON
+Perform a 90-degree clockwise rotation with an angular speed of 30 degrees per second.,No JSON
+Spin in a clockwise direction at a speed of 30 degrees per second, completing a 90-degree rotation.,No JSON
+Land at the designated landing zone.,No JSON
+Please land at the specified landing area.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 10.0  },    "altitude": {    "type": "float",      "value": 50.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit
+Ensure you land at the indicated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is important to touch down at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Make sure to land precisely at the assigned landing area.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Decrease your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Lower yourself to an altitude of 200 meters.,No JSON
+Go down to a height of 200 meters.,No JSON
+Descend until you reach an altitude of 200 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 200,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Fly backward for 3 kilometers at a speed of 50 km/h.,No JSON
+Reverse your direction and fly for a distance of 3 kilometers with a velocity of 50 kilometers per hour.,No JSON
+Travel in the opposite direction and cover a distance of 3 kilometers while maintaining a speed of 50 kilometers per hour.,{"action": "fly",  "params": {  "speed": 50.0,    "direction": {    "type": "str",      "value": "south"  },    "distance": {    "type": "float",      "value": 3.0  },    "unit_speed": "km/h",    "unit_distance": "kilometers"}}
+Go in the opposite direction for a total of 3 kilometers, flying at a speed of 50 kilometers per hour.,No JSON
+Fly in reverse for a distance of 3 kilometers traveling at a speed of 50 kilometers per hour.,No JSON
+Circle around a specific location for 30 minutes.,No JSON
+Perform a 30-minute loop around a designated area.,No JSON
+Go in a circular route around a specific spot for half an hour.,No JSON
+Complete a 30-minute circuit around a particular location.,No JSON
+Traverse in a circular path around a specific point for a duration of 30 minutes.,{"action": "fly",  "params": {  "speed": 10.0,    "altitude": 100,    "direction": {    "type": "str",      "value": "north"  },    "duration": 10,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"},  {  "action
+Rotate counterclockwise by 360 degrees at an angular speed of 90 degrees per second.,No JSON
+Rotate in the counterclockwise direction by 360 degrees with an angular velocity of 90 degrees per second.,No JSON
+Perform a counterclockwise rotation of 360 degrees at a rate of 90 degrees per second.,No JSON
+Turn in a counterclockwise direction, completing a 360-degree rotation, with an angular speed of 90 degrees per second.,No JSON
+Execute a 360-degree counterclockwise rotation, with an angular velocity of 90 degrees per second.,No JSON
+Ascend to an altitude of 700 meters and swin.,No JSON
+Gain an elevation of 700 meters and swim.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 700,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Reach a height of 700 meters and engage in swimming.,No JSON
+Ascend to a 700-meter altitude and partake in swimming.,No JSON
+Increase your altitude to 700 meters and then swim.,{"action": "fly",  "params": {  "altitude": 700,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_altitude": "meters",    "unit_duration": "seconds"},  "action": "swim",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Fly forward for 8 kilometers at a speed of 70 km/h.,No JSON
+Proceed straight ahead for a distance of 8 kilometers, maintaining a speed of 70 km/h.,No JSON
+Cover a distance of 8 kilometers by flying forward, while maintaining a speed of 70 km/h.,No JSON
+Travel in a forward direction for 8 kilometers at a constant speed of 70 km/h.,No JSON
+Fly straight for a total of 8 kilometers at a speed of 70 km/h.,No JSON
+Hover in place for 20 minutes and watch TV.,No JSON
+Stay stationary for a duration of 20 minutes while watching television.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 1200.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Maintain a hovering position and engage in television viewing for a period of 20 minutes.,No JSON
+Hold a steady hover for 20 minutes while enjoying television watching.,No JSON
+Remain in one place without moving for 20 minutes and entertain yourself by watching TV.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 20.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Rotate clockwise by 270 degrees at an angular speed of 50 degrees per second.,No JSON
+Turn to the right by 270 degrees, rotating at a speed of 50 degrees per second.,No JSON
+Rotate in a clockwise direction, completing a 270-degree rotation at a rate of 50 degrees per second.,No JSON
+Perform a 270-degree clockwise rotation, with an angular velocity of 50 degrees per second.,No JSON
+Rotate at a speed of 50 degrees per second in a clockwise direction, completing a 270-degree rotation.,No JSON
+Land at the designated landing zone, then sing loudly.,{"action": "fly",  "params": {  "speed": 15.0,    "altitude": 80,    "direction": {    "type": "str",      "value": "south"  },    "duration": 10,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"},  {  "action": "rotate",    "params":
+First, make sure to touch down at the specified landing zone, and then proceed to sing with great volume.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+After successfully landing at the designated landing zone, proceed to sing loudly.,{"action": "sing",  "params": {  "location": {    "type": "tuple",      "value": "(latitude, longitude)"  }}}
+Ascend to an altitude of 500 feet.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Increase your altitude to 500 feet.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 500)"  }}}
+Explanation:
+The user wants to increase the altitude of the drone to 500 feet. The ontology does not have an action for changing altitude directly, so we use the "navigate_to_point" action and specify the desired altitude as the third coordinate. The "coordinates" field is a tuple with three values: latitude, longitude, and altitude. We set the first two values to zero since we don't care about the drone's horizontal position, and set the third value to 500, which is the desired altitude.
+Climb to a height of 500 feet.,No JSON
+Reach an elevation of 500 feet.,No JSON
+Rise to a position 500 feet above ground level.,No JSON
+Fly forward for 1 mile at a speed of 30 mph.,No JSON
+Proceed ahead for a distance of 1 mile, maintaining a velocity of 30 mph.,No JSON
+Travel straight ahead for 1 mile at a speed of 30 mph.,No JSON
+Move forward for a distance of 1 mile, maintaining a speed of 30 mph.,No JSON
+Cover a distance of 1 mile by flying straight ahead at a velocity of 30 mph.,No JSON
+Hover in place for 10 minutes.,No JSON
+Stay suspended in one spot for a duration of 10 minutes.,No JSON
+Maintain a hovering position without moving for a period of 10 minutes.,No JSON
+Stay suspended in mid-air without any motion for a time span of 10 minutes.,No JSON
+Hold a hover position for a duration of 10 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,No JSON
+Rotate in the clockwise direction at a rate of 45 degrees per second for a total of 180 degrees.,No JSON
+Perform a 180-degree clockwise rotation at a speed of 45 degrees per second.,No JSON
+Turn to the right by 180 degrees at a constant angular velocity of 45 degrees per second.,No JSON
+Rotate at a speed of 45 degrees per second in the clockwise direction for a total of 180 degrees.,No JSON
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Decrease your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Lower your altitude to 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Move down to an altitude of 200 meters.,No JSON
+Descend until reaching an altitude of 200 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 200,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Fly in a zigzag pattern for 3 kilometers at a speed of 50 km/h.,No JSON
+Perform a zigzag maneuver while flying for 3 kilometers, maintaining a speed of 50 km/h.,{"action": "fly",  "params": {  "speed": 50.0,    "altitude": 100.0,    "direction": {    "type": "str",      "value": "north"  },    "duration": 3000.0,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"},  "params_zigzag": {  "amplitude": 50.0,    "frequency": 1.0,    "phase": 0.0}}
+Fly in a serpentine pattern, covering a distance of 3 kilometers, while traveling at a speed of 50 km/h.,No JSON
+Execute a flight in a zigzag trajectory spanning 3 kilometers, maintaining a velocity of 50 km/h.,No JSON
+Travel a distance of 3 kilometers by flying in a zigzag fashion at a speed of 50 km/h.,No JSON
+Perform a barrel roll to the left.,No JSON
+Execute a left barrel roll.,No JSON
+Rotate in a barrel roll towards the left.,No JSON
+Perform a barrel roll in a counterclockwise direction.,No JSON
+Initiate a leftward barrel roll.,No JSON
+Ascend to an altitude of 1000 feet and maintain it for 20 minutes.,No JSON
+Climb to a height of 1000 feet and stay at that altitude for the next 20 minutes.,No JSON
+Increase your elevation to 1000 feet and sustain it for the next 20 minutes.,No JSON
+Rise to an altitude of 1000 feet and uphold it for the next 20 minutes.,No JSON
+Elevate to 1000 feet and retain that height for the next 20 minutes.,No JSON
+Fly backward for 500 meters at a speed of 40 km/h.,No JSON
+Go in reverse and cover a distance of 500 meters at a velocity of 40 km/h.,No JSON
+Move backwards, traveling a distance of 500 meters with a speed of 40 km/h.,{"action": "move_backwards",  "params": {  "distance": {    "type": "float",      "value": 500.0  },    "speed": {    "type": "float",      "value": 40.0  },    "unit_distance": "meters",    "unit_speed": "km/h"}}
+Reverse your flight and go for 500 meters at a velocity of 40 km/h.,{"action": "fly",  "params": {  "speed": 40.0,    "altitude": null,    "direction": {    "type": "str",      "value": "south"  },    "duration": null,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Fly in the opposite direction for a distance of 500 meters, maintaining a speed of 40 km/h.,No JSON
+Rotate counterclockwise by 45 degrees at an angular speed of 15 degrees per second.,No JSON
+Rotate at a rate of 15 degrees per second in a counterclockwise direction by 45 degrees.,No JSON
+Perform a counterclockwise rotation of 45 degrees with an angular speed of 15 degrees per second.,No JSON
+Move in a counterclockwise direction and rotate by 45 degrees at a speed of 15 degrees per second.,No JSON
+Execute a rotation in the counterclockwise direction at a rate of 15 degrees per second, resulting in a 45-degree change.,No JSON
+Descend to an altitude of 100 feet and hold for 5 minutes.,No JSON
+Move downward to an altitude of 100 feet and maintain that position for a duration of 5 minutes.,No JSON
+Reduce your altitude to 100 feet and stay at that level for a period of 5 minutes.,No JSON
+Descend until you reach an altitude of 100 feet and remain there for 5 minutes.,No JSON
+Lower yourself to an altitude of 100 feet and keep steady for 5 minutes.,No JSON
+Fly in a circular pattern with a radius of 1 kilometer at a speed of 20 km/h.,No JSON
+Please fly at a speed of 20 km/h in a circular pattern with a radius of 1 kilometer.,No JSON
+Fly in a circular motion with a radius of 1 kilometer at a speed of 20 km/h.,No JSON
+Perform a flight maneuver in a circular pattern of 1 kilometer radius, maintaining a speed of 20 km/h.,No JSON
+Maintain a constant speed of 20 km/h while flying in a circular path with a radius of 1 kilometer.,{"action": "fly",  "params": {  "speed": 20.0,    "altitude": null,    "direction": null,    "duration": null,    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "seconds"},  "path": {  "type": "circle",    "radius": 1000.0}}
+Ascend to an altitude of 300 meters and maintain it for 30 minutes.,No JSON
+Climb to a height of 300 meters and stay there for a duration of 30 minutes.,No JSON
+Ascend to an elevation of 300 meters and uphold it for a period of 30 minutes.,No JSON
+Reach a height of 300 meters and ensure that it remains unchanged for 30 minutes.,No JSON
+Scale up to an altitude of 300 meters and sustain it for 30 minutes.,No JSON
+Hover in place for 15 minutes and then proceed forward for 2 kilometers.,No JSON
+Stay stationary for a duration of 15 minutes and then continue moving ahead for a distance of 2 kilometers.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 900.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 0)"  }}}
+Maintain your position for 15 minutes and then proceed ahead for 2 kilometers.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 900.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0.0, 0.0, 0.0)"  }}}
+Stay put for 15 minutes and then start moving forward for a distance of 2 kilometers.,No JSON
+Remain suspended in the same spot for 15 minutes and then advance forward for a distance of 2 kilometers.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 900.0  },    "altitude": {    "type": "float",      "value": 0.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"},  "action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0.0, 0.0, 0.0)"  }}}
+Rotate clockwise by 90 degrees at an angular speed of 20 degrees per second.,No JSON
+Perform a 90-degree clockwise rotation with an angular velocity of 20 degrees per second.,No JSON
+Turn to the right by 90 degrees with a rotational speed of 20 degrees per second.,No JSON
+Execute a clockwise rotation of 90 degrees at a rate of 20 degrees per second.,No JSON
+Rotate in a clockwise direction by 90 degrees, with an angular speed of 20 degrees per second.,No JSON
+Fly in a serpentine pattern for 1 mile at a speed of 25 mph.,No JSON
+Perform a serpentine flight maneuver for a distance of 1 mile, maintaining a constant speed of 25 mph.,No JSON
+Execute a 1 mile aerial trajectory in the shape of a serpent, maintaining a velocity of 25 mph.,No JSON
+Fly in a zigzag pattern for a mile at a speed of 25 mph.,No JSON
+Incurvate your flight path to resemble a snake's motion for a distance of 1 mile, while maintaining a speed of 25 mph.,No JSON
+Descend to an altitude of 100 meters and hover in place for 10 minutes.,No JSON
+Maintain an altitude of 100 meters and hold position for a duration of 10 minutes.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 600.0  },    "altitude": {    "type": "float",      "value": 100.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+Lower your altitude to 100 meters and remain stationary for 10 minutes.,No JSON
+Descend until reaching an altitude of 100 meters and then hover for 10 minutes.,No JSON
+Bring yourself down to an altitude of 100 meters and stay suspended for a period of 10 minutes.,No JSON
+Fly forward for 3 kilometers at a speed of 60 km/h and then land at the designated landing zone.,No JSON
+Proceed straight ahead for a distance of 3 kilometers, maintaining a speed of 60 km/h, and subsequently touch down at the designated landing area.,No JSON
+Travel in a forward direction for 3 kilometers, maintaining a velocity of 60 km/h, before finally descending and coming to a landing at the assigned landing zone.,No JSON
+Cover a distance of 3 kilometers by flying forward at a speed of 60 km/h, and conclude the flight by safely landing at the designated landing zone.,No JSON
+Maintain a constant speed of 60 km/h while flying straight for a duration of 3 kilometers, and then execute a safe landing at the pre-determined landing area.,{"action": "fly",  "params": {  "speed": 60.0,    "altitude": null,    "direction": {    "type": "str",      "value": "straight"  },    "duration": {    "type": "float",      "value": 3.0  },    "unit_speed": "km/h",    "unit_altitude": "meters",    "unit_duration": "kilometers"},  "action": "land",  "params": {  "location": {    "type": "tuple",      "value": null  }}}
+Rotate counterclockwise by 180 degrees at an angular speed of 25 degrees per second.,No JSON
+Execute a counterclockwise rotation of 180 degrees, with an angular velocity of 25 degrees per second.,No JSON
+Perform a rotation in the counterclockwise direction, covering 180 degrees, at a rate of 25 degrees per second.,No JSON
+Rotate at a speed of 25 degrees per second in the counterclockwise direction, completing a 180 degree rotation.,No JSON
+Carry out a counterclockwise rotation of 180 degrees, with an angular speed of 25 degrees per second.,No JSON
+Perform a loop-de-loop and then watch TV.,No JSON
+Execute a loop-de-loop and subsequently engage in watching TV.,No JSON
+Carry out a loop-de-loop and proceed to view television.,No JSON
+Conduct a loop-de-loop before indulging in some TV time.,No JSON
+Maneuver a loop-de-loop and then enjoy some TV programming.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 360,    "is_clockwise": true,    "unit": "degrees"}}
+Ascend to an altitude of 500 feet.,{"action": "fly",  "params": {  "speed": 0,    "altitude": 500,    "direction": {    "type": "str",      "value": "up"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "feet",    "unit_duration": "seconds"}}
+Increase your height to 500 feet.,No JSON
+Climb up to an elevation of 500 feet.,No JSON
+Reach an altitude of 500 feet.,No JSON
+Go up to a height of 500 feet.,No JSON
+Fly forward for 1 mile at a speed of 40 mph.,No JSON
+Move ahead for a distance of 1 mile, maintaining a velocity of 40 mph.,No JSON
+Proceed straight ahead covering a distance of 1 mile with a constant speed of 40 mph.,No JSON
+Travel in a straight line, going forward for 1 mile, while traveling at a speed of 40 mph.,No JSON
+Fly straight ahead, maintaining a speed of 40 mph, and cover a distance of 1 mile.,No JSON
+Hover in place for 10 minutes.,No JSON
+Remain stationary for a duration of 10 minutes.,No JSON
+Stay in one spot for a period of 10 minutes.,No JSON
+Float in the same position for 10 minutes.,No JSON
+Suspend yourself in midair for a span of 10 minutes.,No JSON
+Rotate clockwise by 180 degrees at an angular speed of 45 degrees per second.,No JSON
+Perform a clockwise rotation of 180 degrees, with an angular speed of 45 degrees per second.,No JSON
+Rotate by 180 degrees in a clockwise direction, with a speed of 45 degrees per second.,No JSON
+Execute a rotation clockwise at a speed of 45 degrees per second, with a total rotation angle of 180 degrees.,No JSON
+Rotate in a clockwise manner at a rate of 45 degrees per second, completing a full 180 degree rotation.,No JSON
+Land at the designated landing zone.,No JSON
+Please land at the specified landing zone.,{"action": "hover",  "params": {  "duration": {    "type": "float",      "value": 10.0  },    "altitude": {    "type": "float",      "value": 50.0  },    "unit_duration": "seconds",    "unit_altitude": "meters"}}
+{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit
+You are required to touch down at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Make sure to land at the designated landing zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+It is important to secure a landing at the designated zone.,{"action": "land",  "params": {  "location": {    "type": "tuple",      "value": "(37.7749, -122.4194)"  }}}
+Fly sideways for 500 meters.,No JSON
+Move horizontally for a distance of 500 meters while airborne.,{"action": "fly",  "params": {  "speed": null,    "altitude": null,    "direction": {    "type": "str",      "value": "horizontal"  },    "duration": null,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Perform a lateral flight movement covering a distance of 500 meters.,{"action": "fly",  "params": {  "speed": 10.5,    "altitude": 100,    "direction": {    "type": "str",      "value": "lateral"  },    "duration": 50,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Traverse 500 meters in a sideways direction while in flight.,{"action": "fly",  "params": {  "speed": 10.5,    "altitude": 100,    "direction": {    "type": "str",      "value": "sideways"  },    "duration": 500,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "meters"}}
+Travel parallel to the ground for a distance of 500 meters.,{"action": "fly",  "params": {  "speed": 10.5,    "altitude": 100,    "direction": {    "type": "str",      "value": "parallel_to_ground"  },    "duration": 500,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}
+Ascend to an altitude of 1000 feet.,No JSON
+Increase your elevation to 1000 feet.,No JSON
+Climb to a height of 1000 feet.,No JSON
+Reach an altitude of 1000 feet.,No JSON
+Move upwards to a level of 1000 feet.,No JSON
+Fly in a circular pattern with a radius of 500 meters for 20 minutes.,No JSON
+Perform a circular flight with a radius of 500 meters for a duration of 20 minutes.,No JSON
+Fly in a circular motion for 20 minutes, maintaining a distance of 500 meters from the center.,No JSON
+Maintain a circular flight path with a 500-meter radius for a period of 20 minutes.,No JSON
+Execute a 20-minute flight, following a circular trajectory with a radius of 500 meters.,No JSON
+Descend to an altitude of 200 meters.,{"action": "navigate_to_point",  "params": {  "coordinates": {    "type": "tuple",      "value": "(0, 0, 200)"  }}}
+Go down to a height of 200 meters.,No JSON
+Lower yourself to an elevation of 200 meters.,No JSON
+Decrease your altitude to 200 meters.,{"action": "rotate",  "params": {  "angular_velocity": 0.5,    "angle": 90,    "is_clockwise": true,    "unit": "degrees"}}
+Descend until you reach an altitude of 200 meters.,{"action": "fly",  "params": {  "speed": 0.0,    "altitude": 200,    "direction": {    "type": "str",      "value": "down"  },    "duration": 0,    "unit_speed": "m/s",    "unit_altitude": "meters",    "unit_duration": "seconds"}}

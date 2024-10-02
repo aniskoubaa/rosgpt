@@ -127,6 +127,65 @@ To use ROSGPT with ROS1, you will need to modify the ROS 2 code in the scripts t
 
 If you have already developed an extension to enable ROSGPT to work with ROS1, we would love to hear from you! Please create a pull request in a new branch and we will review it for inclusion in the ROSGPT repository.
 
+## Evaluation
+
+The folder ```evaluation``` contains the implementation of a proof-of-concept that demonstrates the feasibility of transforming human language instructions into spatial navigation commands for a ROS2-enabled robot using ChatGPT and other language models. The project quantitatively evaluates this transformation across three different use cases (Ground Robot, Unmanned Aerial Vehicle, and Robotic Arm) and five large language models (LLaMA-7b, LLaMA2-7b, LLaMA2-70b, GPT-3.5, and GPT-4) on a set of 3,000 natural language commands.
+
+### Folder Structure
+- **1_Generate_Natural_Language_base_commands/**  
+  Scripts for generating natural language commands for various robot types, with and without rephrasing.
+
+- **2_rephrase_commands/**  
+  Scripts to rephrase the natural language commands to ensure variation.
+
+- **3_convert_NL_Ground_Robot_commands_to_json/**  
+  Scripts that convert natural language commands into JSON format using different language models.
+
+- **4_evaluate_Json_Ground_Robot_commands/**  
+  Scripts for evaluating the JSON outputs of natural language commands using GPT-4.
+
+- **5_extract_scores_from_evaluation/**  
+  Scripts for extracting scores from evaluations and drawing statistical plots.
+
+- **6_select_random_lines_for_manual_evaluation/**  
+  Scripts to select random command lines for human evaluation.
+
+- **7b_extract_average_scores_from_manual_evaluation/**  
+  Scripts to compute average scores and standard error of mean (SEM) from manual evaluations.
+
+- **8_calculate_intersections_btw_confidence_intervals/**  
+  Scripts for calculating intersections between confidence intervals across models.
+
+- **9_plot_squares_in_GPT4_Human_space/**  
+  Scripts to plot squares in GPT-4 human space for visualization.
+
+- **evaluations/**  
+  Contains results of evaluations for each model and scenario, including scores, plots, and textual outputs.
+
+- **Figures/**  
+  Contains figures and visualizations used in the analysis and reports.
+
+### Objectives
+The main goal of this project is to illustrate how natural language instructions can be accurately converted into structured robot commands and subsequently evaluated for performance using both automated and manual assessments. This proof-of-concept helps identify the strengths and weaknesses of different language models in robotics applications, providing insights into potential future integrations and research directions.
+
+### Reference
+
+**DOI**: [10.1002/spe.3377](http://doi.org/10.1002/spe.3377)
+
+**Citation**: Koubaa, A., Ammar, A., & Boulila, W. (2024). Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System. Software: Practice and Experience, September 2024. 
+
+**BibTeX Citation**:
+
+@article{koubaa2024next,
+  title={Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System},
+  author={Koubaa, Anis and Ammar, Adel and Boulila, Wadii},
+  journal={Software: Practice and Experience},
+  year={2024},
+  month={September},
+  doi={10.1002/spe.3377}
+}
+
+
 ## License
 
 This project is licensed under the Creative Commons Attribution-NonCommercial 4.0 International License. You are free to use, share, and adapt this material for non-commercial purposes, as long as you provide attribution to the original author(s) and the source.
@@ -143,3 +202,4 @@ As this project is still under progress, contributions are welcome! To contribut
 Before submitting your pull request, please ensure that your changes do not break the build and adhere to the project's coding style.
 
 For any questions or suggestions, please open an issue on the [GitHub issue tracker](https://github.com/aniskoubaa/rosgpt/issues).
+

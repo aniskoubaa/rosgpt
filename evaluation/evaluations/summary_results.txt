@@ -1,0 +1,74 @@
+GPT-4:
+--------------
+Ground robot:
+GPT4: 3.64
+Human: 4.28 //
+
+UAV
+GPT-4: 3.12
+Human: 4.1
+
+Robotic arm
+GPT-4: 2.42
+Human: 4.02
+
+
+
+GP3.5:
+--------------
+Ground robot:
+GPT4: 3.54
+Human: 3.25
+
+UAV
+GPT-4: 3.20
+Human: 3.46
+
+Robotic arm
+GPT-4: 2.42
+Human: 3.53
+
+
+LLaMA7b:
+---------------
+Ground robot:
+GPT4: 2.00
+Human: 1.15
+
+UAV
+GPT-4: 1.00
+Human: 0.26
+
+Robotic arm
+GPT-4: 1.58
+Human: 1.19
+
+
+LLaMA2-7b:
+---------------
+Ground robot:
+GPT4: 2.24
+Human: 0
+
+UAV
+GPT-4: 1.79
+Human: 1.56
+
+Robotic arm
+GPT-4: 1.75
+Human: 2.52
+
+
+LLaMA2-70b:
+---------------
+Ground robot:
+GPT4: 2.80
+Human: 3.16
+
+UAV
+GPT-4: 1.99
+Human: 2.04
+
+Robotic arm
+GPT-4: 1.13
+Human: 2.08

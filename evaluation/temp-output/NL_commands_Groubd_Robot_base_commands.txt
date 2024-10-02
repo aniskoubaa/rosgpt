@@ -1,0 +1,200 @@
+Move forward for 1 meter.
+Rotate counterclockwise by 90 degrees.
+Move backward for 2 seconds.
+Turn left and move forward for 5 meters.
+Rotate clockwise by 180 degrees.
+Move forward at a velocity of 0.5 meters per second for 10 seconds.
+Turn right and move forward for 3 meters.
+Move backward at a velocity of 1 meter per second for 4 seconds.
+Rotate counterclockwise by 270 degrees.
+Move forward for 2 meters.
+Rotate clockwise by 45 degrees and move forward for 1 meter.
+Turn left and move forward for 3 seconds.
+Move backward for 1 meter.
+Rotate counterclockwise by 120 degrees and move forward for 5 meters.
+Move forward at full speed for 20 seconds.
+Rotate clockwise by 60 degrees.
+Move backward at a velocity of 0.75 meters per second for 8 seconds.
+Turn right and move forward for 4 meters.
+Move forward for 3 meters.
+Rotate counterclockwise by 90 degrees and move forward for 2 seconds.
+"Move forward for 5 meters."
+"Turn left and continue for 10 seconds."
+"Rotate counterclockwise by 90 degrees."
+"Back up 2 meters and stop."
+"Move forward at a speed of 0.5 meters per second for 6 seconds."
+"Turn right and move forward for 1 meter."
+"Rotate clockwise by 180 degrees."
+"Move backward for 3 seconds."
+"Turn left and continue for 7 meters."
+"Move forward at a speed of 1 meter per second for 4 seconds."
+"Rotate counterclockwise by 45 degrees."
+"Go straight for 8 meters."
+"Turn right and move forward for 2 seconds."
+"Move backward for 4 meters and stop."
+"Rotate clockwise by 270 degrees."
+"Turn left and continue for 3 meters."
+"Move forward at a speed of 0.3 meters per second for 5 seconds."
+"Rotate counterclockwise by 60 degrees."
+"Go straight for 6 seconds."
+"Turn right and move forward for 7 meters."
+Move 2 meters forward.
+Turn left and move forward for 5 seconds.
+Rotate counterclockwise by 90 degrees.
+Move 3 meters backward.
+Turn right and move forward for 1 meter.
+Go to the living room and stop.
+Move 4 meters forward at a speed of 2 meters per second.
+Rotate clockwise by 180 degrees.
+Turn left and move forward for 3 meters.
+Move 2 meters backward at a speed of 0.5 meters per second.
+Go to the bedroom and stop.
+Rotate counterclockwise by 45 degrees.
+Turn right and move forward for 4 meters.
+Move 1 meter forward at a speed of 1 meter per second.
+Rotate clockwise by 270 degrees.
+Turn left and move forward for 2 seconds.
+Move 3 meters backward at a speed of 1.5 meters per second.
+Go to the dining room and stop.
+Rotate counterclockwise by 60 degrees.
+1. Move forward for 5 meters.
+2. Rotate counterclockwise by 90 degrees.
+3. Move backward for 3 seconds.
+4. Turn left and move forward for 2 meters.
+5. Make a U-turn and move in the opposite direction for 10 seconds.
+6. Rotate clockwise by 180 degrees and stop.
+7. Move diagonally to the right for 4 meters.
+8. Turn right and move forward for 1 meter.
+9. Move in a zigzag pattern for 8 seconds.
+10. Rotate counterclockwise by 45 degrees and move forward for 3 meters.
+11. Move backward and stop at the nearest obstacle.
+12. Turn left and move in a curved path for 6 meters.
+13. Move forward at a speed of 1 meter per second for 10 seconds.
+14. Rotate clockwise by 30 degrees and continue moving forward for 4 meters.
+15. Move in a circular path with a radius of 2 meters for 7 seconds.
+16. Turn right and move forward for 5 seconds, then revert back.
+17. Move along the perimeter of the room for 1 minute.
+18. Rotate counterclockwise by 60 degrees and move forward for 3 meters.
+19. Move forward at a variable speed for 10 seconds.
+20. Move backward and stop 1 meter away from the designated target.
+Move forward for 1 meter.
+Rotate counterclockwise by 90 degrees.
+Move backward for 2 seconds.
+Turn left and move forward for 3 meters.
+Move at a speed of 2 meters per second for 5 seconds.
+Rotate clockwise by 180 degrees.
+Move forward for 4 meters.
+Turn right and move backward for 1 meter.
+Rotate counterclockwise by 45 degrees.
+Move forward for 10 seconds.
+Turn left and move at a speed of 1 meter per second for 2 seconds.
+Move backward for 3 meters.
+Rotate clockwise by 270 degrees.
+Move forward for 5 meters.
+Turn right and move at a speed of 1.5 meters per second for 4 seconds.
+Rotate counterclockwise by 60 degrees.
+Move forward for 2 meters.
+Turn left and move at a speed of 0.5 meters per second for 10 seconds.
+Move backward for 6 meters.
+Move forward for 5 meters.
+Rotate counterclockwise by 90 degrees.
+Stop.
+Reverse for 2 seconds.
+Turn left and move forward for 10 meters.
+Move backward for 3 seconds.
+Rotate clockwise by 180 degrees.
+Turn right and move forward for 8 meters.
+Move forward for 1 meter and stop.
+Rotate counterclockwise by 135 degrees.
+Move backward for 6 meters.
+Turn left and move forward for 4 seconds.
+Rotate clockwise by 60 degrees.
+Move forward for 7 meters and stop.
+Reverse for 5 seconds.
+Turn right and move forward for 9 meters.
+Move forward for 2 seconds and stop.
+Rotate counterclockwise by 30 degrees.
+Reverse for 4 meters.
+Turn left and move forward for 6 seconds.
+Move forward for 5 meters.
+Turn left and move forward for 2 seconds.
+Rotate counterclockwise by 90 degrees.
+Move backward for 3 meters.
+Turn right and move forward for 1 meter.
+Move forward at a velocity of 0.5 meters per second.
+Rotate clockwise by 180 degrees.
+Move forward for 10 meters at a velocity of 2 meters per second.
+Turn left and move forward for 5 seconds.
+Move backward at a velocity of 1 meter per second.
+Rotate counterclockwise by 45 degrees.
+Move forward for 7 meters.
+Turn right and move forward for 4 meters.
+Move forward for 3 seconds.
+Turn left and move forward for 2 meters.
+Rotate clockwise by 270 degrees.
+Move backward for 6 meters.
+Turn right and move forward for 5 seconds.
+Move forward at a velocity of 0.3 meters per second for 10 meters.
+Rotate counterclockwise by 120 degrees.
+Rotate counterclockwise by 90 degrees.
+Move forward for 5 meters.
+Turn left and move forward for 2 seconds.
+Stop and wait.
+Move backward for 10 meters.
+Rotate clockwise by 180 degrees.
+Turn right and move forward for 3 seconds.
+Go to the living room and stop.
+Move 2 meters to the left.
+Rotate counterclockwise by 45 degrees.
+Move forward at a speed of 0.5 meters per second for 4 seconds.
+Turn left and move forward for 7 meters.
+Stop and reverse direction.
+Move 3 meters to the right.
+Rotate clockwise by 60 degrees.
+Turn right and move forward for 1 second.
+Go to the bedroom and stop.
+Move backward for 8 meters.
+Rotate counterclockwise by 270 degrees.
+Turn left and move forward for 6 seconds.
+"Turn left and move forward for 5 meters."
+"Rotate counterclockwise by 90 degrees."
+"Move backward for 3 seconds."
+"Turn right and move forward for 10 meters."
+"Rotate clockwise by 180 degrees."
+"Move forward at a speed of 0.5 meters per second for 4 seconds."
+"Turn left and move backward for 2 meters."
+"Move forward for 7 seconds."
+"Rotate counterclockwise by 30 degrees."
+"Move backward at a speed of 1 meter per second for 6 seconds."
+"Turn right and move forward for 8 meters."
+"Rotate clockwise by 270 degrees."
+"Move forward and then immediately stop."
+"Turn left and move backward for 4 meters."
+"Move forward for 10 seconds at a speed of 0.3 meters per second."
+"Rotate counterclockwise by 60 degrees."
+"Move backward and then immediately stop."
+"Turn right and move forward for 6 meters."
+"Rotate clockwise by 120 degrees."
+"Move forward and then backward for 5 meters."
+Move forward for 10 meters.
+Turn left and move forward for 5 meters.
+Rotate counterclockwise by 90 degrees.
+Move backward for 3 meters.
+Turn right and move forward at 0.5 m/s for 20 seconds.
+Go to the living room and stop.
+Move forward for 2 seconds at a speed of 1 meter per second.
+Rotate clockwise by 180 degrees.
+Move forward for 4 meters and then turn left.
+Rotate counterclockwise by 60 degrees and move forward for 3 meters.
+Go to the bedroom and stop.
+Move backward for 7 meters at a speed of 0.8 meters per second.
+Turn right and move forward for 6 meters.
+Rotate clockwise by 270 degrees.
+Move forward for 5 seconds at a speed of 0.5 meters per second.
+Go to the dining room and stop.
+Move forward for 8 meters and then turn right.
+Rotate counterclockwise by 120 degrees and move forward for 2 meters.
+Turn left and move forward for 9 meters.
+Move backward for 6 seconds at a speed of 1 meter per second.
+Move forward at a constant speed for 5 meters.
+Rotate counterclockwise by 90 degrees and move backwards for 2 seconds.

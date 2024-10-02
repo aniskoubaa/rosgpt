@@ -1,0 +1,15 @@
+LLaMA-7b,Ground_Robot,1.15 \pm 0.50
+LLaMA-7b,UAV,0.26 \pm 0.28
+LLaMA-7b,Robotic_Arm,1.19 \pm 0.53
+LLaMA2-7b,Ground_Robot,0.00 \pm 0.00
+LLaMA2-7b,UAV,1.56 \pm 0.50
+LLaMA2-7b,Robotic_Arm,2.52 \pm 0.65
+LLaMA2-70b,Ground_Robot,3.16 \pm 0.46
+LLaMA2-70b,UAV,2.04 \pm 0.54
+LLaMA2-70b,Robotic_Arm,2.08 \pm 0.64
+GPT3.5,Ground_Robot,3.25 \pm 0.44
+GPT3.5,UAV,3.46 \pm 0.34
+GPT3.5,Robotic_Arm,3.53 \pm 0.50
+GPT4,Ground_Robot,4.28 \pm 0.32
+GPT4,UAV,4.10 \pm 0.32
+GPT4,Robotic_Arm,4.02 \pm 0.53
