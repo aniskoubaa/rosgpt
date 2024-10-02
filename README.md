@@ -27,7 +27,7 @@ https://www.preprints.org/manuscript/202304.0827/v2
 
 2. **DOI**: [10.1002/spe.3377](http://doi.org/10.1002/spe.3377)
 
-**Citation**: Koubaa, A., Ammar, A., & Boulila, W. (2024). Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System. Software: Practice and Experience, September 2024. 
+**Citation**: Koubaa, A., Ammar, A., & Boulila, W. (2024). Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System. Software: Practice and Experience, September 2024. https://onlinelibrary.wiley.com/doi/10.1002/spe.3377
 
 **BibTeX Citation**:
 
