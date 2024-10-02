@@ -2,9 +2,9 @@
 
 ROSGPT is a pioneering approach that combines the power of ChatGPT and ROS (Robot Operating System) to redefine human-robot interaction. By leveraging large language models like ChatGPT, ROSGPT enables the conversion of unstructured human language into actionable robotic commands. This repository contains the implementation of ROSGPT, allowing developers to explore and contribute to the project.
 
-## Reference Paper
+## Reference Papers
 
-[![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202304.0827.v2-blue)](https://www.preprints.org/manuscript/202304.0827/v2)
+1. [![DOI](https://img.shields.io/badge/DOI-10.20944%2Fpreprints202304.0827.v2-blue)](https://www.preprints.org/manuscript/202304.0827/v2)
 
 **Author**: Anis Koubaa
 
@@ -24,6 +24,23 @@ https://www.preprints.org/manuscript/202304.0827/v2
   doi={10.20944/preprints202304.0827.v2}
 }
 ```
+
+2. **DOI**: [10.1002/spe.3377](http://doi.org/10.1002/spe.3377)
+
+**Citation**: Koubaa, A., Ammar, A., & Boulila, W. (2024). Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System. Software: Practice and Experience, September 2024. 
+
+**BibTeX Citation**:
+
+```@article{koubaa2024next,
+  title={Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System},
+  author={Koubaa, Anis and Ammar, Adel and Boulila, Wadii},
+  journal={Software: Practice and Experience},
+  year={2024},
+  month={September},
+  doi={10.1002/spe.3377}
+}
+```
+
 
 ## Video Demo
 
@@ -167,24 +184,6 @@ The folder ```evaluation``` contains the implementation of a proof-of-concept th
 
 ### Objectives
 The main goal of this project is to illustrate how natural language instructions can be accurately converted into structured robot commands and subsequently evaluated for performance using both automated and manual assessments. This proof-of-concept helps identify the strengths and weaknesses of different language models in robotics applications, providing insights into potential future integrations and research directions.
-
-### Reference
-
-**DOI**: [10.1002/spe.3377](http://doi.org/10.1002/spe.3377)
-
-**Citation**: Koubaa, A., Ammar, A., & Boulila, W. (2024). Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System. Software: Practice and Experience, September 2024. 
-
-**BibTeX Citation**:
-
-```@article{koubaa2024next,
-  title={Next-Generation Human-Robot Interaction with ChatGPT and Robot Operating System},
-  author={Koubaa, Anis and Ammar, Adel and Boulila, Wadii},
-  journal={Software: Practice and Experience},
-  year={2024},
-  month={September},
-  doi={10.1002/spe.3377}
-}
-```
 
 
 ## License
