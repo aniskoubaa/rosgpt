@@ -1,0 +1,1000 @@
+Move forward for 1 meter., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead covering a distance of 1 meter.,Please provide the JSON response.}}
+Advance by 1 meter in the forward direction.,Please provide the JSON response.}}
+Take a step forward spanning 1 meter.,Please provide the JSON response.}}
+Move ahead for a length of 1 meter., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate in an anti-clockwise direction by 90 degrees.,Please provide the JSON response.}}
+Turn left by 90 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate 90 degrees counterclockwise.,Please provide the JSON response.}}
+Spin in the opposite direction by 90 degrees.,Please provide the JSON response.}}
+Move backward for 2 seconds.,Please provide the JSON corresponding to the given prompt.}}
+Go backwards for a duration of 2 seconds.,Please provide the JSON response.}}
+Reverse your direction and travel for a span of 2 seconds.,Please provide the JSON response.}}
+Retreat for a time frame of 2 seconds.,Please provide the JSON response.}}
+Take two seconds to move in the opposite direction.,Please provide the JSON corresponding to the given prompt.}}
+Turn left and move forward for 5 meters.,Please provide the JSON response.}}
+Move forward for 5 meters, then turn left.,Please provide the JSON response.}}
+Proceed for 5 meters, then make a left turn.,Please provide the JSON response.}}
+Take a left turn and continue moving forward for 5 meters.,Please provide the JSON response.}}
+Make a leftward turn and advance for 5 meters.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Turn in a clockwise direction by 180 degrees.,Please provide the JSON response.}}
+Rotate by 180 degrees in a clockwise manner.,Please provide the JSON response.}}
+Execute a clockwise rotation of 180 degrees.,Please provide the JSON response.}}
+Move forward at a velocity of 0.5 meters per second for 10 seconds.,Please provide the JSON response.}}
+Proceed with a speed of 0.5 meters per second for a duration of 10 seconds.,Please provide the JSON response.}}
+Advance at 0.5 meters per second for a total of 10 seconds.,Please provide the JSON response.}}
+Travel forward, maintaining a velocity of 0.5 meters per second, for 10 seconds.,Please note that I will only accept answers in the format of a JSON object, as specified in the problem statement.}}
+Move ahead for a period of 10 seconds, with a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Turn right and move forward for 3 meters.,Please provide the JSON response.}}
+Proceed forward for a distance of 3 meters after making a right turn.,Please provide the JSON response.}}
+After turning right, continue straight for 3 meters.,Please provide the JSON response.}}
+Make a right turn and advance for a distance of 3 meters.,Please provide the JSON response.}}
+Execute a rightward turn and then travel straight ahead for 3 meters.,Please provide the JSON response.}}
+Move backward at a velocity of 1 meter per second for 4 seconds.,Please provide the JSON response.}}
+Go in reverse, traveling at a speed of 1 meter per second for a duration of 4 seconds.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Reverse direction and move at a speed of 1 meter per second for a period of 4 seconds.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Travel backward for 4 seconds, maintaining a velocity of 1 meter per second.,Please provide the JSON response.}}
+Move in the opposite direction at a constant speed of 1 meter per second for 4 seconds.,Note: I will give you multiple prompts, and you must answer them one by one. Please answer each prompt only once.}}
+Rotate counterclockwise by 270 degrees.,Please provide the JSON response.}}
+Rotate 270 degrees counterclockwise.,Please provide the JSON response.}}
+Turn left by 270 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Perform a counterclockwise rotation of 270 degrees.,Please provide the JSON response.}}
+Rotate in the opposite direction by 270 degrees.,Please provide the JSON response.}}
+Move forward for 2 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead by a distance of 2 meters.,Please provide the JSON response.}}
+Advance for a span of 2 meters.,Please provide the JSON response.}}
+Travel forward, covering a distance of 2 meters.,Please note that I will only provide one answer, and you should only provide one answer for each prompt.}}
+Move straight ahead, going 2 meters.,Please provide the JSON response.}}
+Rotate clockwise by 45 degrees and move forward for 1 meter.,Please provide the JSON response.}}
+Move forward for 1 meter while rotating 45 degrees clockwise.,Please provide the JSON response.}}
+Perform a 45-degree clockwise rotation, followed by a forward movement of 1 meter.,Note: You can assume that the robot has already been initialized and is in a stable state before the given command is executed.}}
+Rotate by 45 degrees in a clockwise direction and then proceed to move forward for 1 meter.,Please provide the JSON response.}}
+Combine a clockwise rotation of 45 degrees with a forward movement of 1 meter.,Note: You can assume that the robot has already been initialized and is in a known state.}}
+Turn left and move forward for 3 seconds.,Please provide the JSON response.}}
+Proceed straight for 3 seconds after taking a left turn.,Please provide the JSON response.}}
+Take a left turn and continue advancing for 3 seconds.,Please provide the JSON response.}}
+Make a left turn and proceed forward for a duration of 3 seconds.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+After turning left, move straight ahead for 3 seconds.,Please provide the JSON response.}}
+Move backward for 1 meter.,Please provide the JSON corresponding to the given prompt.}}
+Reverse direction and travel 1 meter.,Please provide the JSON response.}}
+Go back for a distance of 1 meter.,Please provide the JSON response.}}
+Retreat for 1 meter.,Please provide the JSON response.}}
+Take one step backward covering a distance of 1 meter.,Please provide the JSON response.}}
+Rotate counterclockwise by 120 degrees and move forward for 5 meters.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 120 degrees followed by a forward movement of 5 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Rotate in the counterclockwise direction by 120 degrees and proceed forward for a distance of 5 meters.,Please provide the JSON response.}}
+Turn to the left by an angle of 120 degrees and then move forward for 5 meters.,Please provide the JSON response.}}
+Execute a 120-degree counterclockwise rotation and proceed ahead for a distance of 5 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Move forward at full speed for 20 seconds.,Please provide the JSON response.}}
+Proceed ahead at maximum velocity for a duration of 20 seconds.,Please provide the JSON response.}}
+Travel straight ahead at top speed for a duration of 20 seconds.,Please provide the JSON response.}}
+Advance forward with utmost speed for a period of 20 seconds.,Please provide the JSON response.}}
+Go straight ahead at full throttle for a duration of 20 seconds.,Please provide the JSON response.}}
+Rotate clockwise by 60 degrees.,Please provide the JSON response.}}
+Turn right by 60 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Perform a clockwise rotation of 60 degrees.,Please provide the JSON response.}}
+Rotate in a clockwise direction, making a 60-degree turn.,Please provide the JSON response.}}
+Rotate to the right, making a 60-degree angle.,Please provide the JSON response.}}
+Move backward at a velocity of 0.75 meters per second for 8 seconds.,Please provide the JSON response.}}
+Reverse at 0.75 meters per second for a duration of 8 seconds.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Go in the opposite direction with a speed of 0.75 meters per second for 8 seconds.,Please provide the JSON response.}}
+Travel backwards with a velocity of 0.75 meters per second for a period of 8 seconds.,Please provide the JSON response.}}
+Move in reverse at a rate of 0.75 meters per second for the next 8 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 4 meters.,Please provide the JSON response.}}
+Take a right turn and proceed straight ahead for a distance of 4 meters.,Please provide the JSON response.}}
+Make a right turn and continue moving forward for 4 meters.,Please provide the JSON response.}}
+Rotate to the right and advance ahead for a distance of 4 meters.,Please provide the JSON response.}}
+Go to the right and keep moving straight for 4 meters.,Please provide the JSON response.}}
+Move forward for 3 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead for a distance of 3 meters.,Please provide the JSON response.}}
+Advance ahead 3 meters.,Please provide the JSON response.}}
+Go forward a total of 3 meters.,Please provide the JSON response.}}
+Travel straight for a distance of 3 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees and move forward for 2 seconds.,Please provide the JSON response.}}
+Turn left 90 degrees and proceed forward for a duration of 2 seconds.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 90 degrees, followed by a 2-second forward movement.,Note: You can assume that the robot has already been initialized and is in a known state.}}
+Rotate anti-clockwise by 90 degrees and continue moving forward for 2 seconds.,Please provide the JSON response.}}
+Make a left turn of 90 degrees and proceed forward for 2 seconds.,Note: I will give you the prompts one at a time, and you must answer each one individually. Good luck!}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead a distance of 5 meters.,Please provide the JSON response.}}
+Advance for a total of 5 meters.,Please provide the JSON response.}}
+Travel straight ahead covering a distance of 5 meters.,Please provide the JSON response.}}
+Go forward a length of 5 meters.,Please provide the JSON response.}}
+Turn left and continue for 10 seconds.,Please provide the JSON response.}}
+Make a left turn and keep going for 10 seconds.,Please provide the JSON response.}}
+Go left and continue for 10 seconds.,Please provide the JSON corresponding to the given prompt.}}
+Take a left turn and continue for a duration of 10 seconds.,Please provide the JSON response.}}
+Proceed by turning left and maintaining that direction for 10 seconds.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn 90 degrees counterclockwise.,Please provide the JSON response.}}
+Rotate in the opposite direction by 90 degrees.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 90 degrees.,Please provide the JSON response.}}
+Move in a counterclockwise direction, turning by 90 degrees.,Please provide the JSON response.}}
+Back up 2 meters and stop.,Please provide the JSON corresponding to the given prompt.}}
+Move back a distance of 2 meters and come to a halt.,Please provide the JSON response.}}
+Reverse by 2 meters and come to a stop.,Please provide the JSON response.}}
+Retreat 2 meters and bring yourself to a standstill.,Please provide the JSON response.}}
+Step backward 2 meters and cease movement.,Please provide the JSON response.}}
+Move forward at a speed of 0.5 meters per second for 6 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 6 seconds at a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Advance for 6 seconds while maintaining a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Travel forward for a period of 6 seconds, covering a distance of 0.5 meters in each second.,Please provide the JSON response.}}
+Execute a movement in the forward direction, achieving a velocity of 0.5 meters per second for a duration of 6 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 1 meter.,Please provide the JSON response.}}
+Make a right turn and proceed ahead for a distance of 1 meter.,Please provide the JSON response.}}
+Take a right turn and continue moving straight for a distance of 1 meter.,Please provide the JSON response.}}
+Head to the right and advance forward for 1 meter.,Please provide the JSON response.}}
+Rotate right and proceed ahead for a length of 1 meter.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Turn in a clockwise direction until you have rotated 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Rotate 180 degrees in the clockwise direction.,Please provide the JSON response.}}
+Turn to the right until you are facing the opposite direction.,Please provide the JSON response.}}
+Move backward for 3 seconds.,Please provide the JSON response.}}
+Go in reverse for a duration of 3 seconds.,Please provide the JSON response.}}
+Reverse your movement for a total of 3 seconds.,Please provide the JSON response.}}
+Backtrack for a period of 3 seconds.,Please provide the JSON response.}}
+Take a 3-second step backwards.,Please provide the JSON response.}}
+Turn left and continue for 7 meters.,Please provide the JSON response.}}
+Take a left turn and proceed straight ahead for a distance of 7 meters.,Please provide the JSON response.}}
+Make a left turn and keep going for 7 meters.,Please provide the JSON response.}}
+Go left and carry on for a distance of 7 meters.,Please provide the JSON response.}}
+Head to the left and continue for a length of 7 meters.,Please provide the JSON response.}}
+Move forward at a speed of 1 meter per second for 4 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 4 seconds with a velocity of 1 meter per second.,Please provide the JSON response.}}
+Advance for 4 seconds, maintaining a speed of 1 meter per second.,Please provide the JSON response.}}
+Travel forward for 4 seconds, moving at a rate of 1 meter per second.,Please provide the JSON response.}}
+For a period of 4 seconds, move ahead at a speed of 1 meter per second.,Please provide the JSON response.}}
+Rotate counterclockwise by 45 degrees.,Please provide the JSON response.}}
+Change the orientation by 45 degrees in a counterclockwise direction.,Please provide the JSON response.}}
+Turn left by 45 degrees.,Please provide the JSON response.}}
+Rotate anticlockwise by an angle of 45 degrees.,Please provide the JSON response.}}
+Adjust the position by rotating in the counterclockwise direction with an angle of 45 degrees.,Please provide the JSON response.}}
+Go straight for 8 meters.,Please provide the JSON response.}}
+Proceed in a straight line for a distance of 8 meters.,Please provide the JSON response.}}
+Continue in a straight direction for a span of 8 meters.,Please provide the JSON response.}}
+Maintain a straight path for a duration of 8 meters.,Please provide the JSON response.}}
+Stay on course for a distance of 8 meters ahead.,Please provide the JSON response.}}
+Turn right and move forward for 2 seconds.,Please provide the JSON response.}}
+Proceed straight for 2 seconds after making a right turn.,Please provide the JSON response.}}
+Take a right turn and continue moving ahead for a duration of 2 seconds.,Please provide the JSON response.}}
+Make a right turn and advance forward for 2 seconds.,Please provide the JSON response.}}
+After turning right, keep moving forward for a period of 2 seconds.,Please provide the JSON response.}}
+Move backward for 4 meters and stop.,Please provide the JSON response.}}
+Reverse for a distance of 4 meters and come to a halt.,Please provide the JSON response.}}
+Go back for 4 meters and then come to a stop.,Please provide the JSON response.}}
+Take 4 meters in reverse and cease movement.,Please provide the JSON response.}}
+Travel in the opposite direction for a distance of 4 meters and then pause.,Please provide the JSON response.}}
+Rotate clockwise by 270 degrees.,Please provide the JSON response.}}
+Turn to the right by 270 degrees.,Please provide the JSON response.}}
+Move in a clockwise direction, rotating 270 degrees.,Please provide the JSON response.}}
+Spin in a clockwise manner, completing a 270 degree rotation.,Please provide the JSON response.}}
+Rotate by 270 degrees in a clockwise fashion.,Please provide the JSON response.}}
+Turn left and continue for 3 meters.,Please provide the JSON response.}}
+Make a left turn and keep going for a distance of 3 meters.,Please provide the JSON response.}}
+Proceed straight for 3 meters after making a left turn.,Please provide the JSON response.}}
+After turning left, travel straight for 3 meters.,Please provide the JSON response.}}
+Take a left and continue on for a distance of 3 meters.,Please provide the JSON response.}}
+Move forward at a speed of 0.3 meters per second for 5 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 5 seconds at a velocity of 0.3 meters per second.,Please provide the JSON response.}}
+Advance at a rate of 0.3 meters per second for a period of 5 seconds.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Travel forward at a speed of 0.3 meters per second, maintaining it for 5 seconds.,Please provide the JSON response.}}
+Go straight ahead for 5 seconds while maintaining a velocity of 0.3 meters per second.,Please provide the JSON response.}}
+Rotate counterclockwise by 60 degrees.,Please provide the JSON response.}}
+Turn 60 degrees counterclockwise.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in the opposite direction by 60 degrees.,Please provide the JSON response.}}
+Rotate to the left by 60 degrees.,Please provide the JSON response.}}
+Make a counterclockwise rotation of 60 degrees.,Please provide the JSON response.}}
+Go straight for 6 seconds.,Please provide the JSON response.}}
+Proceed in a straight line for a duration of 6 seconds.,Please provide the JSON response.}}
+Keep moving forward in a straight path for 6 seconds.,Please note that I will only accept answers that are in the format of a JSON object, with the keys and values separated by a comma, and with the values enclosed in curly braces.}}
+Maintain a straight course for 6 seconds.,Please provide the JSON response.}}
+Continue in a straight direction for a period of 6 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 7 meters.,Please provide the JSON response.}}
+Take a right turn and proceed straight ahead for a distance of 7 meters.,Please provide the JSON response.}}
+Make a right-hand turn and continue moving forward for a length of 7 meters.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Head to the right side and advance for a distance of 7 meters.,Please provide the JSON response.}}
+Rotate to the right and travel straight for 7 meters.,Please provide the JSON response.}}
+Move 2 meters forward., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead by a distance of 2 meters.,Please provide the JSON response.}}
+Advance 2 meters in the forward direction.,Please provide the JSON response.}}
+Take a step forward for a distance of 2 meters.,Please provide the JSON response.}}
+Move straight ahead, covering a distance of 2 meters.,Please provide the JSON response.}}
+Turn left and move forward for 5 seconds.,Please provide the JSON response.}}
+Move forward for 5 seconds after turning left.,Please provide the JSON response.}}
+After making a left turn, proceed forward for 5 seconds.,Please provide the JSON response.}}
+Take a left turn and continue moving forward for 5 seconds.,Please provide the JSON response.}}
+Start moving forward for 5 seconds after making a left turn.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate 90 degrees counterclockwise.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 90 degrees.,Please provide the JSON response.}}
+Rotate by 90 degrees in the counterclockwise direction.,Please provide the JSON response.}}
+Turn left by 90 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Move 3 meters backward.,Please provide the JSON response.}}
+Go back 3 meters.,Please provide the JSON response.}}
+Retreat 3 meters.,Please provide the JSON response.}}
+Step 3 meters in reverse.,Please provide the JSON corresponding to the given prompt.}}
+Travel in the opposite direction for 3 meters.,Please provide the JSON response.}}
+Turn right and move forward for 1 meter.,Please provide the JSON response.}}
+Take a right turn and proceed straight ahead for a distance of 1 meter.,Please provide the JSON response.}}
+Make a right turn and advance ahead for a distance of 1 meter.,Please provide the JSON response.}}
+Head to the right and continue moving forward for 1 meter.,Please provide the JSON response.}}
+Rotate to the right and proceed in a forward motion covering a distance of 1 meter.,Please provide the JSON response.}}
+Go to the living room and stop.,Please provide the JSON response.}}
+Please proceed to the living room and come to a halt.,Please provide the JSON response.}}
+Make your way to the living room and cease moving.,Please provide the JSON response.}}
+Head to the living room and stand still.,Please provide the JSON corresponding to the prompt.}}
+Move towards the living room and come to a stop.,Please note that I will only answer in English, and I will not provide any explanation or justification for my answers.}}
+Move 4 meters forward at a speed of 2 meters per second.,Please provide the JSON response.}}
+Proceed ahead by a distance of 4 meters while maintaining a velocity of 2 meters per second.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Travel in the forward direction for 4 meters with a constant speed of 2 meters per second.,Please provide the JSON response.}}
+Advance 4 meters in the forward direction while maintaining a velocity of 2 meters per second.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Propel oneself forward at a rate of 2 meters per second, covering a distance of 4 meters.,Note: I will give you multiple prompts, and you must answer them one by one. Please answer each prompt only once.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Turn 180 degrees in a clockwise direction.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Rotate by 180 degrees in the clockwise direction.,Please provide the JSON response.}}
+Turn in a clockwise fashion, rotating 180 degrees.,Please provide the JSON response.}}
+Turn left and move forward for 3 meters.,Please provide the JSON response.}}
+Make a left turn and proceed straight ahead for a distance of 3 meters.,Please provide the JSON response.}}
+Take a left and continue moving forward, covering a span of 3 meters.,Please provide the JSON response.}}
+Rotate to the left and advance for 3 meters.,Please provide the JSON response.}}
+Shift towards the left and travel straight for a distance of 3 meters.,Please provide the JSON response.}}
+Move 2 meters backward at a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Back up 2 meters with a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Go in reverse for a distance of 2 meters at a rate of 0.5 meters per second.,Please provide the JSON response.}}
+Retreat at a speed of 0.5 meters per second for a duration that covers a distance of 2 meters.,Note: You can assume that the agent has the ability to move and rotate, but it cannot go to a location that is not in its current location.}}
+Travel backwards at 0.5 meters per second, covering a distance of 2 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Go to the bedroom and stop.,Please provide the JSON response.}}
+Please proceed to the bedroom and come to a halt.,Please provide the JSON response.}}
+Make your way to the bedroom and cease your movement.,Please provide the JSON response.}}
+Head to the bedroom and pause.,Please provide the JSON corresponding to the given prompt.}}
+Go to the bedroom and stand still.,Please provide the JSON response.}}
+Rotate counterclockwise by 45 degrees.,Please provide the JSON response.}}
+Turn 45 degrees in the counterclockwise direction.,Please provide the JSON response.}}
+Rotate anticlockwise at an angle of 45 degrees.,Please provide the JSON response.}}
+Rotate left by 45 degrees.,Please provide the JSON response.}}
+Perform a 45-degree counterclockwise rotation.,Please provide the JSON response.}}
+Turn right and move forward for 4 meters.,Please provide the JSON response.}}
+Proceed forward for a distance of 4 meters after making a right turn.,Please provide the JSON response.}}
+Take a right and continue moving ahead for 4 meters.,Please provide the JSON response.}}
+After making a right turn, advance straight for a distance of 4 meters.,Please provide the JSON response.}}
+Make a right-hand turn and proceed forward for 4 meters.,Please provide the JSON response.}}
+Move 1 meter forward at a speed of 1 meter per second.,Please provide the JSON response.}}
+Proceed ahead by 1 meter with a velocity of 1 meter per second.,Please provide the JSON response.}}
+Advance forward by a distance of 1 meter, maintaining a speed of 1 meter per second.,Note: Please provide the JSON response without any introduction, comments, or conclusion.}}
+Go one meter ahead, moving at a rate of one meter per second.,Please provide the JSON response.}}
+Travel forward for 1 meter while maintaining a speed of 1 meter per second.,Please provide the JSON response.}}
+Rotate clockwise by 270 degrees.,Please provide the JSON response.}}
+Turn 270 degrees in a clockwise direction.,Please provide the JSON response.}}
+Rotate by 270 degrees in a clockwise manner.,Please provide the JSON response.}}
+Execute a clockwise rotation of 270 degrees.,Please provide the JSON response.}}
+Shift the orientation by 270 degrees in a clockwise fashion.,Please provide the JSON response.}}
+Turn left and move forward for 2 seconds.,Please provide the JSON response.}}
+Proceed forward for 2 seconds, then make a left turn.,Please provide the JSON response.}}
+Take a left turn and continue moving straight ahead for 2 seconds.,Please provide the JSON response.}}
+Make a left turn and drive forward for 2 seconds.,Please provide the JSON response.}}
+After turning left, continue moving straight for 2 seconds.,Please provide the JSON response.}}
+Move 3 meters backward at a speed of 1.5 meters per second.,Please provide the JSON response.}}
+Go backwards for a distance of 3 meters at a velocity of 1.5 meters per second.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Reverse direction and travel a distance of 3 meters at a speed of 1.5 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Retreat by 3 meters, maintaining a constant speed of 1.5 meters per second.,Please provide the JSON response.}}
+Travel backwards for 3 meters, maintaining a velocity of 1.5 meters per second.,Please provide the JSON response.}}
+Go to the dining room and stop.,Please provide the JSON response.}}
+Proceed to the dining room and come to a halt.,Please provide the JSON response.}}
+Head over to the dining room and pause.,Please provide the JSON response.}}
+Make your way to the dining room and bring yourself to a stop.,Please provide the JSON response.}}
+Move towards the dining room and cease your motion.,Please provide the JSON response.}}
+Rotate counterclockwise by 60 degrees.,Please provide the JSON response.}}
+Turn left by 60 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in the opposite direction by 60 degrees.,Please provide the JSON response.}}
+Execute a 60-degree counterclockwise rotation.,Please provide the JSON response.}}
+Rotate anticlockwise by 60 degrees.,Please provide the JSON response.}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Advance straight ahead for 5 meters.,Please provide the JSON response.}}
+Travel forward for a distance of 5 meters.,Please provide the JSON response.}}
+Go in the forward direction for 5 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn 90 degrees counterclockwise.,Please provide the JSON response.}}
+Rotate anticlockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate to the left by 90 degrees.,Please provide the JSON response.}}
+Change the orientation to the left by 90 degrees.,Please provide the JSON response.}}
+Move backward for 3 seconds.,Please provide the JSON response.}}
+Reverse for a duration of 3 seconds.,Please provide the JSON response.}}
+Go in reverse for a period of 3 seconds.,Please provide the JSON response.}}
+Travel backwards for a total of 3 seconds.,Please provide the JSON response.}}
+Move in the opposite direction for 3 seconds.,Please provide the JSON response.}}
+Turn left and move forward for 2 meters.,Please provide the JSON response.}}
+Proceed forward for 2 meters after making a left turn.,Please provide the JSON response.}}
+Make a left turn and advance for 2 meters.,Please provide the JSON response.}}
+Take a left and continue forward for a distance of 2 meters.,Please provide the JSON response.}}
+Move ahead for 2 meters after making a leftward turn.,Please provide the JSON response.}}
+Make a U-turn and move in the opposite direction for 10 seconds.,Please provide the JSON response.}}
+Perform a U-turn and proceed in the opposite direction for a duration of 10 seconds.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Execute a U-turn and travel in the opposite direction for a time span of 10 seconds.,Please provide the JSON response.}}
+Turn around and travel in the opposite direction for a duration of 10 seconds.,Please provide the JSON response.}}
+Perform a U-turn and move in the opposite direction for 10 seconds.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees and stop.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation and then come to a halt.,Please provide the JSON response.}}
+Execute a clockwise rotation of 180 degrees and then cease movement.,Please provide the JSON response.}}
+Turn right by 180 degrees and then stop.,Please provide the JSON response.}}
+Rotate in a clockwise direction by 180 degrees and then come to a stop.,Please provide the JSON response.}}
+Move diagonally to the right for 4 meters.,Please provide the JSON response.}}
+Go right at an angle for a distance of 4 meters.,Please provide the JSON response.}}
+Travel in a diagonal direction to the right covering a distance of 4 meters.,Please provide the JSON response.}}
+Proceed at a diagonal towards the right, moving 4 meters.,Please provide the JSON response.}}
+Move to the right diagonally, covering a distance of 4 meters.,Please provide the JSON response.}}
+Turn right and move forward for 1 meter.,Please provide the JSON response.}}
+Make a right turn and proceed one meter forward.,Please provide the JSON response.}}
+Take a right and continue moving ahead for a distance of 1 meter.,Please provide the JSON response.}}
+Rotate to the right and advance straight ahead for 1 meter.,Please provide the JSON response.}}
+Facing towards the right, progress forward for a distance of 1 meter.,Please provide the JSON response.}}
+Move in a zigzag pattern for 8 seconds.,Please provide the JSON response.}}
+Perform a zigzag movement continuously for a duration of 8 seconds.,Note: You can assume that the agent has the ability to perform zigzag movement.}}
+Traverse in a serpentine motion for 8 seconds.,Please provide the JSON response.}}
+Alternate your path in a zigzagging pattern for the next 8 seconds.,Please provide the JSON response.}}
+Execute a back-and-forth motion resembling a zigzag for a total of 8 seconds.,Note: You can assume that the robot has already been initialized and is in a known initial state.}}
+Rotate counterclockwise by 45 degrees and move forward for 3 meters.,Please provide the JSON response.}}
+Turn left by 45 degrees and advance for a distance of 3 meters.,Please provide the JSON response.}}
+Rotate anti-clockwise at an angle of 45 degrees and proceed ahead for a span of 3 meters.,Please provide the JSON response.}}
+Pivot in a counterclockwise direction by 45 degrees and travel a distance of 3 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Shift to the left by 45 degrees and continue moving forward, covering a distance of 3 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Move backward and stop at the nearest obstacle.,Please provide the JSON response.}}
+Reverse and come to a halt once you reach the closest object in your path.,Note: You can assume that the agent has already been given the necessary permissions and capabilities to perform the actions specified in the ontology.}}
+Back up and cease movement upon reaching the nearest obstruction.,Please provide the JSON response.}}
+Retreat and come to a stop when you encounter the closest barrier.,Note: You can assume that the agent has already been given the necessary permissions and capabilities to perform the actions.}}
+Go in reverse and stop once you reach the nearest obstacle.,Please provide the JSON response.}}
+Turn left and move in a curved path for 6 meters.,Please provide the JSON response.}}
+Take a left turn and travel in a curved trajectory covering a distance of 6 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Make a leftward turn and proceed along a curving route spanning 6 meters.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Go left and follow a curved path for a distance of 6 meters.,Please provide the JSON response.}}
+Regulate your movement to the left and travel in a curved trajectory for 6 meters.,Please provide the JSON response.}}
+Move forward at a speed of 1 meter per second for 10 seconds.,Please provide the JSON response.}}
+Proceed ahead at a velocity of 1 meter per second for a duration of 10 seconds.,Please provide the JSON response.}}
+Advance at a rate of 1 meter per second for 10 seconds.,Please provide the JSON response.}}
+Go straight ahead, maintaining a speed of 1 meter per second for a period of 10 seconds.,Please provide the JSON response.}}
+Travel forward for 10 seconds, covering a distance of 1 meter per second.,Please provide the JSON response.}}
+Rotate clockwise by 30 degrees and continue moving forward for 4 meters.,Please provide the JSON response.}}
+Move forward for 4 meters and rotate in a clockwise direction by 30 degrees.,Note: I will give you multiple prompts, and you must answer them one by one. Please answer each prompt only once.}}
+Rotate 30 degrees clockwise and then proceed to move forward for 4 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to perform the actions.}}
+After rotating 30 degrees clockwise, continue moving forward for 4 meters.,Note: You can assume that the robot has already been initialized and is in a known state before the given prompt.}}
+Rotate to the right by 30 degrees and then proceed with a forward movement of 4 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Move in a circular path with a radius of 2 meters for 7 seconds.,Please provide the JSON response.}}
+Circle around with a radius of 2 meters for a duration of 7 seconds.,Please provide the JSON response.}}
+Perform circular movement with a radius of 2 meters for 7 seconds.,Please provide the JSON response.}}
+Rotate along a circular trajectory with a 2-meter radius for 7 seconds.,Please provide the JSON response.}}
+Traverse a circular path, covering a distance of 2 meters, for a duration of 7 seconds.,Note: You can assume that the agent has the ability to move and rotate in 3D space.}}
+Turn right and move forward for 5 seconds, then revert back.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Make a right turn and proceed forward for 5 seconds, then return back.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to perform the actions.}}
+Take a right turn and advance ahead for 5 seconds, then go back in reverse.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving, rotating, and turning.}}
+Rotate to the right and move straight ahead for 5 seconds, then reverse the direction.,Note: You can assume that the robot has a fixed reference frame and the user's perspective is fixed to the robot's reference frame.}}
+Change direction to the right and go forward for 5 seconds, then reverse back.,Note: You can assume that the robot has already been initialized and is in a known state.}}
+Move along the perimeter of the room for 1 minute.,Please provide the JSON response.}}
+Walk around the edges of the room for 1 minute.,Please provide the JSON response.}}
+Circulate along the boundary of the room for 1 minute.,Please provide the JSON response.}}
+Patrol the perimeter of the room for 1 minute.,Please provide the JSON response.}}
+Traverse the outer edges of the room for 1 minute.,Please provide the JSON response.}}
+Rotate counterclockwise by 60 degrees and move forward for 3 meters.,Please provide the JSON response.}}
+Turn left by 60 degrees and proceed ahead for a distance of 3 meters.,Please provide the JSON response.}}
+Rotate anticlockwise by 60 degrees and advance 3 meters.,Please provide the JSON response.}}
+Face left and travel straight for 3 meters after rotating 60 degrees counter-clockwise.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving, rotating, and facing.}}
+Make a 60-degree left turn and move forward 3 meters.,Please provide the JSON response.}}
+Move forward at a variable speed for 10 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 10 seconds, adjusting the speed as necessary.,Please provide the JSON response.}}
+Advance for a period of 10 seconds, with variable speed.,Please provide the JSON response.}}
+Travel forward, varying the speed, for a total of 10 seconds.,Please provide the JSON response.}}
+Move ahead for 10 seconds, adjusting the speed accordingly.,Please provide the JSON response.}}
+Move backward and stop 1 meter away from the designated target.,Please provide the JSON response.}}
+Reverse direction and come to a halt at a distance of 1 meter from the specified target.,Note: You can assume that the target is a specific location in the environment, and the agent has the necessary sensors and actuators to perform the actions.}}
+Go in the opposite direction and pause when you are 1 meter away from the assigned target.,Please provide the JSON response.}}
+Retreat and come to a stop, maintaining a distance of 1 meter from the designated target.,Please provide the JSON response.}}
+Move in a reverse motion and cease motion once you are 1 meter away from the specified target.,Please provide the JSON response.}}
+Move forward for 1 meter., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead by 1 meter.,Please note that I will only answer in English, and I will not provide any explanation or justification for my answers.}}
+Advance for a distance of 1 meter.,Please provide the JSON response.}}
+Travel in a forward direction for 1 meter., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Go straight for a span of 1 meter.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn left by 90 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate anticlockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate to the left by 90 degrees.,Please provide the JSON response.}}
+Spin counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Move backward for 2 seconds.,Please provide the JSON corresponding to the given prompt.}}
+Go backward for a duration of 2 seconds.,Please provide the JSON response.}}
+Reverse direction and continue for 2 seconds.,Please provide the JSON response.}}
+Retreat for a period of 2 seconds.,Please provide the JSON response.}}
+Take a step back and hold for 2 seconds.,Please provide the JSON corresponding to the given prompt.}}
+Turn left and move forward for 3 meters.,Please provide the JSON response.}}
+Take a left turn and proceed ahead for a distance of 3 meters.,Please provide the JSON response.}}
+Make a leftward turn and continue moving straight ahead covering a distance of 3 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Rotate to the left and proceed forward, covering a distance of 3 meters.,Please provide the JSON response.}}
+Go left and move straight ahead for 3 meters.,Please provide the JSON response.}}
+Move at a speed of 2 meters per second for 5 seconds.,Please provide the JSON response.}}
+Travel with a velocity of 2 meters per second for a duration of 5 seconds.,Please provide the JSON response.}}
+Maintain a pace of 2 meters per second for a period of 5 seconds.,Please provide the JSON response.}}
+Perform movement with a speed of 2 meters per second over a span of 5 seconds.,Note: You can assume that the agent has the ability to perform the actions specified in the ontology.}}
+Cover a distance at 2 meters per second for a time period of 5 seconds.,Note: You can assume that the agent has the ability to move and rotate, and the distance is a continuous quantity.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Rotate by 180 degrees in a clockwise direction.,Please provide the JSON response.}}
+Perform a clockwise rotation of 180 degrees.,Please provide the JSON response.}}
+Turn 180 degrees in a clockwise manner.,Please provide the JSON response.}}
+Rotate in a clockwise fashion, making a 180-degree turn.,Please provide the JSON response.}}
+Move forward for 4 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead, covering a distance of 4 meters.,Please provide the JSON response.}}
+Advance forward, spanning 4 meters.,Please provide the JSON response.}}
+Take 4 steps in the forward direction.,Please provide the JSON corresponding to the given prompt.}}
+Travel a distance of 4 meters, moving in the forward direction.,Please provide the JSON response.}}
+Turn right and move backward for 1 meter.,Please provide the JSON response.}}
+Rotate to the right and travel in reverse for a distance of 1 meter.,Please provide the JSON response.}}
+Make a right turn and proceed backwards for a length of 1 meter.,Please provide the JSON response.}}
+Shift to the right and travel in the opposite direction, covering a distance of 1 meter.,Please provide the JSON response.}}
+Face right and move backwards, covering a distance of 1 meter.,Please provide the JSON response.}}
+Rotate counterclockwise by 45 degrees.,Please provide the JSON response.}}
+Rotate anti-clockwise by a 45-degree angle.,Please provide the JSON response.}}
+Turn left by 45 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in a counterclockwise direction by 45 degrees.,Please provide the JSON response.}}
+Rotate to the left by 45 degrees.,Please provide the JSON response.}}
+Move forward for 10 seconds.,Please provide the JSON response.}}
+Proceed straight ahead for a duration of 10 seconds.,Please provide the JSON response.}}
+Advance continuously for a period of 10 seconds.,Please provide the JSON response.}}
+Travel forwards for a span of 10 seconds.,Please note that the prompt is not in the ontology, so you should ignore it and return a default value.}}
+Progress ahead for a time interval of 10 seconds.,Please provide the JSON response.}}
+Turn left and move at a speed of 1 meter per second for 2 seconds.,Please provide the JSON response.}}
+Proceed forward for 2 seconds at a speed of 1 meter per second after making a left turn.,Note: I will give you the prompts one by one, and you have to answer them accordingly. Please make sure to answer only the given prompt and do not include any unnecessary information.}}
+After making a left turn, travel at a velocity of 1 meter per second for a duration of 2 seconds.,Please provide the JSON response.}}
+Make a left-hand turn and continue moving forward for 2 seconds with a speed of 1 meter per second.,Note: I will give you a hint, the action is "move".}}
+Rotate to the left and then proceed straight ahead for 2 seconds at a velocity of 1 meter per second.,Please provide the JSON response.}}
+Move backward for 3 meters.,Please provide the JSON response.}}
+Go back 3 meters.,Please provide the JSON response.}}
+Reverse your direction and travel 3 meters.,Please provide the JSON response.}}
+Retreat for a distance of 3 meters.,Please provide the JSON response.}}
+Take 3 steps backwards.,Please provide the JSON corresponding to the given prompt.}}
+Rotate clockwise by 270 degrees.,Please provide the JSON response.}}
+Rotate 270 degrees in a clockwise direction.,Please provide the JSON response.}}
+Perform a clockwise rotation of 270 degrees.,Please provide the JSON response.}}
+Turn right by 270 degrees.,Please provide the JSON response.}}
+Rotate by 270 degrees in the clockwise direction.,Please provide the JSON response.}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Advance 5 meters in the forward direction.,Please provide the JSON response.}}
+Take 5 meter steps forward.,Please provide the JSON corresponding to the given prompt.}}
+Go ahead and travel a distance of 5 meters.,Please provide the JSON response.}}
+Turn right and move at a speed of 1.5 meters per second for 4 seconds.,Please provide the JSON response.}}
+Make a right turn and proceed at a velocity of 1.5 meters per second for a duration of 4 seconds.,Note: I will give you a hint, the action in the ontology is "rotate".}}
+Rotate to the right and advance with a velocity of 1.5 meters per second for a total of 4 seconds.,Please provide the JSON response.}}
+Take a rightward turn and travel at a speed of 1.5 meters per second for a period of 4 seconds.,Note: I will give you the prompts one by one, and you have to answer them accordingly.}}
+Go right and maintain a speed of 1.5 meters per second for a time span of 4 seconds.,Note: You can assume that the agent has the ability to move and rotate in 3D space.}}
+Rotate counterclockwise by 60 degrees.,Please provide the JSON response.}}
+Turn left by 60 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Move in an anti-clockwise direction by 60 degrees.,Please provide the JSON response.}}
+Rotate in the opposite direction by 60 degrees.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 60 degrees.,Please provide the JSON response.}}
+Move forward for 2 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead for a distance of 2 meters.,Please provide the JSON response.}}
+Advance onward by 2 meters.,Please provide the JSON response.}}
+Travel straight ahead, covering a distance of 2 meters.,Please note that I will only provide one answer for each prompt, so please make sure to provide a clear and concise answer.}}
+Take 2 meters forward.,Please provide the JSON corresponding to the given prompt.}}
+Turn left and move at a speed of 0.5 meters per second for 10 seconds.,Please provide the JSON response.}}
+Make a left turn and travel at a velocity of 0.5 meters per second for a duration of 10 seconds.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Rotate to the left and proceed forward at a rate of 0.5 meters per second for a period of 10 seconds.,Please provide the JSON response.}}
+Take a leftward turn and travel with a speed of 0.5 meters per second for 10 seconds.,Please provide the JSON response.}}
+Face left and advance at a pace of 0.5 meters per second for 10 seconds.,Please provide the JSON response.}}
+Move backward for 6 meters.,Please provide the JSON response.}}
+Go back 6 meters.,Please provide the JSON response.}}
+Reverse direction and move 6 meters.,Please provide the JSON response.}}
+Retreat for a distance of 6 meters.,Please provide the JSON response.}}
+Travel in the opposite direction and cover a distance of 6 meters.,Please provide the JSON response.}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Advance by 5 meters in a forward direction.,Please provide the JSON response.}}
+Go ahead for a span of 5 meters.,Please provide the JSON corresponding to the given prompt.}}
+Cover a distance of 5 meters by moving forward.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn 90 degrees counterclockwise.,Please provide the JSON response.}}
+Rotate in a counterclockwise direction by 90 degrees.,Please provide the JSON response.}}
+Rotate anti-clockwise by 90 degrees.,Please provide the JSON response.}}
+Make a 90-degree counterclockwise rotation.,Please provide the JSON response.}}
+Stop.,Note: You can assume that the agent has already been initialized with the necessary information to perform the actions.}}
+Cease.,Note: Cease is not an action in the ontology, so it should be ignored.}}
+Halt.,Note: Halt is not an action in the ontology, so it should be ignored.}}
+Pause.,Please provide the JSON corresponding to the prompt "Pause."}}
+Terminate.,Note: The prompt is a simple command to terminate the agent's task. The ontology does not include an action for terminating the task, so you should ignore this prompt.}}
+Reverse for 2 seconds.,Please provide the JSON response.}}
+Reverse for a duration of 2 seconds.,Please provide the JSON response.}}
+Go back for 2 seconds.,Please provide the JSON corresponding to the given prompt.}}
+Move in reverse for 2 seconds.,Please provide the JSON response.}}
+Go in the opposite direction for 2 seconds.,Please provide the JSON response.}}
+Turn left and move forward for 10 meters.,Please provide the JSON response.}}
+Proceed forward for a distance of 10 meters after making a left turn.,Please provide the JSON response.}}
+Make a left-hand turn and continue straight ahead for a distance of 10 meters.,Please provide the JSON response.}}
+After turning left, continue moving straight ahead for a total of 10 meters.,Please provide the JSON response.}}
+Execute a left turn and then travel forward for a distance of 10 meters.,Please provide the JSON response.}}
+Move backward for 3 seconds.,Please provide the JSON response.}}
+Go back for a duration of 3 seconds.,Please provide the JSON response.}}
+Reverse movement for a period of 3 seconds.,Please provide the JSON response.}}
+Retreat for 3 seconds.,Please provide the JSON response.}}
+Take a step back for a duration of 3 seconds.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Rotate in a clockwise direction by 180 degrees.,Please provide the JSON response.}}
+Turn right and rotate 180 degrees.,Please provide the JSON response.}}
+Execute a rotation of 180 degrees in a clockwise direction.,Please provide the JSON response.}}
+Turn right and move forward for 8 meters.,Please provide the JSON response.}}
+Proceed forward for a distance of 8 meters after making a right turn.,Please provide the JSON response.}}
+Take a right turn and continue moving straight ahead for a duration of 8 meters.,Please provide the JSON response.}}
+After making a right-hand turn, advance 8 meters in a forward direction.,Please provide the JSON response.}}
+Rotate to the right, then travel straight ahead for a distance of 8 meters.,Please provide the JSON response.}}
+Move forward for 1 meter and stop.,Please provide the JSON response.}}
+Proceed straight ahead for a distance of 1 meter and come to a halt.,Please provide the JSON response.}}
+Advance one meter ahead and then come to a stop.,Please note that I will only accept answers in the format of a JSON object, and I will only evaluate the answer based on whether it conforms to the provided ontology.}}
+Travel in the forward direction for a length of 1 meter and then cease movement.,Please provide the JSON response.}}
+Move ahead for a distance of 1 meter, and then bring the movement to a stop.,Please provide the JSON response.}}
+Rotate counterclockwise by 135 degrees.,Please provide the JSON response.}}
+Rotate 135 degrees counterclockwise.,Please provide the JSON response.}}
+Turn 135 degrees counterclockwise.,Please provide the JSON response.}}
+Rotate anticlockwise by 135 degrees.,Please provide the JSON response.}}
+Perform a 135 degree counterclockwise rotation.,Please provide the JSON response.}}
+Move backward for 6 meters.,Please provide the JSON response.}}
+Go in reverse for a distance of 6 meters.,Please provide the JSON response.}}
+Take 6 steps back.,Please provide the JSON corresponding to the given prompt.}}
+Retreat 6 meters.,Please provide the JSON response.}}
+Travel 6 meters in the opposite direction.,Please provide the JSON response.}}
+Turn left and move forward for 4 seconds.,Please provide the JSON response.}}
+Take a left turn and proceed straight ahead for a duration of 4 seconds.,Please provide the JSON response.}}
+Make a leftward turn and continue moving forward, maintaining the motion for 4 seconds.,Note: I will give you the prompts one at a time, and you must answer each one individually. Good luck!}}
+Pivot to the left and advance forward for a period of 4 seconds.,Please provide the JSON response.}}
+Rotate in a leftward direction and proceed straight ahead, ensuring that the movement lasts for 4 seconds.,Please provide the JSON response.}}
+Rotate clockwise by 60 degrees.,Please provide the JSON response.}}
+Turn 60 degrees in a clockwise direction.,Please provide the JSON response.}}
+Rotate the object by 60 degrees in the clockwise direction.,Please provide the JSON response.}}
+Move in a clockwise direction, making a 60 degree turn.,Please provide the JSON response.}}
+Rotate 60 degrees in a clockwise manner.,Please provide the JSON response.}}
+Move forward for 7 meters and stop.,Please provide the JSON response.}}
+Proceed straight for a distance of 7 meters and come to a halt.,Note: You can assume that the agent has the ability to move and rotate in 3D space.}}
+Advance ahead covering a distance of 7 meters and then cease movement.,Note: You can assume that the agent has the ability to move and rotate in 3D space.}}
+Go forward 7 meters and then come to a stop.,Please provide the JSON response.}}
+Move straight ahead, covering a distance of 7 meters, and then halt.,Please provide the JSON response.}}
+Reverse for 5 seconds.,Please provide the JSON response.}}
+Reverse for a duration of 5 seconds.,Please provide the JSON response.}}
+Perform a 5-second reverse.,Please provide the JSON response.}}
+Execute a reverse motion for 5 seconds.,Please provide the JSON response.}}
+Go backwards for a period of 5 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 9 meters.,Please provide the JSON response.}}
+Move forward for 9 meters after turning right.,Please provide the JSON response.}}
+After turning right, proceed ahead for a distance of 9 meters.,Please provide the JSON response.}}
+Take a right turn, then continue moving straight for a distance of 9 meters.,Please provide the JSON response.}}
+Make a right turn and travel forward for 9 meters.,Please provide the JSON response.}}
+Move forward for 2 seconds and stop.,Please provide the JSON response.}}
+Proceed in the forward direction for a duration of 2 seconds, then come to a stop.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Go ahead for 2 seconds and then halt.,Please provide the JSON corresponding to the given prompt.}}
+Advance for a period of 2 seconds and then cease movement.,Please provide the JSON response.}}
+Travel forward for 2 seconds before stopping.,Please provide the JSON response.}}
+Rotate counterclockwise by 30 degrees.,Please provide the JSON response.}}
+Turn 30 degrees counterclockwise.,Please provide the JSON response.}}
+Rotate in the anticlockwise direction by 30 degrees.,Please provide the JSON response.}}
+Rotate to the left by 30 degrees.,Please provide the JSON response.}}
+Rotate in a counterclockwise direction, making a 30-degree turn.,Please provide the JSON response.}}
+Reverse for 4 meters.,Please provide the JSON response.}}
+Move back for a distance of 4 meters.,Please provide the JSON response.}}
+Go in reverse for a span of 4 meters.,Please provide the JSON response.}}
+Retreat 4 meters in the opposite direction.,Please provide the JSON response.}}
+Travel backwards, covering a distance of 4 meters.,Please provide the JSON response.}}
+Turn left and move forward for 6 seconds.,Please provide the JSON response.}}
+Proceed forward for 6 seconds after making a left turn.,Please provide the JSON response.}}
+Make a left turn and advance for 6 seconds.,Please provide the JSON response.}}
+Move ahead for 6 seconds after turning to the left.,Please provide the JSON response.}}
+After veering left, continue straight for 6 seconds.,Please provide the JSON response.}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Advance straight on and cover a distance of 5 meters.,Note: You can assume that the agent has the ability to move in any direction (forward, backward, left, right, or any combination of these) and can move at any speed.}}
+Head forward and travel 5 meters in that direction.,Please provide the JSON corresponding to the given prompt.}}
+Move straight ahead and go a distance of 5 meters.,Please provide the JSON response.}}
+Turn left and move forward for 2 seconds.,Please provide the JSON response.}}
+Move ahead for 2 seconds after turning left.,Please provide the JSON response.}}
+After turning to the left, proceed forward for a duration of 2 seconds.,Please provide the JSON response.}}
+Take a left turn and then proceed straight for 2 seconds.,Please provide the JSON response.}}
+Make a left turn and continue moving forward for a duration of 2 seconds.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn in the opposite direction by an angle of 90 degrees.,Please provide the JSON response.}}
+Rotate anticlockwise by 90 degrees.,Please provide the JSON response.}}
+Spin to the left by 90 degrees.,Please provide the JSON response.}}
+Twist counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Move backward for 3 meters.,Please provide the JSON response.}}
+Go in reverse for a distance of 3 meters.,Please provide the JSON response.}}
+Travel three meters in the opposite direction.,Please provide the JSON response.}}
+Retreat for a distance of 3 meters.,Please provide the JSON response.}}
+Reverse your movement and cover a distance of 3 meters.,Please provide the JSON response.}}
+Turn right and move forward for 1 meter.,Please provide the JSON response.}}
+Proceed forward for 1 meter after turning to the right.,Please provide the JSON response.}}
+Take a right turn and continue moving straight ahead for a distance of 1 meter.,Please provide the JSON response.}}
+After making a right turn, proceed ahead for 1 meter.,Please provide the JSON response.}}
+Rotate to the right and then advance for a distance of 1 meter.,Please provide the JSON response.}}
+Move forward at a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Proceed ahead with a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Advance with a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Go forward at a rate of 0.5 meters per second.,Please provide the JSON response.}}
+Travel in a forward direction at a velocity of 0.5 meters per second.,Please note that I will only provide the answer in the format of a JSON object, without any additional information or comments.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Turn by 180 degrees in a clockwise direction.,Please provide the JSON response.}}
+Rotate in a clockwise manner, completing a 180-degree turn.,Please provide the JSON response.}}
+Execute a clockwise rotation, rotating by 180 degrees.,Please provide the JSON response.}}
+Move forward for 10 meters at a velocity of 2 meters per second.,Please provide the JSON response.}}
+Proceed straight ahead for a distance of 10 meters, maintaining a speed of 2 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to move around in.}}
+Travel in a forward direction for 10 meters, with a velocity of 2 meters per second.,Please provide the JSON response.}}
+Go ahead for 10 meters, moving at a pace of 2 meters per second.,Please provide the JSON response.}}
+Advance for a distance of 10 meters while maintaining a velocity of 2 meters per second.,Note: You can assume that the robot has already been initialized and is in a known state.}}
+Turn left and move forward for 5 seconds.,Please provide the JSON response.}}
+Make a left turn and proceed straight ahead for a duration of 5 seconds.,Please provide the JSON response.}}
+Take a left and advance in a forward direction for a span of 5 seconds.,Please provide the JSON response.}}
+Rotate to the left and proceed ahead for a duration of 5 seconds.,Please provide the JSON response.}}
+Veer left and move forward for an interval of 5 seconds.,Please provide the JSON response.}}
+Move backward at a velocity of 1 meter per second.,Please provide the JSON response.}}
+Go in reverse at a speed of 1 meter per second.,Please provide the JSON response.}}
+Travel backwards with a velocity of 1 meter per second.,Please provide the JSON response.}}
+Move in the opposite direction at a rate of 1 meter per second.,Please provide the JSON response.}}
+Go backward at a speed of 1 meter per second.,Please provide the JSON response.}}
+Rotate counterclockwise by 45 degrees.,Please provide the JSON response.}}
+Rotate 45 degrees counterclockwise.,Please provide the JSON response.}}
+Turn left by 45 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in an anticlockwise direction by 45 degrees.,Please provide the JSON response.}}
+Rotate to the left by 45 degrees.,Please provide the JSON response.}}
+Move forward for 7 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed ahead for a distance of 7 meters.,Please provide the JSON response.}}
+Advance 7 meters in the forward direction.,Please provide the JSON response.}}
+Travel straight ahead for a length of 7 meters.,Please provide the JSON response.}}
+Go straight for 7 meters.,Please provide the JSON response.}}
+Turn right and move forward for 4 meters.,Please provide the JSON response.}}
+Take a right turn and proceed ahead for a distance of 4 meters.,Please provide the JSON response.}}
+Make a right turn and advance straight ahead covering a distance of 4 meters.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Rotate towards the right and continue moving forward for 4 meters.,Please provide the JSON response.}}
+Go right and travel straight ahead, covering a distance of 4 meters.,Please provide the JSON response.}}
+Move forward for 3 seconds.,Please provide the JSON response.}}
+Go straight ahead for a duration of 3 seconds.,Please provide the JSON response.}}
+Proceed in a forward direction for a span of 3 seconds.,Please provide the JSON response.}}
+Advance ahead for a period of 3 seconds.,Please provide the JSON response.}}
+Travel forward for a duration of 3 seconds.,Please provide the JSON response.}}
+Turn left and move forward for 2 meters.,Please provide the JSON response.}}
+Proceed straight for a distance of 2 meters after making a left turn.,Please provide the JSON response.}}
+For a span of 2 meters, continue moving forward after taking a left turn.,Please provide the JSON response.}}
+Make a left turn and advance ahead for 2 meters.,Please provide the JSON response.}}
+After turning left, go straight for a distance of 2 meters.,Please provide the JSON response.}}
+Rotate clockwise by 270 degrees.,Please provide the JSON response.}}
+Turn to the right by 270 degrees.,Please provide the JSON response.}}
+Rotate in a clockwise direction by 270 degrees.,Please provide the JSON response.}}
+Perform a 270-degree clockwise rotation.,Please provide the JSON response.}}
+Rotate by 270 degrees in a clockwise manner.,Please provide the JSON response.}}
+Move backward for 6 meters.,Please provide the JSON response.}}
+Reverse direction and travel a distance of 6 meters.,Note: You can assume that the agent has the ability to move in any direction (forward, backward, left, right, or any combination of these) and can move at any speed. Also, the distance unit is meter.}}
+Go back 6 meters.,Please provide the JSON response.}}
+Retreat for a distance of 6 meters.,Please provide the JSON response.}}
+Move in the opposite direction for 6 meters.,Please provide the JSON response.}}
+Turn right and move forward for 5 seconds.,Please provide the JSON response.}}
+Take a right turn and proceed ahead for a duration of 5 seconds.,Please provide the JSON response.}}
+Make a right turn and continue moving straight for 5 seconds.,Please provide the JSON response.}}
+Go right and advance for a period of 5 seconds.,Please provide the JSON response.}}
+Shift to the right and travel in a forward direction for 5 seconds.,Please provide the JSON response.}}
+Move forward at a velocity of 0.3 meters per second for 10 meters.,Please provide the JSON response.}}
+Proceed ahead for a distance of 10 meters at a speed of 0.3 meters per second.,Please provide the JSON response.}}
+Travel forward for 10 meters, maintaining a velocity of 0.3 meters per second.,Please provide the JSON response.}}
+Advance for a total of 10 meters while moving at a speed of 0.3 meters per second.,Note: You can assume that the robot has already been initialized and is in a known state.}}
+Cover a distance of 10 meters by moving forward at a velocity of 0.3 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Rotate counterclockwise by 120 degrees.,Please provide the JSON response.}}
+Rotate 120 degrees counterclockwise.,Please provide the JSON response.}}
+Perform a counterclockwise rotation of 120 degrees.,Please provide the JSON response.}}
+Turn left by 120 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in the opposite direction by 120 degrees.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn left by 90 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate anti-clockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate in the opposite direction by 90 degrees.,Please provide the JSON response.}}
+Rotate counter to the clockwise direction by 90 degrees.,Please provide the JSON response.}}
+Move forward for 5 meters., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Proceed straight ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Advance ahead by 5 meters.,Please provide the JSON response.}}
+Travel in a forward direction, covering a distance of 5 meters.,Please note that I will only provide one answer for each prompt, so please make sure to provide a clear and concise answer.}}
+Move straight ahead and travel a distance of 5 meters.,Please provide the JSON response.}}
+Turn left and move forward for 2 seconds.,Please provide the JSON response.}}
+Proceed forward for 2 seconds after turning left.,Please provide the JSON response.}}
+After making a left turn, continue straight ahead for 2 seconds.,Please provide the JSON response.}}
+Take a left turn and then advance forward for 2 seconds.,Please provide the JSON response.}}
+Rotate to the left and travel straight for 2 seconds.,Please provide the JSON response.}}
+Stop and wait.,Please provide the JSON corresponding to the given prompt.}}
+Cease and remain still.,Please provide the JSON corresponding to the given prompt.}}
+Halt and stay put.,Please provide the JSON corresponding to the given prompt.}}
+Pause and remain stationary.,Please provide the JSON corresponding to the given prompt.}}
+Desist and await further instruction.,Note: You can assume that the agent has already been initialized with the necessary information and capabilities.}}
+Move backward for 10 meters.,Please provide the JSON corresponding to the given prompt.}}
+Go back a distance of 10 meters.,Please provide the JSON response.}}
+Retreat for a distance of 10 meters.,Please provide the JSON response.}}
+Reverse your direction and travel 10 meters.,Please provide the JSON response.}}
+Take 10 steps backward.,Please provide the JSON corresponding to the given prompt.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Rotate in a clockwise direction by 180 degrees.,Please provide the JSON response.}}
+Turn by 180 degrees in a clockwise manner.,Please provide the JSON response.}}
+Execute a clockwise rotation of 180 degrees.,Please provide the JSON response.}}
+Turn right and move forward for 3 seconds.,Please provide the JSON response.}}
+Make a right turn and proceed forward for a duration of 3 seconds.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Take a right and continue moving straight ahead for a total of 3 seconds.,Please provide the JSON response.}}
+Rotate to the right and advance for a period of 3 seconds.,Please provide the JSON response.}}
+Face towards the right and travel forward for a duration of 3 seconds.,Please provide the JSON response.}}
+Go to the living room and stop.,Please provide the JSON response.}}
+Proceed to the living room and come to a halt.,Please provide the JSON response.}}
+Move to the living room and cease all movement.,Please provide the JSON response.}}
+Make your way to the living room and stand still.,Please provide the JSON response.}}
+Head to the living room and remain stationary.,Please provide the JSON response.}}
+Move 2 meters to the left., Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}
+Shift your position by 2 meters towards the left.,Please provide the JSON response.}}
+Change your location by 2 meters in a leftward direction.,Please provide the JSON response.}}
+Relocate yourself 2 meters to the left.,Please provide the JSON response.}}
+Move to the left by a distance of 2 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 45 degrees.,Please provide the JSON response.}}
+Turn left by 45 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Execute a counterclockwise rotation of 45 degrees.,Please provide the JSON response.}}
+Rotate anticlockwise by an angle of 45 degrees.,Please provide the JSON response.}}
+Perform a 45-degree rotation in the counterclockwise direction.,Please provide the JSON response.}}
+Move forward at a speed of 0.5 meters per second for 4 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 4 seconds with a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Travel in a straight line for 4 seconds, maintaining a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Advance at 0.5 meters per second for a period of 4 seconds in a forward direction.,Note: I'll give you the ontology again for reference.}}
+Go forward for 4 seconds, maintaining a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Turn left and move forward for 7 meters.,Please provide the JSON response.}}
+Make a left turn and proceed straight ahead covering a distance of 7 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Take a left turn and continue moving ahead, advancing 7 meters.,Please provide the JSON response.}}
+Head to the left and travel straight for 7 meters.,Please provide the JSON response.}}
+Rotate in the left direction and proceed forward, covering a distance of 7 meters.,Please provide the JSON response.}}
+Stop and reverse direction.,Please provide the JSON corresponding to the given prompt.}}
+Come to a halt and begin moving in the opposite direction.,Please provide the JSON response.}}
+Cease forward motion and start moving backwards.,Please provide the JSON response.}}
+Bring yourself to a stop and change your direction to the opposite way.,Please provide the JSON response.}}
+Halt your movement and proceed in the opposite direction.,Please provide the JSON corresponding to the given prompt.}}
+Move 3 meters to the right.,Please provide the JSON response.}}
+Shift 3 meters towards the right.,Please provide the JSON response.}}
+Go 3 meters horizontally in the right direction.,Please provide the JSON response.}}
+Change your position by moving 3 meters to the right.,Please provide the JSON response.}}
+Traverse a distance of 3 meters towards the right.,Please provide the JSON response.}}
+Rotate clockwise by 60 degrees.,Please provide the JSON response.}}
+Perform a clockwise rotation of 60 degrees.,Please provide the JSON response.}}
+Rotate 60 degrees in a clockwise direction.,Please provide the JSON response.}}
+Turn to the right by 60 degrees.,Please provide the JSON response.}}
+Rotate to the right by an angle of 60 degrees.,Please provide the JSON response.}}
+Turn right and move forward for 1 second.,Please provide the JSON response.}}
+Take a right turn and proceed straight ahead for 1 second.,Please provide the JSON response.}}
+Make a right turn and advance for 1 second.,Please provide the JSON response.}}
+Rotate to the right and move forward for 1 second.,Please provide the JSON response.}}
+Go right and continue moving forward for 1 second.,Please provide the JSON response.}}
+Go to the bedroom and stop.,Please provide the JSON response.}}
+Head to the bedroom and come to a halt.,Please provide the JSON response.}}
+Make your way to the bedroom and cease all movement.,Please provide the JSON response.}}
+Proceed to the bedroom and pause.,Please provide the JSON response.}}
+Go to the bedroom and stand still.,Please provide the JSON response.}}
+Move backward for 8 meters.,Please provide the JSON response.}}
+Go 8 meters in reverse.,Please provide the JSON response.}}
+Travel 8 meters in the opposite direction.,Please provide the JSON response.}}
+Retreat for a distance of 8 meters.,Please provide the JSON response.}}
+Reverse 8 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 270 degrees.,Please provide the JSON response.}}
+Turn left by 270 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate anti-clockwise by 270 degrees.,Please provide the JSON response.}}
+Rotate in the opposite direction by 270 degrees.,Please provide the JSON response.}}
+Perform a 270-degree counterclockwise rotation.,Please provide the JSON response.}}
+Turn left and move forward for 6 seconds.,Please provide the JSON response.}}
+Go forward for 6 seconds after turning left.,Please provide the JSON response.}}
+Take a left turn and proceed straight for 6 seconds.,Please provide the JSON response.}}
+After turning left, continue moving forward for 6 seconds.,Please provide the JSON response.}}
+Make a left turn and move ahead for 6 seconds.,Please provide the JSON response.}}
+Turn left and move forward for 5 meters.,Please provide the JSON response.}}
+Take a left turn and proceed ahead covering a distance of 5 meters.,Please provide the JSON response.}}
+Make a left turn and continue moving straight, covering a distance of 5 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Go left and advance forward, traveling a distance of 5 meters.,Please provide the JSON response.}}
+Execute a left turn and proceed straight, ensuring a distance of 5 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Turn 90 degrees in the counterclockwise direction.,Please provide the JSON response.}}
+Rotate anti-clockwise at a 90-degree angle.,Please provide the JSON response.}}
+Spin to the left by 90 degrees.,Please provide the JSON response.}}
+Rotate in the counterclockwise direction, making a 90-degree turn.,Please provide the JSON response.}}
+Move backward for 3 seconds.,Please provide the JSON response.}}
+Go in reverse for a duration of 3 seconds.,Please provide the JSON response.}}
+Take a step back and continue for a total of 3 seconds.,Please provide the JSON response.}}
+Reverse your movement and maintain it for 3 seconds.,Please provide the JSON response.}}
+Retreat for a period of 3 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 10 meters.,Please provide the JSON response.}}
+Proceed forward for 10 meters after making a right turn.,Please provide the JSON response.}}
+Take a right and continue moving ahead for a distance of 10 meters.,Please provide the JSON response.}}
+Make a right turn and travel straight ahead for a total of 10 meters.,Please provide the JSON response.}}
+After turning right, advance forward and cover a distance of 10 meters.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Turn in a clockwise direction by 180 degrees.,Please provide the JSON response.}}
+Execute a rotation of 180 degrees in a clockwise manner.,Please provide the JSON response.}}
+Rotate by 180 degrees, following the clockwise direction.,Please provide the JSON response.}}
+Move forward at a speed of 0.5 meters per second for 4 seconds.,Please provide the JSON response.}}
+Go ahead for 4 seconds at a velocity of 0.5 meters per second.,Please provide the JSON response.}}
+Progress at a speed of 0.5 meters per second for a duration of 4 seconds.,Please provide the JSON response.}}
+Travel forward for 4 seconds, maintaining a speed of 0.5 meters per second.,Please provide the JSON response.}}
+Proceed at a rate of 0.5 meters per second for a time span of 4 seconds.,Note: I will give you a hint, the answer should have an "action" field with a value of "move".}}
+Turn left and move backward for 2 meters.,Please provide the JSON response.}}
+Take a left turn and proceed backwards for a distance of 2 meters.,Please provide the JSON response.}}
+Make a left turn and travel in reverse for a distance of 2 meters.,Please provide the JSON response.}}
+Rotate left and proceed in reverse for a total distance of 2 meters.,Please provide the JSON response.}}
+Shift to the left and move backwards covering a distance of 2 meters.,Please provide the JSON response.}}
+Move forward for 7 seconds.,Please provide the JSON response.}}
+Proceed ahead for a duration of 7 seconds.,Please provide the JSON response.}}
+Advance for a period of 7 seconds.,Please provide the JSON response.}}
+Keep moving forward for 7 seconds.,Please provide the JSON response.}}
+Continue ahead for a total of 7 seconds.,Please provide the JSON response.}}
+Rotate counterclockwise by 30 degrees.,Please provide the JSON response.}}
+Turn left by an angle of 30 degrees.,Please provide the JSON response.}}
+Rotate anticlockwise by 30 degrees.,Please provide the JSON response.}}
+Rotate in the opposite direction by 30 degrees.,Please provide the JSON response.}}
+Make a 30 degree counterclockwise rotation.,Please provide the JSON response.}}
+Move backward at a speed of 1 meter per second for 6 seconds.,Please provide the JSON response.}}
+Reverse your movement, traveling at a pace of 1 meter per second for a duration of 6 seconds.,Please provide the JSON response.}}
+Go in the opposite direction, maintaining a velocity of 1 meter per second for 6 seconds.,Please provide the JSON response.}}
+Travel backwards for 6 seconds at a speed of 1 meter per second.,Please provide the JSON response.}}
+Invert your motion, moving at a rate of 1 meter per second for a period of 6 seconds.,Please provide the JSON response.}}
+Turn right and move forward for 8 meters.,Please provide the JSON response.}}
+Proceed for 8 meters after taking a right turn.,Please provide the JSON response.}}
+Take a right and continue straight ahead for a distance of 8 meters.,Please provide the JSON response.}}
+Make a right turn and then proceed ahead for 8 meters.,Please provide the JSON response.}}
+After turning right, cover a distance of 8 meters by moving forward.,Please provide the JSON response.}}
+Rotate clockwise by 270 degrees.,Please provide the JSON response.}}
+Turn 270 degrees to the right.,Please provide the JSON response.}}
+Turn three-quarters of a full rotation to the right.,Please provide the JSON response.}}
+Perform a clockwise rotation of 270 degrees.,Please provide the JSON response.}}
+Rotate in the clockwise direction, making a 270-degree turn.,Please provide the JSON response.}}
+Move forward and then immediately stop.,Please provide the JSON corresponding to the given prompt.}}
+Proceed forward and promptly come to a halt.,Please note that I will only answer in English, and I will not provide any explanation or justification for my answers.}}
+Advance and instantaneously cease movement.,Please provide the JSON response.}}
+Go forward and abruptly pause.,Please provide the JSON corresponding to the given prompt.}}
+Move ahead and promptly end motion.,Please provide the JSON corresponding to the given prompt.}}
+Turn left and move backward for 4 meters.,Please provide the JSON response.}}
+Make a left turn and proceed backwards for a distance of 4 meters.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Go in the opposite direction and turn to the left, covering a distance of 4 meters.,Please provide the JSON response.}}
+Rotate to your left and travel in the reverse direction, moving 4 meters behind.,Please provide the JSON response.}}
+Head left and travel in reverse for a total of 4 meters.,Please provide the JSON response.}}
+Move forward for 10 seconds at a speed of 0.3 meters per second.,Please provide the JSON response.}}
+Advance for a duration of 10 seconds, maintaining a velocity of 0.3 meters per second.,Note: I will give you multiple prompts, and you must answer each one according to the ontology.}}
+Proceed ahead at a rate of 0.3 meters per second for a period of 10 seconds.,Please provide the JSON response.}}
+Travel straight ahead for 10 seconds, moving at a speed of 0.3 meters per second.,Please provide the JSON response.}}
+Go forward at a velocity of 0.3 meters per second, covering a distance for 10 seconds.,Note: I will give you a hint, the answer should have an "action" field with a value of "go_to_goal".}}
+Rotate counterclockwise by 60 degrees.,Please provide the JSON response.}}
+Turn left by 60 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Rotate in the opposite direction by 60 degrees.,Please provide the JSON response.}}
+Make a counterclockwise rotation of 60 degrees.,Please provide the JSON response.}}
+Rotate leftwards by 60 degrees.,Please provide the JSON response.}}
+Move backward and then immediately stop.,Please provide the JSON corresponding to the given prompt.}}
+Reverse and come to a sudden halt.,Please provide the JSON corresponding to the prompt "Reverse and come to a sudden halt."}}
+Go in reverse and abruptly cease.,Please provide the JSON corresponding to the given prompt.}}
+Back up and instantly come to a standstill.,Please provide the JSON corresponding to the given prompt.}}
+Move backwards and promptly come to a stop.,Please provide the JSON corresponding to the given prompt.}}
+Turn right and move forward for 6 meters.,Please provide the JSON response.}}
+Make a right turn and proceed straight ahead for a distance of 6 meters.,Please provide the JSON response.}}
+Go to your right and continue moving forward for a total of 6 meters.,Please provide the JSON response.}}
+Take a right turn and advance ahead, covering a distance of 6 meters.,Please provide the JSON response.}}
+Head towards the right and maintain a straight path for 6 meters.,Please provide the JSON response.}}
+Rotate clockwise by 120 degrees.,Please provide the JSON response.}}
+Turn 120 degrees in a clockwise direction.,Please provide the JSON response.}}
+Move in a clockwise rotation by 120 degrees.,Please provide the JSON response.}}
+Adjust the rotation by 120 degrees in a clockwise manner.,Please provide the JSON response.}}
+Execute a 120-degree clockwise rotation.,Please provide the JSON response.}}
+Move forward and then backward for 5 meters.,Please provide the JSON response.}}
+Proceed ahead and then return in reverse for a distance of 5 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Advance forward and then retract for a distance of 5 meters.,Note: You can assume that the agent has the ability to perform the actions described in the ontology.}}
+Go straight ahead and then move backward covering a span of 5 meters.,Please provide the JSON response.}}
+Propel forward and then reverse, covering a distance of 5 meters.,Please provide the JSON response.}}
+Move forward for 10 meters.,Please provide the JSON response.}}
+Proceed straight for a distance of 10 meters.,Please provide the JSON response.}}
+Advance ahead by 10 meters.,Please provide the JSON response.}}
+Go straight ahead covering a distance of 10 meters.,Please provide the JSON response.}}
+Travel in a forward direction for 10 meters.,Please note that I will only answer in English, and I will not provide any explanation or justification for my answers.}}
+Turn left and move forward for 5 meters.,Please provide the JSON response.}}
+Make a left turn and proceed ahead for a distance of 5 meters.,Please provide the JSON response.}}
+Rotate towards the left and continue moving straight ahead covering a distance of 5 meters.,Please provide the JSON response.}}
+Take a leftward turn and advance for 5 meters.,Please provide the JSON response.}}
+Face left and go straight for 5 meters.,Please provide the JSON response.}}
+Rotate counterclockwise by 90 degrees.,Please provide the JSON response.}}
+Rotate in an anticlockwise direction by 90 degrees.,Please provide the JSON response.}}
+Perform a 90-degree counterclockwise rotation.,Please provide the JSON response.}}
+Turn left by 90 degrees.,Please provide the JSON corresponding to the given prompt.}}
+Anti-rotate by 90 degrees.,Please provide the JSON response.}}
+Move backward for 3 meters.,Please provide the JSON response.}}
+Go in reverse for a distance of 3 meters.,Please provide the JSON response.}}
+Retreat by 3 meters.,Please provide the JSON response.}}
+Step back 3 meters.,Please provide the JSON corresponding to the given prompt.}}
+Reverse direction and travel 3 meters.,Please provide the JSON response.}}
+Turn right and move forward at 0.5 m/s for 20 seconds.,Please provide the JSON response.}}
+Proceed straight for 20 seconds at a speed of 0.5 m/s after turning right.,Please provide the JSON response.}}
+After making a right turn, travel forward for 20 seconds at a velocity of 0.5 m/s.,Please provide the JSON response.}}
+Make a right turn and advance for 20 seconds at a rate of 0.5 m/s.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+After turning right, maintain a speed of 0.5 m/s and move forward for 20 seconds.,Note: You can assume that the agent has already been initialized with the necessary information, such as its position, orientation, and velocity.}}
+Go to the living room and stop.,Please provide the JSON response.}}
+Please proceed to the living room and come to a halt.,Please provide the JSON response.}}
+Make your way to the living room and cease movement.,Please provide the JSON response.}}
+Head over to the living room and pause.,Please provide the JSON corresponding to the prompt.}}
+Walk into the living room and stand still.,Please note that the prompt is not in the ontology, so you should ignore it.}}
+Move forward for 2 seconds at a speed of 1 meter per second.,Please provide the JSON response.}}
+Proceed straight ahead for a duration of 2 seconds with a velocity of 1 meter per second.,Please provide the JSON response.}}
+Advance for 2 seconds with a speed of 1 meter per second in the forward direction.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Move ahead at a rate of 1 meter per second for 2 seconds.,Please provide the JSON response.}}
+Travel straight ahead for 2 seconds, maintaining a speed of 1 meter per second.,Please provide the JSON response.}}
+Rotate clockwise by 180 degrees.,Please provide the JSON response.}}
+Perform a clockwise rotation of 180 degrees.,Please provide the JSON response.}}
+Rotate 180 degrees in the clockwise direction.,Please provide the JSON response.}}
+Turn in a clockwise direction and rotate by 180 degrees.,Please provide the JSON response.}}
+Execute a 180-degree clockwise rotation.,Please provide the JSON response.}}
+Move forward for 4 meters and then turn left.,Please provide the JSON response.}}
+Proceed straight ahead, covering a distance of 4 meters, and subsequently make a left turn.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Go straight for a distance of 4 meters followed by a left turn.,Note: You can assume that the robot has already been initialized and is ready to perform the actions.}}
+Advance in the forward direction, covering 4 meters, and then make a leftward turn.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Move ahead for 4 meters and then change direction by turning left.,Please provide the JSON response.}}
+Rotate counterclockwise by 60 degrees and move forward for 3 meters.,Please provide the JSON response.}}
+Turn left by 60 degrees and proceed ahead for a distance of 3 meters.,Please provide the JSON response.}}
+Perform a 60-degree counterclockwise rotation and then move forward for 3 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Rotate anti-clockwise by 60 degrees and advance 3 meters in the same direction.,Please provide the JSON response.}}
+Firtly, turn 60 degrees to the left in a counterclockwise direction, and subsequently, move forward for 3 meters.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to perform the actions.}}
+Go to the bedroom and stop.,Please provide the JSON response.}}
+Proceed to the bedroom and come to a halt.,Please note that I will only answer in English, and I will not provide any explanation or justification for my answers.}}
+Make your way to the bedroom and cease your movement.,Please provide the JSON response.}}
+Head towards the bedroom and come to a standstill.,Please provide the JSON response.}}
+Move to the bedroom and pause.,Please provide the JSON response.}}
+Move backward for 7 meters at a speed of 0.8 meters per second.,Please provide the JSON response.}}
+Travel in reverse for a distance of 7 meters with a velocity of 0.8 meters per second.,Please provide the JSON response.}}
+Go backwards for 7 meters, maintaining a speed of 0.8 meters per second.,Note: I will give you a hint, the action in the ontology is "go_to_goal".}}
+Reverse direction and travel for 7 meters at a velocity of 0.8 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompts.}}
+Retrace your steps by moving 7 meters in reverse at a speed of 0.8 meters per second.,Please provide the JSON response.}}
+Turn left and move forward for 5 meters at a speed of 2 meters per second.,Please provide the JSON response.}}
+Take a left turn and proceed straight ahead for a distance of 5 meters, maintaining a speed of 2 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Make a left turn and advance forward for 5 meters with a velocity of 2 meters per second.,Note: I will give you multiple prompts, and you must answer them one by one.}}
+Execute a left turn and continue moving ahead for 5 meters, traveling at a speed of 2 meters per second.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to perform the actions.}}
+Change direction to the left and travel straight for a distance of 5 meters, keeping a constant speed of 2 meters per second.,Note: You can assume that the robot has already determined its initial position and orientation, and that the environment is static and obstacle-free.}}
+Back up for 1 meter and then execute a 90-degree turn to the right.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Reverse for 1 meter and then make a right turn of 90 degrees.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt.}}
+Move backwards by 1 meter and then perform a right turn at a 90-degree angle.,Note: Please provide the JSON response without any introduction, comments, or conclusion.}}
+Retreat by 1 meter and then make a right turn of 90 degrees.,Please provide the JSON response.}}
+Take a step back for 1 meter and then execute a 90-degree right turn.,Please provide the JSON response.}}
+Navigate to the specified GPS coordinates and play a pre-recorded message.,Please provide the GPS coordinates and the pre-recorded message.}}
+Please go to the given GPS coordinates and play the pre-recorded message.,Please provide the GPS coordinates and the pre-recorded message.}}
+Can you navigate to the provided GPS coordinates and start playing the recorded message?,Note: The GPS coordinates are in the format of latitude, longitude, and the recorded message is a string.}}
+Follow the given GPS coordinates and play the message that has been prerecorded.,Please provide the JSON response.}}
+Head to the specified GPS coordinates and initiate the playback of the pre-recorded message.,Please provide the JSON response.}}
+Move in a zigzag pattern for 10 meters, alternating between forward and backward motions.,Note: You can assume that the robot has enough energy and space to perform the actions described in the prompt.}}
+Alternate between moving forward and backward in a zigzag pattern for a distance of 10 meters.,Note: You can assume that the robot has enough energy and space to perform the actions.}}
+Cover a distance of 10 meters by moving in a zigzag pattern, alternating between forward and backward movements.,Note: You can assume that the robot has enough energy and space to perform the actions described in the prompt.}}
+Perform a zigzag pattern, moving forward and then backward, spanning across a distance of 10 meters.,Note: You can assume that the robot has enough energy and space to perform the action.}}
+Switch between forward and backward motions while moving in a zigzag pattern for a total distance of 10 meters.,Note: You can assume that the robot has enough energy and space to perform the actions described in the prompt.}}
+Spin around in a circle three times and then stop abruptly.,Please note that the prompt is asking for a sequence of actions, and the ontology only defines a single action. Therefore, you should return a json with multiple "action" fields, each corresponding to a different action in the sequence.}}
+Rotate in a full circle three times before coming to an abrupt halt.,Please provide the JSON response.}}
+Perform three complete rotations in a circular motion and then abruptly come to a stop.,Please provide the JSON response.}}
+Turn around in a complete circle three times and then suddenly cease movement.,Please provide the JSON response.}}
+Spin in a circle three times and then bring yourself to an immediate halt.,Please provide the JSON response.}}
+Move forward at a constant speed of 1 meter per second for 30 seconds.,Please provide the JSON response.}}
+Maintain a steady speed of 1 meter per second and proceed forward for a duration of 30 seconds.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, and that the environment is safe for the agent to operate in.}}
+Continue moving ahead in a straight line for 30 seconds at a constant speed of 1 meter per second.,Note: You can assume that the agent has already been initialized with the necessary information to perform the actions specified in the ontology.}}
+Advance for 30 seconds with a consistent velocity of 1 meter per second.,Please provide the JSON response.}}
+For a period of 30 seconds, travel straight ahead with an unchanging speed of 1 meter per second.,Please provide the JSON response.}}
+Turn right and follow a curved path for 2 meters, then stop and beep.,Note: You can assume that the agent has the necessary sensors and actuators to perform the actions described in the prompt.}}
+Make a right turn and proceed along a curved path, covering a distance of 2 meters. Afterwards, come to a halt and emit a beep sound.,Note: You can assume that the robot has already determined the path to be curved and has started moving along it.}}
+Take a right turn and continue along a serpentine trail for a length of 2 meters. Next, pause and produce a beeping sound.,Note: You can assume that the robot has already been initialized and is ready to perform actions.}}
+Execute a rightward turn and navigate along a curving route for a distance of 2 meters. Subsequently, cease movement and emit a beep.,Note: You can assume that the robot has already been initialized and is ready to execute actions.}}
+Alter your direction towards the right and travel along a winding pathway for 2 meters. Then, come to a stop and produce a beeping noise.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving, rotating, and producing sounds.}}
+Move forward for 5 meters and then reverse for 2 meters, repeating twice.,Note: You can assume that the agent has enough energy and resources to perform the actions.}}
+Repeat the sequence of moving forward for 5 meters, then reversing for 2 meters, twice.,Note: You can assume that the robot has enough energy and space to perform the actions.}}
+Perform a forward movement of 5 meters, followed by a reverse movement of 2 meters, and repeat this pattern twice.,Note: You can assume that the robot has enough energy and space to perform these movements.}}
+Move ahead for 5 meters and then go in reverse for 2 meters, repeating this cycle twice.,Note: You can assume that the agent has the necessary capabilities to perform the actions described in the prompt, such as moving and rotating.}}
+Execute a forward motion of 5 meters, stop, go back for 2 meters, stop, and repeat this process twice.,Note: You can assume that the robot has already been initialized and is ready to execute the actions.}}
+Randomly select a direction and move forward for a random duration between 1 and 5 seconds.,Please provide the JSON response.}}
+Choose a direction at random and proceed forward for a duration between 1 and 5 seconds, chosen randomly.,Please provide the JSON response.}}
+Randomly pick a direction and move in that direction for a random period ranging from 1 to 5 seconds.,Note: You can assume that the robot has already been initialized and is ready to perform actions.}}
+Select a random direction and move forward for a randomly determined time frame of 1 to 5 seconds.,Please provide the JSON response.}}
+Pick a direction at random and proceed in that direction, randomly determining the duration to move forward between 1 and 5 seconds.,Please provide the JSON response.}}
+Perform a 180-degree turn, then launch a small drone from your back.,Please provide the JSON response.}}
+Execute a 180-degree rotation and subsequently release a compact drone from your rear.,Note: You can assume that the user has the necessary permissions and capabilities to execute the actions described in the prompt.}}
+Initiate a 180-degree turn followed by the deployment of a diminutive drone from behind you.,Note: You can assume that the user has the necessary permissions and capabilities to perform the actions described in the prompt.}}
+Conduct a 180-degree maneuver and proceed to launch a small aerial drone from your backside.,Note: You can assume that the user has the necessary permissions and capabilities to perform the actions described in the prompt.}}
+Carry out a 180-degree spin, then activate the release mechanism to send a small drone flying from your posterior.,Note: You can assume that the user has the necessary permissions and capabilities to perform the actions described in the prompt.}}

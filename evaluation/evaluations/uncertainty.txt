@@ -1,0 +1,31 @@
+The uncertainty or margin of error in your estimate depends on the variability of the population and the sample size. In statistics, one commonly used measure of uncertainty is the standard error of the mean (SEM).
+
+The standard error of the mean is calculated using the formula:
+
+\[ SEM = \frac{s}{\sqrt{n}} \]
+
+where:
+- \( s \) is the sample standard deviation.
+- \( n \) is the sample size.
+
+This formula represents the standard deviation of the sampling distribution of the mean. In other words, it gives you an idea of how much the sample mean is expected to vary from the true population mean.
+
+To calculate the uncertainty, you would typically use a confidence interval. The 95% confidence interval is commonly used, and it is calculated as:
+
+\[ \text{Confidence Interval} = \text{Sample Mean} \pm \text{Margin of Error} \]
+
+The margin of error is often given by:
+
+\[ \text{Margin of Error} = \text{Critical Value} \times \text{Standard Error of the Mean} \]
+
+The critical value corresponds to the level of confidence you want. For a 95% confidence interval, the critical value is approximately 1.96.
+
+So, in summary, to estimate the average of a population with uncertainty:
+1. Collect a random sample.
+2. Calculate the sample mean and sample standard deviation.
+3. Calculate the standard error of the mean using the formula above.
+4. Determine the critical value based on your desired level of confidence.
+5. Calculate the margin of error.
+6. Formulate the confidence interval using the sample mean and margin of error.
+
+Keep in mind that this assumes the population is approximately normally distributed, and the sample size is large enough for the central limit theorem to apply. If the population is not normal or the sample size is small, other methods or adjustments may be necessary.

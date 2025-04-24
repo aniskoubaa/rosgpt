@@ -1,0 +1,1000 @@
+Move forward for 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead covering a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Advance by 1 meter in the forward direction.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Take a step forward spanning 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Move ahead for a length of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in an anti-clockwise direction by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 90 degrees.,The response is, "Turn left by 90 degrees."</s>
+Rotate 90 degrees counterclockwise.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": false, "unit": "degrees"}}</s>
+Spin in the opposite direction by 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": -10, "angle": 180, "is_clockwise": false, "unit": "degrees"}}"</s>
+Move backward for 2 seconds.,The response is, "Move backward for 2 seconds."</s>
+Go backwards for a duration of 2 seconds.,The response is, {"action": "go_back", "params": {"duration": 2}}</s>
+Reverse your direction and travel for a span of 2 seconds.,Reverse your direction and travel for a span of 2 seconds.</s>
+Retreat for a time frame of 2 seconds.,The response is, "Retreat for a time frame of 2 seconds."</s>
+Take two seconds to move in the opposite direction.,The response is, "Move backward for 2 seconds at a speed of 0.5 meters per second."</s>
+Turn left and move forward for 5 meters.,The response is, "Turn left and move forward for 5 meters."</s>
+Move forward for 5 meters, then turn left.,The response is, "Move forward for 5 meters, then turn left."</s>
+Proceed for 5 meters, then make a left turn.,The response is, "Proceed for 5 meters, then make a left turn."</s>
+Take a left turn and continue moving forward for 5 meters.,The response is, "Move forward for 5 meters at a speed of 0.5 meters per second."</s>
+Make a leftward turn and advance for 5 meters.,The response would be, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Turn in a clockwise direction by 180 degrees.,The response is, "Turn in a clockwise direction by 180 degrees."</s>
+Rotate by 180 degrees in a clockwise manner.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Execute a clockwise rotation of 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Move forward at a velocity of 0.5 meters per second for 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed with a speed of 0.5 meters per second for a duration of 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}.</s>
+Advance at 0.5 meters per second for a total of 10 seconds.,The response above.</s>
+Travel forward, maintaining a velocity of 0.5 meters per second, for 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter"}}.</s>
+Move ahead for a period of 10 seconds, with a speed of 0.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Turn right and move forward for 3 meters.,The response is, "Turn right and move forward for 3 meters."</s>
+Proceed forward for a distance of 3 meters after making a right turn.,The response is, "Make a right turn and proceed forward for a distance of 3 meters."</s>
+After turning right, continue straight for 3 meters.,The response is, "Continue straight for 3 meters."</s>
+Make a right turn and advance for a distance of 3 meters.,The response is, "Make a right turn and advance for a distance of 3 meters."</s>
+Execute a rightward turn and then travel straight ahead for 3 meters.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}."</s>
+Move backward at a velocity of 1 meter per second for 4 seconds.,The response is, "Move backward at a velocity of 1 meter per second for 4 seconds."</s>
+Go in reverse, traveling at a speed of 1 meter per second for a duration of 4 seconds.,The response is, "{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}"</s>
+Reverse direction and move at a speed of 1 meter per second for a period of 4 seconds.,Reverse direction and move at a speed of 1 meter per second for a period of 4 seconds.</s>
+Travel backward for 4 seconds, maintaining a velocity of 1 meter per second.,The response is, "{"action": "move", "params": {"linear_speed": 1, "distance": -4, "is_forward": false, "unit": "meter"}}"</s>
+Move in the opposite direction at a constant speed of 1 meter per second for 4 seconds.,The response is, "Move in the opposite direction at a constant speed of 1 meter per second for 4 seconds."</s>
+Rotate counterclockwise by 270 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 270, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate 270 degrees counterclockwise.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 270, "is_clockwise": false, "unit": "degrees"}}"</s>
+Turn left by 270 degrees.,The response is, "Turn left by 270 degrees."</s>
+Perform a counterclockwise rotation of 270 degrees.,The response is 270.</s>
+Rotate in the opposite direction by 270 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": 270, "is_clockwise": false, "unit": "degrees"}}</s>
+Move forward for 2 meters.,The response is, {"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead by a distance of 2 meters.,The response would be, "Proceed ahead by a distance of 2 meters."</s>
+Advance for a span of 2 meters.,The answer is 2.</s>
+Travel forward, covering a distance of 2 meters.,The response is, "Move forward for 2 meters at a speed of 0.5 meters per second."</s>
+Move straight ahead, going 2 meters.,The response is, {"action": "move", "params": {"linear_speed": 2, "distance": 0, "is_forward": true, "unit": "meter"}}</s>
+Rotate clockwise by 45 degrees and move forward for 1 meter.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward for 1 meter while rotating 45 degrees clockwise.,The response is, "Move forward for 1 meter while rotating 45 degrees clockwise."</s>
+Perform a 45-degree clockwise rotation, followed by a forward movement of 1 meter.,The response would be,{ "action": "rotate", "params": { "angular_velocity": 45, "angle": 0, "is_clockwise": true, "unit": "degree" } }{ "action": "move", "params": { "linear_speed": 1, "distance": 1, "is_forward": true, "unit": "meter" } }</s>
+Rotate by 45 degrees in a clockwise direction and then proceed to move forward for 1 meter.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": true, "unit": "degrees"}}</s>
+Combine a clockwise rotation of 45 degrees with a forward movement of 1 meter.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 1, "is_clockwise": true, "unit": "degree"}}</s>
+Turn left and move forward for 3 seconds.,The response is, "Turn left and move forward for 3 seconds."</s>
+Proceed straight for 3 seconds after taking a left turn.,The response is, "Proceed straight for 3 seconds after taking a left turn."</s>
+Take a left turn and continue advancing for 3 seconds.,The response would be, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 3, "is_forward": true, "unit": "meter"}}"</s>
+Make a left turn and proceed forward for a duration of 3 seconds.,The response is, "Make a left turn and proceed forward for a duration of 3 seconds."</s>
+After turning left, move straight ahead for 3 seconds.,The response is, "After turning left, move straight ahead for 3 seconds."</s>
+Move backward for 1 meter.,The response is, "Move backward for 1 meter."</s>
+Reverse direction and travel 1 meter.,Reverse direction and travel 1 meter.</s>
+Go back for a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Retreat for 1 meter.,The response is, "Retreat for 1 meter."</s>
+Take one step backward covering a distance of 1 meter.,The response is, "The action is 'move' and the params are 'linear_speed' = 1, 'distance' = 1, 'is_forward' = true, 'unit' = 'meter'."</s>
+Rotate counterclockwise by 120 degrees and move forward for 5 meters.,The response is,</s>
+Perform a counterclockwise rotation of 120 degrees followed by a forward movement of 5 meters.,The response would be,{ "action": "rotate", "params": { "angular_velocity": 120, "angle": 120, "is_clockwise": false, "unit": "degrees" } },{ "action": "move", "params": { "linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter" } }</s>
+Rotate in the counterclockwise direction by 120 degrees and proceed forward for a distance of 5 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 120, "angle": 180, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn to the left by an angle of 120 degrees and then move forward for 5 meters.,The response is, "Turn to the left by an angle of 120 degrees and then move forward for 5 meters."</s>
+Execute a 120-degree counterclockwise rotation and proceed ahead for a distance of 5 meters.,The response is, "{"action": "rotate", "params": {"angular_velocity": 120, "angle": 0, "is_clockwise": false, "unit": "degrees"}}."</s>
+Move forward at full speed for 20 seconds.,The response is, "Move forward at full speed for 20 seconds."</s>
+Proceed ahead at maximum velocity for a duration of 20 seconds.,The response is, "Proceed ahead at maximum velocity for a duration of 20 seconds."</s>
+Travel straight ahead at top speed for a duration of 20 seconds.,The response is, "Move forward for 20 seconds at top speed."</s>
+Advance forward with utmost speed for a period of 20 seconds.,The answer is 20.</s>
+Go straight ahead at full throttle for a duration of 20 seconds.,The answer is 20.</s>
+Rotate clockwise by 60 degrees.,The response above.</s>
+Turn right by 60 degrees.,The response is, "Turn right by 60 degrees."</s>
+Perform a clockwise rotation of 60 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}".</s>
+Rotate in a clockwise direction, making a 60-degree turn.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Rotate to the right, making a 60-degree angle.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Move backward at a velocity of 0.75 meters per second for 8 seconds.,The response is, "Move backward at a velocity of 0.75 meters per second for 8 seconds."</s>
+Reverse at 0.75 meters per second for a duration of 8 seconds.,The response is, "Reverse at 0.75 meters per second for a duration of 8 seconds."</s>
+Go in the opposite direction with a speed of 0.75 meters per second for 8 seconds.,The response is, "Move backward for 8 seconds at a speed of 0.75 meters per second."</s>
+Travel backwards with a velocity of 0.75 meters per second for a period of 8 seconds.,The response is, "Move backward for 8 seconds at a velocity of 0.75 meters per second."</s>
+Move in reverse at a rate of 0.75 meters per second for the next 8 seconds.,The response is, "Move in reverse at a rate of 0.75 meters per second for the next 8 seconds."</s>
+Turn right and move forward for 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Take a right turn and proceed straight ahead for a distance of 4 meters.,The response would be, "Move forward for 4 meters at a speed of 1 meter per second."</s>
+Make a right turn and continue moving forward for 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Rotate to the right and advance ahead for a distance of 4 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Go to the right and keep moving straight for 4 meters.,The response is, "Go to the right and keep moving straight for 4 meters."</s>
+Move forward for 3 meters.,The response is, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead for a distance of 3 meters.,The response is, "Move forward for 3 meters at a speed of 3 meters per second."</s>
+Advance ahead 3 meters.,The response is, "The advance ahead 3 meters."</s>
+Go forward a total of 3 meters.,The response is, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Travel straight for a distance of 3 meters.,The response above is acceptable.</s>
+Rotate counterclockwise by 90 degrees and move forward for 2 seconds.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left 90 degrees and proceed forward for a duration of 2 seconds.,The response is, "Turn left 90 degrees and proceed forward for a duration of 2 seconds."</s>
+Perform a counterclockwise rotation of 90 degrees, followed by a 2-second forward movement.,The response would be,{ "action": "rotate", "params": { "angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees" } }{ "action": "move", "params": { "linear_speed": 2, "distance": 0, "is_forward": true, "unit": "meter" } }</s>
+Rotate anti-clockwise by 90 degrees and continue moving forward for 2 seconds.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Make a left turn of 90 degrees and proceed forward for 2 seconds.,The response is, "Make a left turn of 90 degrees and proceed forward for 2 seconds."</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead a distance of 5 meters.,The response is, "The distance traveled is 5 meters."</s>
+Advance for a total of 5 meters.,The answer is 5.</s>
+Travel straight ahead covering a distance of 5 meters.,The response is, "{"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Go forward a length of 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Turn left and continue for 10 seconds.,The response is, "Turn left and continue for 10 seconds."</s>
+Make a left turn and keep going for 10 seconds.,The response is, "Make a left turn and keep going for 10 seconds."</s>
+Go left and continue for 10 seconds.,The response is, "Go left and continue for 10 seconds."</s>
+Take a left turn and continue for a duration of 10 seconds.,The response would be, "Take a left turn and continue for a duration of 10 seconds."</s>
+Proceed by turning left and maintaining that direction for 10 seconds.,The response is, "Turn left for 10 seconds."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 90 degrees counterclockwise.,The response is, "Turn 90 degrees counterclockwise."</s>
+Rotate in the opposite direction by 90 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": 180, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a counterclockwise rotation of 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": false, "unit": "degrees"}}".</s>
+Move in a counterclockwise direction, turning by 90 degrees.,The response is, "Move in a counterclockwise direction, turning by 90 degrees."</s>
+Back up 2 meters and stop.,The response is, "Back up 2 meters and stop."</s>
+Move back a distance of 2 meters and come to a halt.,The response is, "Move back a distance of 2 meters and come to a halt."</s>
+Reverse by 2 meters and come to a stop.,Reverse by 2 meters and come to a stop.</s>
+Retreat 2 meters and bring yourself to a standstill.,The response is, "Retreat 2 meters and bring yourself to a standstill."</s>
+Step backward 2 meters and cease movement.,The response is, "{"action": "move", "params": {"linear_speed": -2, "distance": 0, "is_forward": false, "unit": "meter"}}"</s>
+Move forward at a speed of 0.5 meters per second for 6 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 6, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a duration of 6 seconds at a velocity of 0.5 meters per second.,The response is, "Proceed ahead for 6 seconds at a velocity of 0.5 meters per second."</s>
+Advance for 6 seconds while maintaining a speed of 0.5 meters per second.,The response is, "Move forward for 6 seconds at a speed of 0.5 meters per second."</s>
+Travel forward for a period of 6 seconds, covering a distance of 0.5 meters in each second.,The response is, "Move forward for 6 seconds, covering a distance of 0.5 meters in each second."</s>
+Execute a movement in the forward direction, achieving a velocity of 0.5 meters per second for a duration of 6 seconds.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 6, "is_forward": true, "unit": "meter"}}".</s>
+Turn right and move forward for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Make a right turn and proceed ahead for a distance of 1 meter.,The response would be, {"action": "move", "params": {"linear_speed": 1, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Take a right turn and continue moving straight for a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Head to the right and advance forward for 1 meter.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}"</s>
+Rotate right and proceed ahead for a length of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn in a clockwise direction until you have rotated 180 degrees.,The response is 180.</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Rotate 180 degrees in the clockwise direction.,The response is 180 degrees in the clockwise direction.</s>
+Turn to the right until you are facing the opposite direction.,The response is, "Turn to the right until you are facing the opposite direction."</s>
+Move backward for 3 seconds.,The response is, "Move backward for 3 seconds."</s>
+Go in reverse for a duration of 3 seconds.,The response is, {"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}.</s>
+Reverse your movement for a total of 3 seconds.,Reverse your movement for a total of 3 seconds. The answer is 3.</s>
+Backtrack for a period of 3 seconds.,The answer is 3.</s>
+Take a 3-second step backwards.,The answer is 3.</s>
+Turn left and continue for 7 meters.,The response is, "Turn left and continue for 7 meters."</s>
+Take a left turn and proceed straight ahead for a distance of 7 meters.,The response would be, "Move forward for 7 meters at a speed of 0.5 meters per second."</s>
+Make a left turn and keep going for 7 meters.,The response is, "Make a left turn and keep going for 7 meters."</s>
+Go left and carry on for a distance of 7 meters.,The response is, "Go left and carry on for a distance of 7 meters."</s>
+Head to the left and continue for a length of 7 meters.,The response is, "Head to the left and continue for a length of 7 meters."</s>
+Move forward at a speed of 1 meter per second for 4 seconds.,The response is, "Move forward for 4 seconds at a speed of 1 meter per second."</s>
+Proceed ahead for a duration of 4 seconds with a velocity of 1 meter per second.,The response is 4 seconds.</s>
+Advance for 4 seconds, maintaining a speed of 1 meter per second.,The response is, "Move forward for 4 seconds at a speed of 1 meter per second."</s>
+Travel forward for 4 seconds, moving at a rate of 1 meter per second.,The response is, "{"action": "move", "params": {"linear_speed": 1, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+For a period of 4 seconds, move ahead at a speed of 1 meter per second.,The response would be, "{"action": "move", "params": {"linear_speed": 1, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Rotate counterclockwise by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Change the orientation by 45 degrees in a counterclockwise direction.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 45, "is_clockwise": false, "unit": "degrees"}}"</s>
+Turn left by 45 degrees.,The response is, "Turn left by 45 degrees."</s>
+Rotate anticlockwise by an angle of 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": false, "unit": "degrees"}}"</s>
+Adjust the position by rotating in the counterclockwise direction with an angle of 45 degrees.,The response is, "The position has been adjusted by rotating in the counterclockwise direction with an angle of 45 degrees."</s>
+Go straight for 8 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Proceed in a straight line for a distance of 8 meters.,The response is, "The person proceeded in a straight line for a distance of 8 meters."</s>
+Continue in a straight direction for a span of 8 meters.,The response is, "Move forward for 8 meters at a speed of 1 meter per second."</s>
+Maintain a straight path for a duration of 8 meters.,The response is, "Maintain a straight path for a duration of 8 meters."</s>
+Stay on course for a distance of 8 meters ahead.,The response is, "The distance ahead is 8 meters."</s>
+Turn right and move forward for 2 seconds.,The response is, "Turn right and move forward for 2 seconds."</s>
+Proceed straight for 2 seconds after making a right turn.,The response is, "Proceed straight for 2 seconds after making a right turn."</s>
+Take a right turn and continue moving ahead for a duration of 2 seconds.,The response would be, {"action": "move", "params": {"linear_speed": 2, "distance": 0, "is_forward": true, "unit": "second"}}</s>
+Make a right turn and advance forward for 2 seconds.,The response is, "Make a right turn and advance forward for 2 seconds."</s>
+After turning right, keep moving forward for a period of 2 seconds.,The answer is 2.</s>
+Move backward for 4 meters and stop.,The response is, "Move backward for 4 meters and stop."</s>
+Reverse for a distance of 4 meters and come to a halt.,Reverse for a distance of 4 meters and come to a halt.</s>
+Go back for 4 meters and then come to a stop.,The response is, "Go back for 4 meters and then come to a stop."</s>
+Take 4 meters in reverse and cease movement.,The response is, "Move backward for 4 meters and cease movement."</s>
+Travel in the opposite direction for a distance of 4 meters and then pause.,The response is, "Move backward for a distance of 4 meters and then pause."</s>
+Rotate clockwise by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn to the right by 270 degrees.,The response is, "Turn to the right by 270 degrees."</s>
+Move in a clockwise direction, rotating 270 degrees.,The response is, "Move in a clockwise direction, rotating 270 degrees."</s>
+Spin in a clockwise manner, completing a 270 degree rotation.,The answer is 270.</s>
+Rotate by 270 degrees in a clockwise fashion.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn left and continue for 3 meters.,The response is, "Turn left and continue for 3 meters."</s>
+Make a left turn and keep going for a distance of 3 meters.,The response is, "Make a left turn and keep going for a distance of 3 meters."</s>
+Proceed straight for 3 meters after making a left turn.,The response is, "Proceed straight for 3 meters after making a left turn."</s>
+After turning left, travel straight for 3 meters.,The response is, "After turning left, travel straight for 3 meters."</s>
+Take a left and continue on for a distance of 3 meters.,The response is, "Take a left and continue on for a distance of 3 meters."</s>
+Move forward at a speed of 0.3 meters per second for 5 seconds.,The response is, "Move forward for 5 seconds at a speed of 0.3 meters per second."</s>
+Proceed ahead for a duration of 5 seconds at a velocity of 0.3 meters per second.,The response is, "Proceed ahead for 5 seconds at a velocity of 0.3 meters per second."</s>
+Advance at a rate of 0.3 meters per second for a period of 5 seconds.,The response is 0.3 * 5 = 1.5 meters.</s>
+Travel forward at a speed of 0.3 meters per second, maintaining it for 5 seconds.,The response is, "Move forward for 5 seconds at a speed of 0.3 meters per second."</s>
+Go straight ahead for 5 seconds while maintaining a velocity of 0.3 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 0.3, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Rotate counterclockwise by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 60 degrees counterclockwise.,The response is 60 degrees counterclockwise.</s>
+Rotate in the opposite direction by 60 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": -60, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Make a counterclockwise rotation of 60 degrees.,The response is, "Make a counterclockwise rotation of 60 degrees."</s>
+Go straight for 6 seconds.,The answer is 6.</s>
+Proceed in a straight line for a duration of 6 seconds.,The answer is 6.</s>
+Keep moving forward in a straight path for 6 seconds.,The answer is 6.</s>
+Maintain a straight course for 6 seconds.,The answer is 6.</s>
+Continue in a straight direction for a period of 6 seconds.,The answer is 6.</s>
+Turn right and move forward for 7 meters.,The response is, "Turn right and move forward for 7 meters."</s>
+Take a right turn and proceed straight ahead for a distance of 7 meters.,The response would be, "Move forward for 7 meters at a speed of 0.5 meters per second."</s>
+Make a right-hand turn and continue moving forward for a length of 7 meters.,The response is, "Make a right-hand turn and continue moving forward for a length of 7 meters."</s>
+Head to the right side and advance for a distance of 7 meters.,The response is, "{"action": "move", "params": {"linear_speed": 7, "distance": 7, "is_forward": true, "unit": "meter"}}"</s>
+Rotate to the right and travel straight for 7 meters.,The response is, "{"action": "rotate", "params": {"angular_velocity": 7, "angle": 0, "is_clockwise": false, "unit": "meter"}}"</s>
+Move 2 meters forward.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Proceed straight ahead by a distance of 2 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Advance 2 meters in the forward direction.,The response is, "Move forward for 2 meters at a speed of 0.5 meters per second."</s>
+Take a step forward for a distance of 2 meters.,The response would be, {"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}</s>
+Move straight ahead, covering a distance of 2 meters.,The response is, "{"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}"</s>
+Turn left and move forward for 5 seconds.,The response is, "Turn left and move forward for 5 seconds."</s>
+Move forward for 5 seconds after turning left.,The response is, "Move forward for 5 seconds after turning left."</s>
+After making a left turn, proceed forward for 5 seconds.,The answer is 5.</s>
+Take a left turn and continue moving forward for 5 seconds.,The response would be, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "second"}}"</s>
+Start moving forward for 5 seconds after making a left turn.,The response is, "Start moving forward for 5 seconds after making a left turn."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate 90 degrees counterclockwise.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a counterclockwise rotation of 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": false, "unit": "degrees"}}".</s>
+Rotate by 90 degrees in the counterclockwise direction.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 90 degrees.,The response is, "Turn left by 90 degrees."</s>
+Move 3 meters backward.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Go back 3 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Retreat 3 meters.,The response is, "Retreat 3 meters."</s>
+Step 3 meters in reverse.,The answer is 3.</s>
+Travel in the opposite direction for 3 meters.,The response is, "Move backward for 3 meters."</s>
+Turn right and move forward for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Take a right turn and proceed straight ahead for a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Make a right turn and advance ahead for a distance of 1 meter.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Head to the right and continue moving forward for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Rotate to the right and proceed in a forward motion covering a distance of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Go to the living room and stop.,The response is, "Go to the living room and stop."</s>
+Please proceed to the living room and come to a halt.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Make your way to the living room and cease moving.,The response is, "Make your way to the living room and cease moving."</s>
+Head to the living room and stand still.,The response is, "Head to the living room and stand still."</s>
+Move towards the living room and come to a stop.,The response is, "Move towards the living room and come to a stop."</s>
+Move 4 meters forward at a speed of 2 meters per second.,The response is, "Move 4 meters forward at a speed of 2 meters per second."</s>
+Proceed ahead by a distance of 4 meters while maintaining a velocity of 2 meters per second.,The response is, "Proceed ahead by 4 meters while maintaining a velocity of 2 meters per second."</s>
+Travel in the forward direction for 4 meters with a constant speed of 2 meters per second.,The response is, "Move forward for 4 meters with a constant speed of 2 meters per second."</s>
+Advance 4 meters in the forward direction while maintaining a velocity of 2 meters per second.,The response would be, "Move forward for 4 meters at a velocity of 2 meters per second."</s>
+Propel oneself forward at a rate of 2 meters per second, covering a distance of 4 meters.,The response is, "Move forward for 4 meters at a rate of 2 meters per second."</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn 180 degrees in a clockwise direction.,The response is 180.</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Rotate by 180 degrees in the clockwise direction.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn in a clockwise fashion, rotating 180 degrees.,The response is, "Turn in a clockwise fashion, rotating 180 degrees."</s>
+Turn left and move forward for 3 meters.,The response is, "Turn left and move forward for 3 meters."</s>
+Make a left turn and proceed straight ahead for a distance of 3 meters.,The response is, "Make a left turn and proceed straight ahead for a distance of 3 meters."</s>
+Take a left and continue moving forward, covering a span of 3 meters.,The response would be, "Move forward for 3 meters at a speed of 0.5 meters per second."</s>
+Rotate to the left and advance for 3 meters.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 30, "is_clockwise": true, "unit": "degrees"}}"</s>
+Shift towards the left and travel straight for a distance of 3 meters.,The response is, "Move forward for 3 meters at a speed of 3 meters per second."</s>
+Move 2 meters backward at a speed of 0.5 meters per second.,The response is, "Move 2 meters backward at a speed of 0.5 meters per second."</s>
+Back up 2 meters with a velocity of 0.5 meters per second.,The response is, "Move forward for 2 meters at a velocity of 0.5 meters per second."</s>
+Go in reverse for a distance of 2 meters at a rate of 0.5 meters per second.,The response is, "Move backward for a distance of 2 meters at a rate of 0.5 meters per second."</s>
+Retreat at a speed of 0.5 meters per second for a duration that covers a distance of 2 meters.,The response is, "Retreat at a speed of 0.5 meters per second for a duration that covers a distance of 2 meters."</s>
+Travel backwards at 0.5 meters per second, covering a distance of 2 meters.,The response is, "Move backward for 2 meters at a speed of 0.5 meters per second."</s>
+Go to the bedroom and stop.,The response is, "Go to the bedroom and stop."</s>
+Please proceed to the bedroom and come to a halt.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Make your way to the bedroom and cease your movement.,The response is, "Make your way to the bedroom and cease your movement."</s>
+Head to the bedroom and pause.,The response is, "Head to the bedroom and pause."</s>
+Go to the bedroom and stand still.,The response is, "Go to the bedroom and stand still."</s>
+Rotate counterclockwise by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 45 degrees in the counterclockwise direction.,The response is, "Turn 45 degrees in the counterclockwise direction."</s>
+Rotate anticlockwise at an angle of 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": false, "unit": "degrees"}}"</s>
+Rotate left by 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Perform a 45-degree counterclockwise rotation.,The response is 45.</s>
+Turn right and move forward for 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Proceed forward for a distance of 4 meters after making a right turn.,The response is, "Make a right turn and proceed forward for a distance of 4 meters."</s>
+Take a right and continue moving ahead for 4 meters.,The response is, "Move forward for 4 meters at a speed of 0.5 meters per second."</s>
+After making a right turn, advance straight for a distance of 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Make a right-hand turn and proceed forward for 4 meters.,The response is, "Make a right-hand turn and proceed forward for 4 meters."</s>
+Move 1 meter forward at a speed of 1 meter per second.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead by 1 meter with a velocity of 1 meter per second.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Advance forward by a distance of 1 meter, maintaining a speed of 1 meter per second.,The response is,</s>
+Go one meter ahead, moving at a rate of one meter per second.,The response is, "{"action": "move", "params": {"linear_speed": 1, "distance": 1, "is_forward": true, "unit": "meter"}}"</s>
+Travel forward for 1 meter while maintaining a speed of 1 meter per second.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 1, "is_forward": true, "unit": "meter"}}.</s>
+Rotate clockwise by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn 270 degrees in a clockwise direction.,The response is 270 degrees.</s>
+Rotate by 270 degrees in a clockwise manner.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Execute a clockwise rotation of 270 degrees.,The response is 270.</s>
+Shift the orientation by 270 degrees in a clockwise fashion.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn left and move forward for 2 seconds.,The response is, "Turn left and move forward for 2 seconds."</s>
+Proceed forward for 2 seconds, then make a left turn.,The response is, "Proceed forward for 2 seconds, then make a left turn."</s>
+Take a left turn and continue moving straight ahead for 2 seconds.,The response is, "Take a left turn and continue moving straight ahead for 2 seconds."</s>
+Make a left turn and drive forward for 2 seconds.,The response is, "Make a left turn and drive forward for 2 seconds."</s>
+After turning left, continue moving straight for 2 seconds.,The response is, "Continue moving straight for 2 seconds."</s>
+Move 3 meters backward at a speed of 1.5 meters per second.,The response is, "Move 3 meters backward at a speed of 1.5 meters per second."</s>
+Go backwards for a distance of 3 meters at a velocity of 1.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 1.5, "distance": 3, "is_forward": false, "unit": "meter"}}</s>
+Reverse direction and travel a distance of 3 meters at a speed of 1.5 meters per second.,The response is, "Move backward for 3 meters at a speed of 1.5 meters per second."</s>
+Retreat by 3 meters, maintaining a constant speed of 1.5 meters per second.,The response is, "Retreat by 3 meters, maintaining a constant speed of 1.5 meters per second."</s>
+Travel backwards for 3 meters, maintaining a velocity of 1.5 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 1.5, "distance": -3, "is_forward": false, "unit": "meter"}}"</s>
+Go to the dining room and stop.,The response is, "Go to the dining room and stop."</s>
+Proceed to the dining room and come to a halt.,The response is, "The person came to a halt in the dining room."</s>
+Head over to the dining room and pause.,</s>
+Make your way to the dining room and bring yourself to a stop.,The response is, {"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Dining Room"}}}.</s>
+Move towards the dining room and cease your motion.,The response is, "Move towards the dining room and cease your motion."</s>
+Rotate counterclockwise by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 60 degrees.,The response is, "Turn left by 60 degrees."</s>
+Rotate in the opposite direction by 60 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": -60, "is_clockwise": false, "unit": "degrees"}}</s>
+Execute a 60-degree counterclockwise rotation.,The response is 60 degrees counterclockwise.</s>
+Rotate anticlockwise by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 60, "is_clockwise": false, "unit": "degrees"}}</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a distance of 5 meters.,The response is, "The distance traveled is 5 meters."</s>
+Advance straight ahead for 5 meters.,The response is, "The action is 'move' and the params are 'linear_speed' = 5, 'distance' = 5, 'is_forward' = true, 'unit' = 'meter'."</s>
+Travel forward for a distance of 5 meters.,The response is, "Move forward for a distance of 5 meters."</s>
+Go in the forward direction for 5 meters.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 90 degrees counterclockwise.,The response is, "Turn 90 degrees counterclockwise."</s>
+Rotate anticlockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Change the orientation to the left by 90 degrees.,The response would be, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Move backward for 3 seconds.,The response is, "Move backward for 3 seconds."</s>
+Reverse for a duration of 3 seconds.,Reverse for a duration of 3 seconds.</s>
+Go in reverse for a period of 3 seconds.,The response is, "Reverse for a period of 3 seconds."</s>
+Travel backwards for a total of 3 seconds.,The response is, "The travel backwards for a total of 3 seconds."</s>
+Move in the opposite direction for 3 seconds.,The response is, "Move in the opposite direction for 3 seconds."</s>
+Turn left and move forward for 2 meters.,The response is, "Turn left and move forward for 2 meters."</s>
+Proceed forward for 2 meters after making a left turn.,The response is, "Proceed forward for 2 meters after making a left turn."</s>
+Make a left turn and advance for 2 meters.,The response is, {"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}</s>
+Take a left and continue forward for a distance of 2 meters.,The response is, "Take a left and continue forward for a distance of 2 meters."</s>
+Move ahead for 2 meters after making a leftward turn.,The response is, "Move ahead for 2 meters after making a leftward turn."</s>
+Make a U-turn and move in the opposite direction for 10 seconds.,The response is, "Make a U-turn and move in the opposite direction for 10 seconds."</s>
+Perform a U-turn and proceed in the opposite direction for a duration of 10 seconds.,The answer is 180 degrees.</s>
+Execute a U-turn and travel in the opposite direction for a time span of 10 seconds.,The response would be something like this:</s>
+Turn around and travel in the opposite direction for a duration of 10 seconds.,The response is, "Move backward for 10 seconds at a speed of 0.5 meters per second."</s>
+Perform a U-turn and move in the opposite direction for 10 seconds.,The response is, "Move in the opposite direction for 10 seconds."</s>
+Rotate clockwise by 180 degrees and stop.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation and then come to a halt.,The 180-degree clockwise rotation will take 180/360 = 0.5 seconds. The halt will take 0.5 seconds. So in total it will take 0.5 + 0.5 = 1 second.</s>
+Execute a clockwise rotation of 180 degrees and then cease movement.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn right by 180 degrees and then stop.,The response is, "Turn right by 180 degrees and then stop."</s>
+Rotate in a clockwise direction by 180 degrees and then come to a stop.,The response is, {"action": "rotate", "params": {"angular_velocity": 180, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Move diagonally to the right for 4 meters.,The response is, "Move diagonally to the right for 4 meters."</s>
+Go right at an angle for a distance of 4 meters.,The response is, "Go right at an angle for a distance of 4 meters."</s>
+Travel in a diagonal direction to the right covering a distance of 4 meters.,The response is, "Move forward for 4 meters at a speed of 4 meters per second."</s>
+Proceed at a diagonal towards the right, moving 4 meters.,The response is, "Move forward for 4 meters at a speed of 4 meters per second."</s>
+Move to the right diagonally, covering a distance of 4 meters.,The response is, "Move to the right diagonally, covering a distance of 4 meters."</s>
+Turn right and move forward for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Make a right turn and proceed one meter forward.,The response is, "Make a right turn and proceed one meter forward."</s>
+Take a right and continue moving ahead for a distance of 1 meter.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Rotate to the right and advance straight ahead for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Facing towards the right, progress forward for a distance of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Move in a zigzag pattern for 8 seconds.,The response is, "Move in a zigzag pattern for 8 seconds."</s>
+Perform a zigzag movement continuously for a duration of 8 seconds.,The response is, "The zigzag movement was performed continuously for a duration of 8 seconds."</s>
+Traverse in a serpentine motion for 8 seconds.,The response is, "The serpentine motion for 8 seconds."</s>
+Alternate your path in a zigzagging pattern for the next 8 seconds.,The answer is 8.</s>
+Execute a back-and-forth motion resembling a zigzag for a total of 8 seconds.,The answer is 8.</s>
+Rotate counterclockwise by 45 degrees and move forward for 3 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 45 degrees and advance for a distance of 3 meters.,The response is, "Turn left by 45 degrees and advance for a distance of 3 meters."</s>
+Rotate anti-clockwise at an angle of 45 degrees and proceed ahead for a span of 3 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": false, "unit": "degrees"}}</s>
+Pivot in a counterclockwise direction by 45 degrees and travel a distance of 3 meters.,The response is, "Pivot in a counterclockwise direction by 45 degrees and travel a distance of 3 meters."</s>
+Shift to the left by 45 degrees and continue moving forward, covering a distance of 3 meters.,The response is, "Move forward for 3 meters at a speed of 45 degrees per second."</s>
+Move backward and stop at the nearest obstacle.,The response is, "Move backward and stop at the nearest obstacle."</s>
+Reverse and come to a halt once you reach the closest object in your path.,Reverse and come to a halt once you reach the closest object in your path.</s>
+Back up and cease movement upon reaching the nearest obstruction.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Retreat and come to a stop when you encounter the closest barrier.,</s>
+Go in reverse and stop once you reach the nearest obstacle.,The response is, "Go in reverse and stop once you reach the nearest obstacle."</s>
+Turn left and move in a curved path for 6 meters.,The response is, "Turn left and move in a curved path for 6 meters."</s>
+Take a left turn and travel in a curved trajectory covering a distance of 6 meters.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 6, "is_forward": true, "unit": "meter"}}</s>
+Make a leftward turn and proceed along a curving route spanning 6 meters.,The answer is 6.</s>
+Go left and follow a curved path for a distance of 6 meters.,The response is, "Go left and follow a curved path for a distance of 6 meters."</s>
+Regulate your movement to the left and travel in a curved trajectory for 6 meters.,The response is,</s>
+Move forward at a speed of 1 meter per second for 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead at a velocity of 1 meter per second for a duration of 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter"}}.</s>
+Advance at a rate of 1 meter per second for 10 seconds.,The response is { "action": "move", "params": { "linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter" } }.</s>
+Go straight ahead, maintaining a speed of 1 meter per second for a period of 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Travel forward for 10 seconds, covering a distance of 1 meter per second.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "second"}}</s>
+Rotate clockwise by 30 degrees and continue moving forward for 4 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 30, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward for 4 meters and rotate in a clockwise direction by 30 degrees.,The response is, {"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Rotate 30 degrees clockwise and then proceed to move forward for 4 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 30, "is_clockwise": true, "unit": "degrees"}}</s>
+After rotating 30 degrees clockwise, continue moving forward for 4 meters.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Rotate to the right by 30 degrees and then proceed with a forward movement of 4 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Move in a circular path with a radius of 2 meters for 7 seconds.,The response is, "Move in a circular path with a radius of 2 meters for 7 seconds."</s>
+Circle around with a radius of 2 meters for a duration of 7 seconds.,The radius of the circle is 2 meters. The duration of the circle is 7 seconds. So the area of the circle is 2 * 2 * 7 = 42 square meters. The answer is 42.</s>
+Perform circular movement with a radius of 2 meters for 7 seconds.,The response would be, "{"action": "rotate", "params": {"angular_velocity": 2, "angle": 7, "is_clockwise": true, "unit": "meter"}}"</s>
+Rotate along a circular trajectory with a 2-meter radius for 7 seconds.,The response would be, "{"action": "rotate", "params": {"angular_velocity": 2, "angle": 7, "is_clockwise": true, "unit": "meter"}}"</s>
+Traverse a circular path, covering a distance of 2 meters, for a duration of 7 seconds.,The answer is 2 * 7 = 14 meters.</s>
+Turn right and move forward for 5 seconds, then revert back.,The response is, "Turn right and move forward for 5 seconds, then revert back."</s>
+Make a right turn and proceed forward for 5 seconds, then return back.,The response is, "Make a right turn and proceed forward for 5 seconds, then return back."</s>
+Take a right turn and advance ahead for 5 seconds, then go back in reverse.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "second"}}</s>
+Rotate to the right and move straight ahead for 5 seconds, then reverse the direction.,The response would be, "Rotate to the right and move straight ahead for 5 seconds, then reverse the direction."</s>
+Change direction to the right and go forward for 5 seconds, then reverse back.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "second"}}"</s>
+Move along the perimeter of the room for 1 minute.,The response is 1 * 60 = 60 seconds.</s>
+Walk around the edges of the room for 1 minute.,The answer is 60.</s>
+Circulate along the boundary of the room for 1 minute.,Circulate along the boundary of the room for 1 minute.</s>
+Patrol the perimeter of the room for 1 minute.,Patrol the perimeter of the room for 1 minute.</s>
+Traverse the outer edges of the room for 1 minute.,Traversing the outer edges of the room for 1 minute would take 1 minute. The answer is 1.</s>
+Rotate counterclockwise by 60 degrees and move forward for 3 meters.,The response is,</s>
+Turn left by 60 degrees and proceed ahead for a distance of 3 meters.,The response is, "Turn left by 60 degrees and proceed ahead for a distance of 3 meters."</s>
+Rotate anticlockwise by 60 degrees and advance 3 meters.,The response is,</s>
+Face left and travel straight for 3 meters after rotating 60 degrees counter-clockwise.,The response is, "Face left and travel straight for 3 meters after rotating 60 degrees counter-clockwise."</s>
+Make a 60-degree left turn and move forward 3 meters.,The response would be, "Make a 60-degree left turn and move forward 3 meters."</s>
+Move forward at a variable speed for 10 seconds.,The response is, "Move forward at a variable speed for 10 seconds."</s>
+Proceed ahead for a duration of 10 seconds, adjusting the speed as necessary.,The response is 10 seconds.</s>
+Advance for a period of 10 seconds, with variable speed.,The answer is 10.</s>
+Travel forward, varying the speed, for a total of 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "second"}}</s>
+Move ahead for 10 seconds, adjusting the speed accordingly.,The response is, "Move ahead for 10 seconds, adjusting the speed accordingly."</s>
+Move backward and stop 1 meter away from the designated target.,The response is, "Move backward and stop 1 meter away from the designated target."</s>
+Reverse direction and come to a halt at a distance of 1 meter from the specified target.,Reverse direction and come to a halt at a distance of 1 meter from the specified target.</s>
+Go in the opposite direction and pause when you are 1 meter away from the assigned target.,The response is, "Move backward for 1 meter at a speed of 0.5 meters per second."</s>
+Retreat and come to a stop, maintaining a distance of 1 meter from the designated target.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Move in a reverse motion and cease motion once you are 1 meter away from the specified target.,The response is, "Move in a reverse motion and cease motion once you are 1 meter away from the specified target."</s>
+Move forward for 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead by 1 meter.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Advance for a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Travel in a forward direction for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Go straight for a span of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 90 degrees.,The response is, "Turn left by 90 degrees."</s>
+Rotate anticlockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Spin counterclockwise by 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Move backward for 2 seconds.,The response is, "Move backward for 2 seconds."</s>
+Go backward for a duration of 2 seconds.,The response is, "Go backward for a duration of 2 seconds."</s>
+Reverse direction and continue for 2 seconds.,Reverse direction and continue for 2 seconds.</s>
+Retreat for a period of 2 seconds.,The response is, "Retreat for a period of 2 seconds."</s>
+Take a step back and hold for 2 seconds.,The response is, "Hold for 2 seconds."</s>
+Turn left and move forward for 3 meters.,The response is, "Turn left and move forward for 3 meters."</s>
+Take a left turn and proceed ahead for a distance of 3 meters.,The response would be, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Make a leftward turn and continue moving straight ahead covering a distance of 3 meters.,The response would be, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Rotate to the left and proceed forward, covering a distance of 3 meters.,The response is, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Go left and move straight ahead for 3 meters.,The response is, "{"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}"</s>
+Move at a speed of 2 meters per second for 5 seconds.,The response is, "Move at a speed of 2 meters per second for 5 seconds."</s>
+Travel with a velocity of 2 meters per second for a duration of 5 seconds.,The response is 2 * 5 = 10 meters.</s>
+Maintain a pace of 2 meters per second for a period of 5 seconds.,The response is 2 * 5 = 10 meters.</s>
+Perform movement with a speed of 2 meters per second over a span of 5 seconds.,The response is 2 * 5 = 10 meters.</s>
+Cover a distance at 2 meters per second for a time period of 5 seconds.,The response is 2 * 5 = 10 meters.</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Rotate by 180 degrees in a clockwise direction.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a clockwise rotation of 180 degrees.,The response is 180.</s>
+Turn 180 degrees in a clockwise manner.,The response is 180.</s>
+Rotate in a clockwise fashion, making a 180-degree turn.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 180, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward for 4 meters.,The response is, {"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead, covering a distance of 4 meters.,The response is, "The distance covered is 4 meters."</s>
+Advance forward, spanning 4 meters.,The response is, "Move forward for 4 meters at a speed of 0.5 meters per second."</s>
+Take 4 steps in the forward direction.,The response with an explanation would be, "4 steps in the forward direction."</s>
+Travel a distance of 4 meters, moving in the forward direction.,The response is, "Move forward for 4 meters at a speed of 1 meter per second."</s>
+Turn right and move backward for 1 meter.,The response is, "Move backward for 1 meter at a speed of 0.5 meters per second."</s>
+Rotate to the right and travel in reverse for a distance of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": -0.5, "distance": 1, "is_forward": false, "unit": "meter"}}</s>
+Make a right turn and proceed backwards for a length of 1 meter.,The response is, "Make a right turn and proceed backwards for a length of 1 meter."</s>
+Shift to the right and travel in the opposite direction, covering a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Face right and move backwards, covering a distance of 1 meter.,The response is, "Face right and move backwards, covering a distance of 1 meter."</s>
+Rotate counterclockwise by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate anti-clockwise by a 45-degree angle.,The response would be {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 45 degrees.,The response is, "Turn left by 45 degrees."</s>
+Rotate in a counterclockwise direction by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Move forward for 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 10, "distance": 1, "is_forward": true, "unit": "second"}}</s>
+Proceed straight ahead for a duration of 10 seconds.,The response is, "Move forward for 10 seconds at a speed of 1 meter per second."</s>
+Advance continuously for a period of 10 seconds.,The response is 10.</s>
+Travel forwards for a span of 10 seconds.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "second"}}</s>
+Progress ahead for a time interval of 10 seconds.,The answer is 10.</s>
+Turn left and move at a speed of 1 meter per second for 2 seconds.,The response is, "Turn left and move at a speed of 1 meter per second for 2 seconds."</s>
+Proceed forward for 2 seconds at a speed of 1 meter per second after making a left turn.,The response is, "Make a left turn and proceed forward for 2 seconds at a speed of 1 meter per second."</s>
+After making a left turn, travel at a velocity of 1 meter per second for a duration of 2 seconds.,The response would be, "Move forward for 1 meter at a speed of 1 meter per second for a duration of 2 seconds."</s>
+Make a left-hand turn and continue moving forward for 2 seconds with a speed of 1 meter per second.,The response is, "Make a left-hand turn and continue moving forward for 2 seconds with a speed of 1 meter per second."</s>
+Rotate to the left and then proceed straight ahead for 2 seconds at a velocity of 1 meter per second.,The response is, "Rotate to the left and then proceed straight ahead for 2 seconds at a velocity of 1 meter per second."</s>
+Move backward for 3 meters.,The response is, "Move backward for 3 meters."</s>
+Go back 3 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Reverse your direction and travel 3 meters.,Reverse your direction and travel 3 meters.</s>
+Retreat for a distance of 3 meters.,The response is, "Retreat for a distance of 3 meters."</s>
+Take 3 steps backwards.,The response is 3.</s>
+Rotate clockwise by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Rotate 270 degrees in a clockwise direction.,The response is 270.</s>
+Perform a clockwise rotation of 270 degrees.,The answer is 270.</s>
+Turn right by 270 degrees.,The response is, "Turn right by 270 degrees."</s>
+Rotate by 270 degrees in the clockwise direction.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a distance of 5 meters.,The response is, "The distance traveled is 5 meters."</s>
+Advance 5 meters in the forward direction.,The response is, "Move forward for 5 meters at a speed of 0.5 meters per second."</s>
+Take 5 meter steps forward.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Go ahead and travel a distance of 5 meters.,The response is, "The distance traveled is 5 meters."</s>
+Turn right and move at a speed of 1.5 meters per second for 4 seconds.,The response is, "Turn right and move at a speed of 1.5 meters per second for 4 seconds."</s>
+Make a right turn and proceed at a velocity of 1.5 meters per second for a duration of 4 seconds.,The response is, "Make a right turn and proceed at a velocity of 1.5 meters per second for a duration of 4 seconds."</s>
+Rotate to the right and advance with a velocity of 1.5 meters per second for a total of 4 seconds.,The response is,</s>
+Take a rightward turn and travel at a speed of 1.5 meters per second for a period of 4 seconds.,The response would be, "{"action": "move", "params": {"linear_speed": 1.5, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Go right and maintain a speed of 1.5 meters per second for a time span of 4 seconds.,The response would be, "Move right for 4 seconds at a speed of 1.5 meters per second."</s>
+Rotate counterclockwise by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 60 degrees.,The response is, "Turn left by 60 degrees."</s>
+Move in an anti-clockwise direction by 60 degrees.,The response is, "Move in an anti-clockwise direction by 60 degrees."</s>
+Rotate in the opposite direction by 60 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": -60, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a counterclockwise rotation of 60 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}".</s>
+Move forward for 2 meters.,The response is, {"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead for a distance of 2 meters.,The response is, "Move forward for 2 meters at a speed of 2 meters per second."</s>
+Advance onward by 2 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Travel straight ahead, covering a distance of 2 meters.,The response is, "{"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}".</s>
+Take 2 meters forward.,The response is, "Move forward for 2 meters at a speed of 0.5 meters per second."</s>
+Turn left and move at a speed of 0.5 meters per second for 10 seconds.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": false, "unit": "meter"}}</s>
+Make a left turn and travel at a velocity of 0.5 meters per second for a duration of 10 seconds.,The response would be, "Make a left turn and travel at a velocity of 0.5 meters per second for a duration of 10 seconds."</s>
+Rotate to the left and proceed forward at a rate of 0.5 meters per second for a period of 10 seconds.,The response is,</s>
+Take a leftward turn and travel with a speed of 0.5 meters per second for 10 seconds.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Face left and advance at a pace of 0.5 meters per second for 10 seconds.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second for 10 seconds."</s>
+Move backward for 6 meters.,The response is, "Move backward for 6 meters."</s>
+Go back 6 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Reverse direction and move 6 meters.,Reverse direction and move 6 meters.</s>
+Retreat for a distance of 6 meters.,The response is, "Retreat for a distance of 6 meters."</s>
+Travel in the opposite direction and cover a distance of 6 meters.,The response is, "Move backward for 6 meters at a speed of 0.5 meters per second."</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead for a distance of 5 meters.,The response would be, "Move forward for 5 meters."</s>
+Advance by 5 meters in a forward direction.,The response is, "Move forward for 5 meters at a speed of 0.5 meters per second."</s>
+Go ahead for a span of 5 meters.,The response is, "The span of 5 meters is covered at a speed of 0.5 meters per second."</s>
+Cover a distance of 5 meters by moving forward.,The response is, "Move forward for 5 meters at a speed of 1 meter per second."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 90 degrees counterclockwise.,The response is, "Turn 90 degrees counterclockwise."</s>
+Rotate in a counterclockwise direction by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate anti-clockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Make a 90-degree counterclockwise rotation.,The answer is 90.</s>
+Stop.,</s>
+Cease.,</s>
+Halt.,</s>
+Pause.,The response is,</s>
+Terminate.,</s>
+Reverse for 2 seconds.,Reverse for 2 seconds.</s>
+Reverse for a duration of 2 seconds.,Reverse for a duration of 2 seconds.</s>
+Go back for 2 seconds.,The response is, "Go back for 2 seconds."</s>
+Move in reverse for 2 seconds.,The response is, "Move in reverse for 2 seconds."</s>
+Go in the opposite direction for 2 seconds.,The response is, "Move backward for 2 seconds."</s>
+Turn left and move forward for 10 meters.,The response would be, {"action": "move", "params": {"linear_speed": 10, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed forward for a distance of 10 meters after making a left turn.,The response is, "Make a left turn and proceed forward for a distance of 10 meters."</s>
+Make a left-hand turn and continue straight ahead for a distance of 10 meters.,The response would be, "Make a left-hand turn and continue straight ahead for a distance of 10 meters."</s>
+After turning left, continue moving straight ahead for a total of 10 meters.,The response is, "Move forward for 10 meters at a speed of 1 meter per second."</s>
+Execute a left turn and then travel forward for a distance of 10 meters.,The response would be, "Move forward for 10 meters at a speed of 0.5 meters per second."</s>
+Move backward for 3 seconds.,The response is, "Move backward for 3 seconds."</s>
+Go back for a duration of 3 seconds.,The response is, "Go back for a duration of 3 seconds."</s>
+Reverse movement for a period of 3 seconds.,Reverse movement for a period of 3 seconds.</s>
+Retreat for 3 seconds.,The response is, "Retreat for 3 seconds."</s>
+Take a step back for a duration of 3 seconds.,The response is, "The action is 'take_a_step_back' and the duration is 3 seconds."</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Rotate in a clockwise direction by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn right and rotate 180 degrees.,The response is, "Turn right and rotate 180 degrees."</s>
+Execute a rotation of 180 degrees in a clockwise direction.,The response is 180.</s>
+Turn right and move forward for 8 meters.,The response is, "Turn right and move forward for 8 meters."</s>
+Proceed forward for a distance of 8 meters after making a right turn.,The response is, "Make a right turn and proceed forward for a distance of 8 meters."</s>
+Take a right turn and continue moving straight ahead for a duration of 8 meters.,The response would be, {"action": "move", "params": {"linear_speed": 8, "distance": 8, "is_forward": true, "unit": "meter"}}</s>
+After making a right-hand turn, advance 8 meters in a forward direction.,The response is, "Move forward for 8 meters at a speed of 0.5 meters per second."</s>
+Rotate to the right, then travel straight ahead for a distance of 8 meters.,The response is, "Rotate to the right, then travel straight ahead for a distance of 8 meters."</s>
+Move forward for 1 meter and stop.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead for a distance of 1 meter and come to a halt.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Advance one meter ahead and then come to a stop.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Travel in the forward direction for a length of 1 meter and then cease movement.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Move ahead for a distance of 1 meter, and then bring the movement to a stop.,The response is, "Move ahead for a distance of 1 meter, and then bring the movement to a stop."</s>
+Rotate counterclockwise by 135 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 135, "angle": 135, "is_clockwise": false, "unit": "degrees"}}"</s>
+Rotate 135 degrees counterclockwise.,The response is, {"action": "rotate", "params": {"angular_velocity": 135, "angle": 135, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 135 degrees counterclockwise.,The response is 135 degrees counterclockwise.</s>
+Rotate anticlockwise by 135 degrees.,The response is { "action": "rotate", "params": { "angular_velocity": 135, "angle": 135, "is_clockwise": false, "unit": "degrees" } }.</s>
+Perform a 135 degree counterclockwise rotation.,The response is 135 degrees counterclockwise.</s>
+Move backward for 6 meters.,The response is, "Move backward for 6 meters."</s>
+Go in reverse for a distance of 6 meters.,The response is, "Reverse for a distance of 6 meters."</s>
+Take 6 steps back.,The response is 6.</s>
+Retreat 6 meters.,The response is, "Retreat 6 meters."</s>
+Travel 6 meters in the opposite direction.,The response is, "Travel 6 meters in the opposite direction."</s>
+Turn left and move forward for 4 seconds.,The response is, "Turn left and move forward for 4 seconds."</s>
+Take a left turn and proceed straight ahead for a duration of 4 seconds.,The response would be, "Move forward for 4 seconds at a speed of 0.5 meters per second."</s>
+Make a leftward turn and continue moving forward, maintaining the motion for 4 seconds.,The response is, "Make a leftward turn and continue moving forward, maintaining the motion for 4 seconds."</s>
+Pivot to the left and advance forward for a period of 4 seconds.,The response is, "Pivot to the left and advance forward for a period of 4 seconds."</s>
+Rotate in a leftward direction and proceed straight ahead, ensuring that the movement lasts for 4 seconds.,The response is,</s>
+Rotate clockwise by 60 degrees.,The response above.</s>
+Turn 60 degrees in a clockwise direction.,The response is 60 degrees.</s>
+Rotate the object by 60 degrees in the clockwise direction.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}"</s>
+Move in a clockwise direction, making a 60 degree turn.,The response would be, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Rotate 60 degrees in a clockwise manner.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward for 7 meters and stop.,The response is, "{"action": "move", "params": {"linear_speed": 7, "distance": 7, "is_forward": true, "unit": "meter"}}"</s>
+Proceed straight for a distance of 7 meters and come to a halt.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Advance ahead covering a distance of 7 meters and then cease movement.,The answer is 7.</s>
+Go forward 7 meters and then come to a stop.,The response is, "The action is 'move' and the params are 'linear_speed' = 7, 'distance' = 7, 'is_forward' = true, 'unit' = 'meter'."</s>
+Move straight ahead, covering a distance of 7 meters, and then halt.,The response is, "Move straight ahead, covering a distance of 7 meters, and then halt."</s>
+Reverse for 5 seconds.,Reverse for 5 seconds.</s>
+Reverse for a duration of 5 seconds.,Reverse for a duration of 5 seconds.</s>
+Perform a 5-second reverse.,The answer is 5.</s>
+Execute a reverse motion for 5 seconds.,The response is, "The reverse motion was executed for 5 seconds."</s>
+Go backwards for a period of 5 seconds.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Turn right and move forward for 9 meters.,The response is, "Turn right and move forward for 9 meters."</s>
+Move forward for 9 meters after turning right.,The response is, "Move forward for 9 meters after turning right."</s>
+After turning right, proceed ahead for a distance of 9 meters.,The response is, "After turning right, proceed ahead for a distance of 9 meters."</s>
+Take a right turn, then continue moving straight for a distance of 9 meters.,The response is, "Move forward for 9 meters at a speed of 0.5 meters per second."</s>
+Make a right turn and travel forward for 9 meters.,The response is, "{"action": "move", "params": {"linear_speed": 9, "distance": 9, "is_forward": true, "unit": "meter"}}"</s>
+Move forward for 2 seconds and stop.,The response is, "Move forward for 2 seconds and stop."</s>
+Proceed in the forward direction for a duration of 2 seconds, then come to a stop.,The answer is 2.</s>
+Go ahead for 2 seconds and then halt.,The response is 2.</s>
+Advance for a period of 2 seconds and then cease movement.,The answer is 2.</s>
+Travel forward for 2 seconds before stopping.,The response is, "The travel time is 2 seconds."</s>
+Rotate counterclockwise by 30 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 30 degrees counterclockwise.,The response is, "Turn 30 degrees counterclockwise."</s>
+Rotate in the anticlockwise direction by 30 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 30 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Rotate in a counterclockwise direction, making a 30-degree turn.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 30, "is_clockwise": false, "unit": "degrees"}}</s>
+Reverse for 4 meters.,Reverse for 4 meters.</s>
+Move back for a distance of 4 meters.,The response is, "Move back for a distance of 4 meters."</s>
+Go in reverse for a span of 4 meters.,The response would be, "{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}"</s>
+Retreat 4 meters in the opposite direction.,The response is, "Retreat 4 meters in the opposite direction."</s>
+Travel backwards, covering a distance of 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": -0.5, "distance": 4, "is_forward": false, "unit": "meter"}}"</s>
+Turn left and move forward for 6 seconds.,The response is, "Turn left and move forward for 6 seconds."</s>
+Proceed forward for 6 seconds after making a left turn.,The response is 6.</s>
+Make a left turn and advance for 6 seconds.,The response is, "Make a left turn and advance for 6 seconds."</s>
+Move ahead for 6 seconds after turning to the left.,The response is, "Move ahead for 6 seconds after turning to the left."</s>
+After veering left, continue straight for 6 seconds.,The response is, "Continue straight for 6 seconds."</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a distance of 5 meters.,The response is, "The distance traveled is 5 meters."</s>
+Advance straight on and cover a distance of 5 meters.,The response would be, "Move forward for 5 meters at a speed of 1 meter per second."</s>
+Head forward and travel 5 meters in that direction.,The response is, "Head forward and travel 5 meters in that direction."</s>
+Move straight ahead and go a distance of 5 meters.,The response is, "{"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Turn left and move forward for 2 seconds.,The response is, "Turn left and move forward for 2 seconds."</s>
+Move ahead for 2 seconds after turning left.,The response is, "Move ahead for 2 seconds after turning left."</s>
+After turning to the left, proceed forward for a duration of 2 seconds.,The response is, "After turning to the left, proceed forward for a duration of 2 seconds."</s>
+Take a left turn and then proceed straight for 2 seconds.,The response is, "Take a left turn and then proceed straight for 2 seconds."</s>
+Make a left turn and continue moving forward for a duration of 2 seconds.,The response is, "Make a left turn and continue moving forward for a duration of 2 seconds."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn in the opposite direction by an angle of 90 degrees.,The response is, "Turn in the opposite direction by an angle of 90 degrees."</s>
+Rotate anticlockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Spin to the left by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Twist counterclockwise by 90 degrees.,The response is, "Twist counterclockwise by 90 degrees."</s>
+Move backward for 3 meters.,The response is, "Move backward for 3 meters."</s>
+Go in reverse for a distance of 3 meters.,The response is, "Reverse for a distance of 3 meters."</s>
+Travel three meters in the opposite direction.,The response is, "Travel three meters in the opposite direction."</s>
+Retreat for a distance of 3 meters.,The response is, "Retreat for a distance of 3 meters."</s>
+Reverse your movement and cover a distance of 3 meters.,Reverse your movement and cover a distance of 3 meters.</s>
+Turn right and move forward for 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Proceed forward for 1 meter after turning to the right.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Take a right turn and continue moving straight ahead for a distance of 1 meter.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+After making a right turn, proceed ahead for 1 meter.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}"</s>
+Rotate to the right and then advance for a distance of 1 meter.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}</s>
+Move forward at a velocity of 0.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 0, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead with a speed of 0.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}.</s>
+Advance with a velocity of 0.5 meters per second.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Go forward at a rate of 0.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 0, "is_forward": true, "unit": "meter"}}.</s>
+Travel in a forward direction at a velocity of 0.5 meters per second.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Turn by 180 degrees in a clockwise direction.,The response is 180.</s>
+Rotate in a clockwise manner, completing a 180-degree turn.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 180, "is_clockwise": true, "unit": "degrees"}}</s>
+Execute a clockwise rotation, rotating by 180 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 180, "angle": 0, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward for 10 meters at a velocity of 2 meters per second.,The response is, "Move forward for 10 meters at a velocity of 2 meters per second."</s>
+Proceed straight ahead for a distance of 10 meters, maintaining a speed of 2 meters per second.,The response is, "Move forward for 10 meters at a speed of 2 meters per second."</s>
+Travel in a forward direction for 10 meters, with a velocity of 2 meters per second.,The response is, "Move forward for 10 meters at a velocity of 2 meters per second."</s>
+Go ahead for 10 meters, moving at a pace of 2 meters per second.,The response is, "Move forward for 10 meters at a pace of 2 meters per second."</s>
+Advance for a distance of 10 meters while maintaining a velocity of 2 meters per second.,The response would be, "Move forward for 10 meters at a velocity of 2 meters per second."</s>
+Turn left and move forward for 5 seconds.,The response is, "Turn left and move forward for 5 seconds."</s>
+Make a left turn and proceed straight ahead for a duration of 5 seconds.,The response would be, "Make a left turn and proceed straight ahead for a duration of 5 seconds."</s>
+Take a left and advance in a forward direction for a span of 5 seconds.,The response would be, {"action": "move", "params": {"linear_speed": 0.5, "distance": 5, "is_forward": true, "unit": "second"}}</s>
+Rotate to the left and proceed ahead for a duration of 5 seconds.,The response is, {"action": "rotate", "params": {"angular_velocity": 5, "angle": 0, "is_clockwise": false, "unit": "second"}}</s>
+Veer left and move forward for an interval of 5 seconds.,Veer left and move forward for an interval of 5 seconds.</s>
+Move backward at a velocity of 1 meter per second.,The response is, "Move backward at a velocity of 1 meter per second."</s>
+Go in reverse at a speed of 1 meter per second.,The response is, "Move backward for 1 meter at a speed of 1 meter per second."</s>
+Travel backwards with a velocity of 1 meter per second.,The response is, "Move backward for 1 meter at a speed of 1 meter per second."</s>
+Move in the opposite direction at a rate of 1 meter per second.,The response is, "Move in the opposite direction at a rate of 1 meter per second."</s>
+Go backward at a speed of 1 meter per second.,The response is, "Move backward for 1 meter at a speed of 1 meter per second."</s>
+Rotate counterclockwise by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate 45 degrees counterclockwise.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 45, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 45 degrees.,The response is, "Turn left by 45 degrees."</s>
+Rotate in an anticlockwise direction by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate to the left by 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Move forward for 7 meters.,The response is, {"action": "move", "params": {"linear_speed": 7, "distance": 7, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a distance of 7 meters.,The response with an explanation would be, "Proceed ahead for 7 meters."</s>
+Advance 7 meters in the forward direction.,The response is, "Move forward for 7 meters at a speed of 0.5 meters per second."</s>
+Travel straight ahead for a length of 7 meters.,The response above is acceptable.</s>
+Go straight for 7 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Turn right and move forward for 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Take a right turn and proceed ahead for a distance of 4 meters.,The response would be, "{"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Make a right turn and advance straight ahead covering a distance of 4 meters.,The response would be, {"action": "move", "params": {"linear_speed": 4, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Rotate towards the right and continue moving forward for 4 meters.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Go right and travel straight ahead, covering a distance of 4 meters.,The response would be, "Go right and travel straight ahead, covering a distance of 4 meters."</s>
+Move forward for 3 seconds.,The response is, {"action": "move", "params": {"linear_speed": 3, "distance": 0, "is_forward": true, "unit": "second"}}</s>
+Go straight ahead for a duration of 3 seconds.,The response is, {"action": "move", "params": {"linear_speed": 3, "distance": 0, "is_forward": true, "unit": "second"}}</s>
+Proceed in a forward direction for a span of 3 seconds.,The response would be 3 * 0.5 = 1.5 meters.</s>
+Advance ahead for a period of 3 seconds.,The answer is 3.</s>
+Travel forward for a duration of 3 seconds.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 3, "is_forward": true, "unit": "second"}}"</s>
+Turn left and move forward for 2 meters.,The response is, "Turn left and move forward for 2 meters."</s>
+Proceed straight for a distance of 2 meters after making a left turn.,The response is, "Proceed straight for a distance of 2 meters after making a left turn."</s>
+For a span of 2 meters, continue moving forward after taking a left turn.,The response would be,{ "action": "move", "params": { "linear_speed": 0.5, "distance": 2, "is_forward": true, "unit": "meter" } }</s>
+Make a left turn and advance ahead for 2 meters.,The response would be, {"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}</s>
+After turning left, go straight for a distance of 2 meters.,The response is, "Go straight for a distance of 2 meters."</s>
+Rotate clockwise by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn to the right by 270 degrees.,The response is, "Turn to the right by 270 degrees."</s>
+Rotate in a clockwise direction by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 270-degree clockwise rotation.,The response is 270.</s>
+Rotate by 270 degrees in a clockwise manner.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Move backward for 6 meters.,The response is, "Move backward for 6 meters."</s>
+Reverse direction and travel a distance of 6 meters.,Reverse direction and travel a distance of 6 meters.</s>
+Go back 6 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Retreat for a distance of 6 meters.,The response is, "Retreat for a distance of 6 meters."</s>
+Move in the opposite direction for 6 meters.,The response is, "Move in the opposite direction for 6 meters."</s>
+Turn right and move forward for 5 seconds.,The response is, "Turn right and move forward for 5 seconds."</s>
+Take a right turn and proceed ahead for a duration of 5 seconds.,The response would be, {"action": "turn", "params": {"direction": "right", "duration": 5, "unit": "second"}}</s>
+Make a right turn and continue moving straight for 5 seconds.,The response is, "Make a right turn and continue moving straight for 5 seconds."</s>
+Go right and advance for a period of 5 seconds.,The response would be, "{"action": "move", "params": {"linear_speed": 1, "distance": 5, "is_forward": true, "unit": "second"}}"</s>
+Shift to the right and travel in a forward direction for 5 seconds.,The response is, "Move forward for 5 seconds."</s>
+Move forward at a velocity of 0.3 meters per second for 10 meters.,The response is, {"action": "move", "params": {"linear_speed": 0.3, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed ahead for a distance of 10 meters at a speed of 0.3 meters per second.,The response is, "Move forward for 10 meters at a speed of 0.3 meters per second."</s>
+Travel forward for 10 meters, maintaining a velocity of 0.3 meters per second.,The response is, "Move forward for 10 meters, maintaining a velocity of 0.3 meters per second."</s>
+Advance for a total of 10 meters while moving at a speed of 0.3 meters per second.,The response is, "Move forward for 10 meters at a speed of 0.3 meters per second."</s>
+Cover a distance of 10 meters by moving forward at a velocity of 0.3 meters per second.,The response is, "Move forward for 10 meters at a velocity of 0.3 meters per second."</s>
+Rotate counterclockwise by 120 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 120, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate 120 degrees counterclockwise.,The response is, {"action": "rotate", "params": {"angular_velocity": 120, "angle": 120, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a counterclockwise rotation of 120 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 120, "angle": 120, "is_clockwise": false, "unit": "degrees"}}"</s>
+Turn left by 120 degrees.,The response is, "Turn left by 120 degrees."</s>
+Rotate in the opposite direction by 120 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": 180, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 90 degrees.,The response is, "Turn left by 90 degrees."</s>
+Rotate anti-clockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in the opposite direction by 90 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": 180, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate counter to the clockwise direction by 90 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 90, "angle": 90, "is_clockwise": true, "unit": "degrees"}}"</s>
+Move forward for 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight ahead for a distance of 5 meters.,The response would be, "Move forward for 5 meters."</s>
+Advance ahead by 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Travel in a forward direction, covering a distance of 5 meters.,The response is, "Move forward for 5 meters at a speed of 0.5 meters per second."</s>
+Move straight ahead and travel a distance of 5 meters.,The response is, "{"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Turn left and move forward for 2 seconds.,The response is, "Turn left and move forward for 2 seconds."</s>
+Proceed forward for 2 seconds after turning left.,The response is, "Proceed forward for 2 seconds after turning left."</s>
+After making a left turn, continue straight ahead for 2 seconds.,The answer is 2.</s>
+Take a left turn and then advance forward for 2 seconds.,The response would be, "{"action": "move", "params": {"linear_speed": 2, "distance": 0, "is_forward": true, "unit": "second"}}"</s>
+Rotate to the left and travel straight for 2 seconds.,The response is, "Rotate to the left and travel straight for 2 seconds."</s>
+Stop and wait.,</s>
+Cease and remain still.,</s>
+Halt and stay put.,</s>
+Pause and remain stationary.,</s>
+Desist and await further instruction.,</s>
+Move backward for 10 meters.,The response is, "Move backward for 10 meters."</s>
+Go back a distance of 10 meters.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Retreat for a distance of 10 meters.,The response is, "Retreat for a distance of 10 meters."</s>
+Reverse your direction and travel 10 meters.,Reverse your direction and travel 10 meters.</s>
+Take 10 steps backward.,The response is, "The person took 10 steps backward."</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Rotate in a clockwise direction by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn by 180 degrees in a clockwise manner.,The response is 180.</s>
+Execute a clockwise rotation of 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn right and move forward for 3 seconds.,The response is, "Turn right and move forward for 3 seconds."</s>
+Make a right turn and proceed forward for a duration of 3 seconds.,The response is, "Make a right turn and proceed forward for a duration of 3 seconds."</s>
+Take a right and continue moving straight ahead for a total of 3 seconds.,The answer is 3.</s>
+Rotate to the right and advance for a period of 3 seconds.,The response is, "{"action": "rotate", "params": {"angular_velocity": 3, "angle": 0, "is_clockwise": false, "unit": "second"}}"</s>
+Face towards the right and travel forward for a duration of 3 seconds.,The response is, "Face towards the right and travel forward for a duration of 3 seconds."</s>
+Go to the living room and stop.,The response is, "Go to the living room and stop."</s>
+Proceed to the living room and come to a halt.,The response is, "The person came to a halt in the living room."</s>
+Move to the living room and cease all movement.,The response is, "Move to the living room and cease all movement."</s>
+Make your way to the living room and stand still.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Head to the living room and remain stationary.,</s>
+Move 2 meters to the left.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Shift your position by 2 meters towards the left.,The response is, "The action is move. The params are linear_speed: 0.5, distance: 2, is_forward: true, unit: meter."</s>
+Change your location by 2 meters in a leftward direction.,The response is, "Move forward for 2 meters at a speed of 0.5 meters per second."</s>
+Relocate yourself 2 meters to the left.,The response is, "Relocate yourself 2 meters to the left."</s>
+Move to the left by a distance of 2 meters.,The response is, "Move to the left by a distance of 2 meters."</s>
+Rotate counterclockwise by 45 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 45 degrees.,The response is, "Turn left by 45 degrees."</s>
+Execute a counterclockwise rotation of 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 0, "is_clockwise": false, "unit": "degrees"}}"</s>
+Rotate anticlockwise by an angle of 45 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 45, "angle": 45, "is_clockwise": false, "unit": "degrees"}}"</s>
+Perform a 45-degree rotation in the counterclockwise direction.,The 45-degree rotation in the counterclockwise direction would be 180 - 45 = 135 degrees. The answer is 135.</s>
+Move forward at a speed of 0.5 meters per second for 4 seconds.,The response is, "Move forward for 4 seconds at a speed of 0.5 meters per second."</s>
+Proceed ahead for a duration of 4 seconds with a velocity of 0.5 meters per second.,The response would be, "Move forward for 4 seconds at a velocity of 0.5 meters per second."</s>
+Travel in a straight line for 4 seconds, maintaining a speed of 0.5 meters per second.,The response is, "Move forward for 4 seconds at a speed of 0.5 meters per second."</s>
+Advance at 0.5 meters per second for a period of 4 seconds in a forward direction.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Go forward for 4 seconds, maintaining a velocity of 0.5 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Turn left and move forward for 7 meters.,The response is, "Turn left and move forward for 7 meters."</s>
+Make a left turn and proceed straight ahead covering a distance of 7 meters.,The response is, "Make a left turn and proceed straight ahead covering a distance of 7 meters."</s>
+Take a left turn and continue moving ahead, advancing 7 meters.,The response is, "Move forward for 7 meters at a speed of 0.5 meters per second."</s>
+Head to the left and travel straight for 7 meters.,The response is, "Head to the left and travel straight for 7 meters."</s>
+Rotate in the left direction and proceed forward, covering a distance of 7 meters.,The response is,</s>
+Stop and reverse direction.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Come to a halt and begin moving in the opposite direction.,The response is, {"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}.</s>
+Cease forward motion and start moving backwards.,The response is, "{"action": "move", "params": {"linear_speed": -0.5, "distance": 1, "is_forward": false, "unit": "meter"}}"</s>
+Bring yourself to a stop and change your direction to the opposite way.,The response is, {"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}.</s>
+Halt your movement and proceed in the opposite direction.,The response is, "Move backward for 1 meter at a speed of 0.5 meters per second."</s>
+Move 3 meters to the right.,The response is, "The action is move. The params are linear_speed: 3, distance: 3, is_forward: true, unit: meter."</s>
+Shift 3 meters towards the right.,The response is, "Shift 3 meters towards the right."</s>
+Go 3 meters horizontally in the right direction.,The response is, "Go 3 meters horizontally in the right direction."</s>
+Change your position by moving 3 meters to the right.,The response would be, "{"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}"</s>
+Traverse a distance of 3 meters towards the right.,The response would be, {"action": "move", "params": {"linear_speed": 3, "distance": 3, "is_forward": true, "unit": "meter"}}</s>
+Rotate clockwise by 60 degrees.,The response above.</s>
+Perform a clockwise rotation of 60 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}".</s>
+Rotate 60 degrees in a clockwise direction.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Turn to the right by 60 degrees.,The response is, "Turn to the right by 60 degrees."</s>
+Rotate to the right by an angle of 60 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn right and move forward for 1 second.,The response is, "Turn right and move forward for 1 second."</s>
+Take a right turn and proceed straight ahead for 1 second.,The response would be, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}"</s>
+Make a right turn and advance for 1 second.,The response is, "Make a right turn and advance for 1 second."</s>
+Rotate to the right and move forward for 1 second.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 1, "is_forward": true, "unit": "second"}}</s>
+Go right and continue moving forward for 1 second.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}"</s>
+Go to the bedroom and stop.,The response is, "Go to the bedroom and stop."</s>
+Head to the bedroom and come to a halt.,The response is, "Head to the bedroom and come to a halt."</s>
+Make your way to the bedroom and cease all movement.,The response is, "Make your way to the bedroom and cease all movement."</s>
+Proceed to the bedroom and pause.,The response is, "Pause for 5 seconds."</s>
+Go to the bedroom and stand still.,The response is, "Go to the bedroom and stand still."</s>
+Move backward for 8 meters.,The response is, "Move backward for 8 meters."</s>
+Go 8 meters in reverse.,The response is, "Go 8 meters in reverse."</s>
+Travel 8 meters in the opposite direction.,The response is, "Move backward for 8 meters at a speed of 0.5 meters per second."</s>
+Retreat for a distance of 8 meters.,The response is, "Retreat for a distance of 8 meters."</s>
+Reverse 8 meters.,Reverse 8 meters.</s>
+Rotate counterclockwise by 270 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 270, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 270 degrees.,The response is, "Turn left by 270 degrees."</s>
+Rotate anti-clockwise by 270 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 270, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in the opposite direction by 270 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": 270, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a 270-degree counterclockwise rotation.,The response is 270 degrees counterclockwise.</s>
+Turn left and move forward for 6 seconds.,The response is, "Turn left and move forward for 6 seconds."</s>
+Go forward for 6 seconds after turning left.,The response is, "Go forward for 6 seconds after turning left."</s>
+Take a left turn and proceed straight for 6 seconds.,The response is, "Take a left turn and proceed straight for 6 seconds."</s>
+After turning left, continue moving forward for 6 seconds.,The response is, "Continue moving forward for 6 seconds."</s>
+Make a left turn and move ahead for 6 seconds.,The response is, "Make a left turn and move ahead for 6 seconds."</s>
+Turn left and move forward for 5 meters.,The response is, "Turn left and move forward for 5 meters."</s>
+Take a left turn and proceed ahead covering a distance of 5 meters.,The response would be, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Make a left turn and continue moving straight, covering a distance of 5 meters.,The response is, "Make a left turn and continue moving straight, covering a distance of 5 meters."</s>
+Go left and advance forward, traveling a distance of 5 meters.,The response is, {"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}</s>
+Execute a left turn and proceed straight, ensuring a distance of 5 meters.,The response is, "Move forward for 5 meters at a speed of 0.5 meters per second."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn 90 degrees in the counterclockwise direction.,The response is, "Turn 90 degrees in the counterclockwise direction."</s>
+Rotate anti-clockwise at a 90-degree angle.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Spin to the left by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in the counterclockwise direction, making a 90-degree turn.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 90, "is_clockwise": false, "unit": "degrees"}}</s>
+Move backward for 3 seconds.,The response is, "Move backward for 3 seconds."</s>
+Go in reverse for a duration of 3 seconds.,The response is, {"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}.</s>
+Take a step back and continue for a total of 3 seconds.,The answer is 3.</s>
+Reverse your movement and maintain it for 3 seconds.,Reverse your movement and maintain it for 3 seconds.</s>
+Retreat for a period of 3 seconds.,The response is, "Retreat for a period of 3 seconds."</s>
+Turn right and move forward for 10 meters.,The response would be, {"action": "move", "params": {"linear_speed": 10, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed forward for 10 meters after making a right turn.,The response is, "Make a right turn and proceed forward for 10 meters."</s>
+Take a right and continue moving ahead for a distance of 10 meters.,The response would be, "Move forward for 10 meters at a speed of 1 meter per second."</s>
+Make a right turn and travel straight ahead for a total of 10 meters.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+After turning right, advance forward and cover a distance of 10 meters.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter"}}"</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a 180-degree clockwise rotation.,The response is 180.</s>
+Turn in a clockwise direction by 180 degrees.,The response is, "Turn in a clockwise direction by 180 degrees."</s>
+Execute a rotation of 180 degrees in a clockwise manner.,The response is 180.</s>
+Rotate by 180 degrees, following the clockwise direction.,The response is, {"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}</s>
+Move forward at a speed of 0.5 meters per second for 4 seconds.,The response is, "Move forward for 4 seconds at a speed of 0.5 meters per second."</s>
+Go ahead for 4 seconds at a velocity of 0.5 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}</s>
+Progress at a speed of 0.5 meters per second for a duration of 4 seconds.,The response is, "Move forward for 4 seconds at a speed of 0.5 meters per second."</s>
+Travel forward for 4 seconds, maintaining a speed of 0.5 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 4, "is_forward": true, "unit": "meter"}}"</s>
+Proceed at a rate of 0.5 meters per second for a time span of 4 seconds.,The response is, "Move forward for 4 seconds at a rate of 0.5 meters per second."</s>
+Turn left and move backward for 2 meters.,The response is, "Turn left and move backward for 2 meters."</s>
+Take a left turn and proceed backwards for a distance of 2 meters.,The response would be,{ "action": "move", "params": { "linear_speed": 2, "distance": 2, "is_forward": false, "unit": "meter" } }</s>
+Make a left turn and travel in reverse for a distance of 2 meters.,The response is, "Make a left turn and travel in reverse for a distance of 2 meters."</s>
+Rotate left and proceed in reverse for a total distance of 2 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Shift to the left and move backwards covering a distance of 2 meters.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 2, "is_forward": true, "unit": "meter"}}"</s>
+Move forward for 7 seconds.,The response is, {"action": "move", "params": {"linear_speed": 7, "distance": 0, "is_forward": true, "unit": "second"}}</s>
+Proceed ahead for a duration of 7 seconds.,The answer is 7.</s>
+Advance for a period of 7 seconds.,The answer is 7.</s>
+Keep moving forward for 7 seconds.,The response is, "Keep moving forward for 7 seconds."</s>
+Continue ahead for a total of 7 seconds.,The response is 7.</s>
+Rotate counterclockwise by 30 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by an angle of 30 degrees.,The response is, "Turn left by an angle of 30 degrees."</s>
+Rotate anticlockwise by 30 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 30, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in the opposite direction by 30 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": false, "unit": "degrees"}}</s>
+Make a 30 degree counterclockwise rotation.,The response is 30 degrees counterclockwise.</s>
+Move backward at a speed of 1 meter per second for 6 seconds.,The response is, "Move backward at a speed of 1 meter per second for 6 seconds."</s>
+Reverse your movement, traveling at a pace of 1 meter per second for a duration of 6 seconds.,Reverse your movement, traveling at a pace of 1 meter per second for a duration of 6 seconds.</s>
+Go in the opposite direction, maintaining a velocity of 1 meter per second for 6 seconds.,The response is, "{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}"</s>
+Travel backwards for 6 seconds at a speed of 1 meter per second.,The response is, "The travel backwards for 6 seconds at a speed of 1 meter per second."</s>
+Invert your motion, moving at a rate of 1 meter per second for a period of 6 seconds.,The response would be, "Move forward for 6 seconds at a rate of 1 meter per second."</s>
+Turn right and move forward for 8 meters.,The response is, "Turn right and move forward for 8 meters."</s>
+Proceed for 8 meters after taking a right turn.,The response is 8.</s>
+Take a right and continue straight ahead for a distance of 8 meters.,The response is, "Take a right and continue straight ahead for a distance of 8 meters."</s>
+Make a right turn and then proceed ahead for 8 meters.,The response is, "Make a right turn and then proceed ahead for 8 meters."</s>
+After turning right, cover a distance of 8 meters by moving forward.,The response is, "Move forward for 8 meters at a speed of 2 meters per second."</s>
+Rotate clockwise by 270 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 270, "angle": 270, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn 270 degrees to the right.,The answer is 270.</s>
+Turn three-quarters of a full rotation to the right.,The answer is 270 degrees.</s>
+Perform a clockwise rotation of 270 degrees.,The answer is 270.</s>
+Rotate in the clockwise direction, making a 270-degree turn.,The response is 270.</s>
+Move forward and then immediately stop.,The response is, "Move forward and then immediately stop."</s>
+Proceed forward and promptly come to a halt.,The response is '{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}}'</s>
+Advance and instantaneously cease movement.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Go forward and abruptly pause.,The response is, "Go forward and abruptly pause."</s>
+Move ahead and promptly end motion.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Turn left and move backward for 4 meters.,The response is, "Turn left and move backward for 4 meters."</s>
+Make a left turn and proceed backwards for a distance of 4 meters.,The response is, "Make a left turn and proceed backwards for a distance of 4 meters."</s>
+Go in the opposite direction and turn to the left, covering a distance of 4 meters.,The response is, "Move backward for 4 meters at a speed of 0.5 meters per second."</s>
+Rotate to your left and travel in the reverse direction, moving 4 meters behind.,The response is, "Move backward for 4 meters at a speed of 0.5 meters per second."</s>
+Head left and travel in reverse for a total of 4 meters.,The response is, "Head left and travel in reverse for a total of 4 meters."</s>
+Move forward for 10 seconds at a speed of 0.3 meters per second.,The response is, "Move forward for 10 seconds at a speed of 0.3 meters per second."</s>
+Advance for a duration of 10 seconds, maintaining a velocity of 0.3 meters per second.,The response is, "Move forward for 10 seconds at a velocity of 0.3 meters per second."</s>
+Proceed ahead at a rate of 0.3 meters per second for a period of 10 seconds.,The response is 0.3 * 10 = 3 meters.</s>
+Travel straight ahead for 10 seconds, moving at a speed of 0.3 meters per second.,The response is, "Move forward for 10 seconds, moving at a speed of 0.3 meters per second."</s>
+Go forward at a velocity of 0.3 meters per second, covering a distance for 10 seconds.,The response is, "{"action": "move", "params": {"linear_speed": 0.3, "distance": 10, "is_forward": true, "unit": "meter"}}"</s>
+Rotate counterclockwise by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Turn left by 60 degrees.,The response is, "Turn left by 60 degrees."</s>
+Rotate in the opposite direction by 60 degrees.,Returns: {"action": "rotate", "params": {"angular_velocity": -10, "angle": -60, "is_clockwise": false, "unit": "degrees"}}</s>
+Make a counterclockwise rotation of 60 degrees.,The response is, "Make a counterclockwise rotation of 60 degrees."</s>
+Rotate leftwards by 60 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 60, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Move backward and then immediately stop.,The response is, "Move backward and then immediately stop."</s>
+Reverse and come to a sudden halt.,Reverse and come to a sudden halt.</s>
+Go in reverse and abruptly cease.,The response is, "Go in reverse and abruptly cease."</s>
+Back up and instantly come to a standstill.,The response is, "Back up and instantly come to a standstill."</s>
+Move backwards and promptly come to a stop.,The response is, "Move backwards and promptly come to a stop."</s>
+Turn right and move forward for 6 meters.,The response is, "Turn right and move forward for 6 meters."</s>
+Make a right turn and proceed straight ahead for a distance of 6 meters.,The response is, "Make a right turn and proceed straight ahead for a distance of 6 meters."</s>
+Go to your right and continue moving forward for a total of 6 meters.,The response would be, "Go to your right and continue moving forward for a total of 6 meters."</s>
+Take a right turn and advance ahead, covering a distance of 6 meters.,The response would be, {"action": "move", "params": {"linear_speed": 6, "distance": 6, "is_forward": true, "unit": "meter"}}</s>
+Head towards the right and maintain a straight path for 6 meters.,The response is, "Head towards the right and maintain a straight path for 6 meters."</s>
+Rotate clockwise by 120 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 120, "angle": 120, "is_clockwise": true, "unit": "degrees"}}</s>
+Turn 120 degrees in a clockwise direction.,The response is 120 degrees.</s>
+Move in a clockwise rotation by 120 degrees.,The response is, "Move in a clockwise rotation by 120 degrees."</s>
+Adjust the rotation by 120 degrees in a clockwise manner.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 120, "is_clockwise": true, "unit": "degrees"}}"</s>
+Execute a 120-degree clockwise rotation.,The response is 120.</s>
+Move forward and then backward for 5 meters.,The response is, "Move forward for 5 meters and then backward for 5 meters."</s>
+Proceed ahead and then return in reverse for a distance of 5 meters.,The response is, "Return in reverse for a distance of 5 meters."</s>
+Advance forward and then retract for a distance of 5 meters.,The answer is 5.</s>
+Go straight ahead and then move backward covering a span of 5 meters.,The response is, "Move backward for 5 meters at a speed of 0.5 meters per second."</s>
+Propel forward and then reverse, covering a distance of 5 meters.,The response is, "Propel forward and then reverse, covering a distance of 5 meters."</s>
+Move forward for 10 meters.,The response is, {"action": "move", "params": {"linear_speed": 10, "distance": 10, "is_forward": true, "unit": "meter"}}</s>
+Proceed straight for a distance of 10 meters.,The response is, "Move forward for 10 meters at a speed of 1 meter per second."</s>
+Advance ahead by 10 meters.,The response is, "Move forward for 10 meters at a speed of 0.5 meters per second."</s>
+Go straight ahead covering a distance of 10 meters.,The response is, "{"action": "move", "params": {"linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter"}}"</s>
+Travel in a forward direction for 10 meters.,The response is, "Move forward for 10 meters at a speed of 0.5 meters per second."</s>
+Turn left and move forward for 5 meters.,The response is, "Turn left and move forward for 5 meters."</s>
+Make a left turn and proceed ahead for a distance of 5 meters.,The response is, "Make a left turn and proceed ahead for a distance of 5 meters."</s>
+Rotate towards the left and continue moving straight ahead covering a distance of 5 meters.,The response would be,{ "action": "move", "params": { "linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter" } }</s>
+Take a leftward turn and advance for 5 meters.,The response would be, "{"action": "move", "params": {"linear_speed": 5, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Face left and go straight for 5 meters.,The response is, "Face left and go straight for 5 meters."</s>
+Rotate counterclockwise by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Rotate in an anticlockwise direction by 90 degrees.,The response is, {"action": "rotate", "params": {"angular_velocity": 90, "angle": 0, "is_clockwise": false, "unit": "degrees"}}</s>
+Perform a 90-degree counterclockwise rotation.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}"</s>
+Turn left by 90 degrees.,The response is, "Turn left by 90 degrees."</s>
+Anti-rotate by 90 degrees.,Anti-rotate by 90 degrees.</s>
+Move backward for 3 meters.,The response is, "Move backward for 3 meters."</s>
+Go in reverse for a distance of 3 meters.,The response is, "Reverse for a distance of 3 meters."</s>
+Retreat by 3 meters.,The response is, "Retreat by 3 meters."</s>
+Step back 3 meters.,The response is, "Step back 3 meters."</s>
+Reverse direction and travel 3 meters.,Reverse direction and travel 3 meters.</s>
+Turn right and move forward at 0.5 m/s for 20 seconds.,The response is, "Move forward for 20 seconds at a speed of 0.5 m/s."</s>
+Proceed straight for 20 seconds at a speed of 0.5 m/s after turning right.,The response is, "Move forward for 20 seconds at a speed of 0.5 m/s after turning right."</s>
+After making a right turn, travel forward for 20 seconds at a velocity of 0.5 m/s.,The response is, "{"action": "move", "params": {"linear_speed": 0.5, "distance": 20, "is_forward": true, "unit": "meter"}}"</s>
+Make a right turn and advance for 20 seconds at a rate of 0.5 m/s.,The response would be,{ "action": "move", "params": { "linear_speed": 0.5, "distance": 20, "is_forward": true, "unit": "meter" } }</s>
+After turning right, maintain a speed of 0.5 m/s and move forward for 20 seconds.,The response is, "Move forward for 20 seconds at a speed of 0.5 m/s."</s>
+Go to the living room and stop.,The response is, "Go to the living room and stop."</s>
+Please proceed to the living room and come to a halt.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Make your way to the living room and cease movement.,The response is, "Make your way to the living room and cease movement."</s>
+Head over to the living room and pause.,</s>
+Walk into the living room and stand still.,The response is, "Stand still."</s>
+Move forward for 2 seconds at a speed of 1 meter per second.,The response is, "Move forward for 2 seconds at a speed of 1 meter per second."</s>
+Proceed straight ahead for a duration of 2 seconds with a velocity of 1 meter per second.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 0, "is_forward": true, "unit": "meter"}}</s>
+Advance for 2 seconds with a speed of 1 meter per second in the forward direction.,The response is, "Advance for 2 seconds with a speed of 1 meter per second in the forward direction."</s>
+Move ahead at a rate of 1 meter per second for 2 seconds.,The response is, "Move ahead at a rate of 1 meter per second for 2 seconds."</s>
+Travel straight ahead for 2 seconds, maintaining a speed of 1 meter per second.,The response is, "{"action": "move", "params": {"linear_speed": 1, "distance": 2, "is_forward": true, "unit": "meter"}}"</s>
+Rotate clockwise by 180 degrees.,The response is, "{"action": "rotate", "params": {"angular_velocity": 180, "angle": 180, "is_clockwise": true, "unit": "degrees"}}"</s>
+Perform a clockwise rotation of 180 degrees.,The response is 180.</s>
+Rotate 180 degrees in the clockwise direction.,The response is 180 degrees in the clockwise direction.</s>
+Turn in a clockwise direction and rotate by 180 degrees.,The response is, "Turn in a clockwise direction and rotate by 180 degrees."</s>
+Execute a 180-degree clockwise rotation.,The response is 180.</s>
+Move forward for 4 meters and then turn left.,The response is, "Move forward for 4 meters and then turn left."</s>
+Proceed straight ahead, covering a distance of 4 meters, and subsequently make a left turn.,The response is, "Move forward for 4 meters at a speed of 0.5 meters per second."</s>
+Go straight for a distance of 4 meters followed by a left turn.,The response is, "Go straight for a distance of 4 meters followed by a left turn."</s>
+Advance in the forward direction, covering 4 meters, and then make a leftward turn.,The response is,</s>
+Move ahead for 4 meters and then change direction by turning left.,The response is, "Move ahead for 4 meters and then change direction by turning left."</s>
+Rotate counterclockwise by 60 degrees and move forward for 3 meters.,The response is,</s>
+Turn left by 60 degrees and proceed ahead for a distance of 3 meters.,The response is, "Turn left by 60 degrees and proceed ahead for a distance of 3 meters."</s>
+Perform a 60-degree counterclockwise rotation and then move forward for 3 meters.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}."</s>
+Rotate anti-clockwise by 60 degrees and advance 3 meters in the same direction.,The response is,</s>
+Firtly, turn 60 degrees to the left in a counterclockwise direction, and subsequently, move forward for 3 meters.,The response is, {"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}</s>
+Go to the bedroom and stop.,The response is, "Go to the bedroom and stop."</s>
+Proceed to the bedroom and come to a halt.,The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is, "The response is
+Make your way to the bedroom and cease your movement.,The response is, "Make your way to the bedroom and cease your movement."</s>
+Head towards the bedroom and come to a standstill.,The response is, "Head towards the bedroom and come to a standstill."</s>
+Move to the bedroom and pause.,The response is, "Move to the bedroom and pause."</s>
+Move backward for 7 meters at a speed of 0.8 meters per second.,The response is, "Move backward for 7 meters at a speed of 0.8 meters per second."</s>
+Travel in reverse for a distance of 7 meters with a velocity of 0.8 meters per second.,The response is, "Move backward for a distance of 7 meters at a velocity of 0.8 meters per second."</s>
+Go backwards for 7 meters, maintaining a speed of 0.8 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 0.8, "distance": -7, "is_forward": false, "unit": "meter"}}"</s>
+Reverse direction and travel for 7 meters at a velocity of 0.8 meters per second.,The response is, "Reverse direction and travel for 7 meters at a velocity of 0.8 meters per second."</s>
+Retrace your steps by moving 7 meters in reverse at a speed of 0.8 meters per second.,The response is, "Move backward for 7 meters at a speed of 0.8 meters per second."</s>
+Turn left and move forward for 5 meters at a speed of 2 meters per second.,The response is, "Turn left and move forward for 5 meters at a speed of 2 meters per second."</s>
+Take a left turn and proceed straight ahead for a distance of 5 meters, maintaining a speed of 2 meters per second.,The response is, "Move forward for 5 meters at a speed of 2 meters per second."</s>
+Make a left turn and advance forward for 5 meters with a velocity of 2 meters per second.,The response is, "{"action": "move", "params": {"linear_speed": 2, "distance": 5, "is_forward": true, "unit": "meter"}}"</s>
+Execute a left turn and continue moving ahead for 5 meters, traveling at a speed of 2 meters per second.,The response is, "Move forward for 5 meters at a speed of 2 meters per second."</s>
+Change direction to the left and travel straight for a distance of 5 meters, keeping a constant speed of 2 meters per second.,The response is, {"action": "move", "params": {"linear_speed": 2, "distance": 5, "is_forward": false, "unit": "meter"}}</s>
+Back up for 1 meter and then execute a 90-degree turn to the right.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Reverse for 1 meter and then make a right turn of 90 degrees.,Reverse for 1 meter and then make a right turn of 90 degrees.</s>
+Move backwards by 1 meter and then perform a right turn at a 90-degree angle.,The response is, "Move backwards by 1 meter and then perform a right turn at a 90-degree angle."</s>
+Retreat by 1 meter and then make a right turn of 90 degrees.,The response is, "Retreat by 1 meter and then make a right turn of 90 degrees."</s>
+Take a step back for 1 meter and then execute a 90-degree right turn.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Navigate to the specified GPS coordinates and play a pre-recorded message.,</s>
+Please go to the given GPS coordinates and play the pre-recorded message.,A: Consider the following ontology{"action": "go_to_goal",        "params": {            "location": {                "type": "str",                "value": "Kitchen"            }        }    }    {        "action": "move",        "params": {            "linear_speed": linear_speed,            "distance": distance,            "is_forward": is_forward,            "unit": "meter"        }    }    {        "
+Can you navigate to the provided GPS coordinates and start playing the recorded message?,A: Consider the following ontology:{"action": "go_to_goal", "params": {"location": {"type": "str", "value": "Kitchen"}}} You will be given human language prompts, and you need to return a json conformant to the ontology. Any action not in the ontology must be ignored. If a field's value is undetermined, put a default reasonable value. Return only the json without any introduction, comments, nor conclusion. Here are some examples. prompt: "Move forward for 1 meter at a speed of
+Follow the given GPS coordinates and play the message that has been prerecorded.,The response is accepted.</s>
+Head to the specified GPS coordinates and initiate the playback of the pre-recorded message.,</s>
+Move in a zigzag pattern for 10 meters, alternating between forward and backward motions.,The response would be,{ "action": "move", "params": { "linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter" } }</s>
+Alternate between moving forward and backward in a zigzag pattern for a distance of 10 meters.,The response would be,{ "action": "move", "params": { "linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter" } }</s>
+Cover a distance of 10 meters by moving in a zigzag pattern, alternating between forward and backward movements.,Cover a distance of 10 meters by moving in a zigzag pattern, alternating between forward and backward movements.</s>
+Perform a zigzag pattern, moving forward and then backward, spanning across a distance of 10 meters.,The response would be,{ "action": "move", "params": { "linear_speed": 1, "distance": 10, "is_forward": true, "unit": "meter" } }</s>
+Switch between forward and backward motions while moving in a zigzag pattern for a total distance of 10 meters.,The response would be,{ "action": "move", "params": { "linear_speed": 0.5, "distance": 10, "is_forward": true, "unit": "meter" } }</s>
+Spin around in a circle three times and then stop abruptly.,The answer is 3.</s>
+Rotate in a full circle three times before coming to an abrupt halt.,The response is,</s>
+Perform three complete rotations in a circular motion and then abruptly come to a stop.,The answer is 360 degrees.</s>
+Turn around in a complete circle three times and then suddenly cease movement.,The answer is 0.</s>
+Spin in a circle three times and then bring yourself to an immediate halt.,The answer is 3.</s>
+Move forward at a constant speed of 1 meter per second for 30 seconds.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 30, "is_forward": true, "unit": "meter"}}</s>
+Maintain a steady speed of 1 meter per second and proceed forward for a duration of 30 seconds.,The response is, {"action": "move", "params": {"linear_speed": 1, "distance": 30, "is_forward": true, "unit": "meter"}}</s>
+Continue moving ahead in a straight line for 30 seconds at a constant speed of 1 meter per second.,The response is, "Move forward for 30 seconds at a constant speed of 1 meter per second."</s>
+Advance for 30 seconds with a consistent velocity of 1 meter per second.,The response is 30 seconds.</s>
+For a period of 30 seconds, travel straight ahead with an unchanging speed of 1 meter per second.,The response would be, "Move forward for 30 seconds at a speed of 1 meter per second."</s>
+Turn right and follow a curved path for 2 meters, then stop and beep.,The response is, "Turn right and follow a curved path for 2 meters, then stop and beep."</s>
+Make a right turn and proceed along a curved path, covering a distance of 2 meters. Afterwards, come to a halt and emit a beep sound.,The response would be, "{"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}"</s>
+Take a right turn and continue along a serpentine trail for a length of 2 meters. Next, pause and produce a beeping sound.,The answer is 2 meters.</s>
+Execute a rightward turn and navigate along a curving route for a distance of 2 meters. Subsequently, cease movement and emit a beep.,The response is, "{"action": "rotate", "params": {"angular_velocity": 10, "angle": 60, "is_clockwise": true, "unit": "degrees"}}"</s>
+Alter your direction towards the right and travel along a winding pathway for 2 meters. Then, come to a stop and produce a beeping noise.,The response is, "{"action": "move", "params": {"linear_speed": 2, "distance": 2, "is_forward": true, "unit": "meter"}}"</s>
+Move forward for 5 meters and then reverse for 2 meters, repeating twice.,The response is, "Move forward for 5 meters and then reverse for 2 meters, repeating twice."</s>
+Repeat the sequence of moving forward for 5 meters, then reversing for 2 meters, twice.,Repeat the sequence of moving forward for 5 meters, then reversing for 2 meters, twice.</s>
+Perform a forward movement of 5 meters, followed by a reverse movement of 2 meters, and repeat this pattern twice.,The response would be, "Forward: 5 meters, Reverse: 2 meters, Forward: 5 meters, Reverse: 2 meters."</s>
+Move ahead for 5 meters and then go in reverse for 2 meters, repeating this cycle twice.,The response is, "Move ahead for 5 meters and then go in reverse for 2 meters, repeating this cycle twice."</s>
+Execute a forward motion of 5 meters, stop, go back for 2 meters, stop, and repeat this process twice.,The response would be:A: Move forward for 5 meters. B: Stop. A: Go back for 2 meters. B: Stop. A: Repeat this process twice. B: Stop twice.</s>
+Randomly select a direction and move forward for a random duration between 1 and 5 seconds.,The response is, "Move forward for a random duration between 1 and 5 seconds."</s>
+Choose a direction at random and proceed forward for a duration between 1 and 5 seconds, chosen randomly.,The response is {"action": "move", "params": {"linear_speed": 0.5, "distance": 1, "is_forward": true, "unit": "meter"}}.</s>
+Randomly pick a direction and move in that direction for a random period ranging from 1 to 5 seconds.,The response is, "Move forward for 1 meter at a speed of 0.5 meters per second."</s>
+Select a random direction and move forward for a randomly determined time frame of 1 to 5 seconds.,The response is, "Move forward for 2 seconds at a speed of 1 meter per second."</s>
+Pick a direction at random and proceed in that direction, randomly determining the duration to move forward between 1 and 5 seconds.,The response is, "Move forward for 1 second at a speed of 0.5 meters per second."</s>
+Perform a 180-degree turn, then launch a small drone from your back.,The 180-degree turn would be a 180-degree rotation. The angular velocity would be 180/60 = 3 degrees per second. The angle would be 180 degrees. The unit would be degrees. The answer would be {"action": "rotate", "params": {"angular_velocity": 3, "angle": 180, "is_clockwise": true, "unit": "degrees"}}.</s>
+Execute a 180-degree rotation and subsequently release a compact drone from your rear.,The response is acceptable.</s>
+Initiate a 180-degree turn followed by the deployment of a diminutive drone from behind you.,The response is, "Initiate a 180-degree turn followed by the deployment of a diminutive drone from behind you."</s>
+Conduct a 180-degree maneuver and proceed to launch a small aerial drone from your backside.,The response is, "Conduct a 180-degree maneuver and proceed to launch a small aerial drone from your backside."</s>
+Carry out a 180-degree spin, then activate the release mechanism to send a small drone flying from your posterior.,The response is acceptable because it conforms to the ontology.</s>

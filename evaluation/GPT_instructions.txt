@@ -1,0 +1,42 @@
+I want to create an ontology that converts natural language commands to a robot into a JSON structure of this type:
+
+{
+"action": "go_to_goal",
+"params": {
+"location": {
+"type": "str",
+"value": "Kitchen"
+}
+}
+}
+{
+"action": "move",
+"params": {
+"linear_speed": 0.5,
+"distance": distance,
+"is_forward": True
+"unit": "meter"
+}
+}
+{
+"action": "rotate",
+"params": {
+"angular_velocity": 0.35,
+"angle": 40,
+"is_clockwise": is_clockwise
+"unit": "degrees"
+}
+}
+
+Propose 3 ontologies for the following 3 use-cases:
+1) Ground robot
+2) UAV
+3) Robotic arm
+
+----------------------------------------------------
+
+Provide 5 commands of this type for a ground robot, each formulated in 3 different wordings:
+- "Move 1 meter forward for two seconds."
+- "Rotate clockwise by 45 degrees."
+- "Turn right and move forward for 3 meters."
+- "Go to the kitchen and stop." 

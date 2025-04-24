@@ -1,0 +1,998 @@
+Lift the object with a force of 10 Newtons.
+Apply a 10 Newton force to lift the object.
+Exert a 10 Newton force to raise the object.
+Use a force of 10 Newtons to elevate the object.
+Employ a 10 Newton force to hoist the object.
+Rotate the shoulder joint counterclockwise by 90 degrees.
+Turn the shoulder joint anti-clockwise at a 90-degree angle.
+Rotate the shoulder joint in a counterclockwise direction, making a 90-degree rotation.
+Twist the shoulder joint in a counterclockwise manner, turning it by 90 degrees.
+Rotate the shoulder joint in the opposite direction of the clock by 90 degrees.
+Move to position X:50, Y:30, Z:15.
+Change your location to coordinates X:50, Y:30, Z:15.
+Transfer yourself to the position with the coordinates X:50, Y:30, Z:15.
+Relocate to the coordinates X:50, Y:30, Z:15.
+Go to the point specified by X:50, Y:30, Z:15.
+Extend the arm by 20 centimeters.
+Increase the length of the arm by 20 centimeters.
+Stretch the arm outwards by 20 centimeters.
+Lengthen the arm by an additional 20 centimeters.
+Expand the arm's reach by 20 centimeters.
+Grip the object with a force of 15 kilograms.
+Apply a force of 15 kilograms to grasp the object.
+Exert a 15 kilogram force to hold onto the object.
+Securely hold the object with a 15 kilogram force.
+Use a force of 15 kilograms to get a firm grip on the object.
+Rotate the elbow joint clockwise by 60 degrees.
+Turn the elbow joint in a clockwise direction, rotating it by 60 degrees.
+Clockwise rotate the elbow joint by 60 degrees.
+Rotate the elbow joint in the clockwise direction, making a 60 degree turn.
+Twist the elbow joint to the right, moving it 60 degrees in a clockwise rotation.
+Lift the object to a height of 1 meter.
+Elevate the object to a 1-meter height.
+Raise the object to a height of 1 meter.
+Hoist the object to a 1-meter elevation.
+Bring the object up to a height of 1 meter.
+Move to position X:25, Y:40, Z:10 at a velocity of 10 cm/s.
+Proceed to coordinates X:25, Y:40, Z:10 with a speed of 10 cm/s.
+Travel to position X:25, Y:40, Z:10 traveling at a pace of 10 cm/s.
+Transfer yourself to X:25, Y:40, Z:10 while maintaining a velocity of 10 cm/s.
+Journey to coordinates X:25, Y:40, Z:10 at a rate of 10 cm/s.
+Rotate the wrist joint counterclockwise by 30 degrees.
+Turn the wrist joint anticlockwise by 30 degrees.
+Twist the wrist joint in a counterclockwise direction by 30 degrees.
+Rotate the wrist joint to the left by 30 degrees.
+Adjust the position of the wrist joint by rotating it counterclockwise 30 degrees.
+Retract the arm by 25 centimeters.
+Pull the arm back by a distance of 25 centimeters.
+Withdraw the arm, reducing its length by 25 centimeters.
+Bring the arm back, shortening it by 25 centimeters.
+Decrease the length of the arm by 25 centimeters through retraction.
+Grip the object with a force of 20 Newtons.
+Apply a 20 Newton force to hold onto the object.
+Exert a grip on the object with a 20 Newton force.
+Use 20 Newtons of force to firmly grasp the object.
+Ensure a 20 Newton force is applied when gripping the object.
+Rotate the shoulder joint clockwise by 45 degrees.
+Turn the shoulder joint in a clockwise direction for a 45-degree rotation.
+Rotate the shoulder joint by 45 degrees in a clockwise direction.
+Twist the shoulder joint in a clockwise manner, moving it 45 degrees.
+Rotate the shoulder joint to the right by 45 degrees.
+Move to position X:15, Y:25, Z:5 at a velocity of 5 cm/s.
+Travel to coordinates X:15, Y:25, Z:5 with a speed of 5 cm/s.
+Go to location X:15, Y:25, Z:5 with a velocity of 5 cm/s.
+Proceed towards position X:15, Y:25, Z:5 at a rate of 5 cm/s.
+Travel at a speed of 5 cm/s to reach coordinates X:15, Y:25, Z:5.
+Extend the arm by 30 centimeters.
+Increase the length of the arm by 30 centimeters.
+Stretch the arm outwards by an additional 30 centimeters.
+Elongate the arm to add 30 centimeters to its length.
+Expand the arm's reach by 30 centimeters.
+Lift the object to a height of 2 meters.
+Raise the object to a height measuring 2 meters.
+Elevate the object to a 2 meter height.
+Hoist the object up to a vertical distance of 2 meters.
+Ascend the object to a 2 meter elevation.
+Rotate the elbow joint counterclockwise by 75 degrees.
+Twist the elbow joint in the opposite direction by an angle of 75 degrees.
+Turn the elbow joint anticlockwise by 75 degrees.
+Rotate the elbow joint in a counterclockwise direction, making a 75 degree angle.
+Adjust the elbow joint by rotating it counterclockwise with a 75 degree angle.
+Move to position X:35, Y:50, Z:20.
+Go to coordinates X:35, Y:50, Z:20.
+Transfer yourself to the location with coordinates X:35, Y:50, Z:20.
+Change your position to X:35, Y:50, Z:20.
+Relocate yourself to the coordinates X:35, Y:50, Z:20.
+Retract the arm by 10 centimeters at a velocity of 15 cm/s.
+Withdraw the arm by a distance of 10 centimeters, moving at a speed of 15 cm/s.
+Pull the arm back by 10 centimeters, with a velocity of 15 cm/s.
+Bring the arm back by a length of 10 centimeters, traveling at a rate of 15 cm/s.
+Move the arm backwards by 10 centimeters at a speed of 15 cm/s.
+Grip the object with a force of 25 kilograms.
+Apply a 25-kilogram force to grip the object.
+Use a force of 25 kilograms to secure your grip on the object.
+Exert 25 kilograms of force to firmly grasp the object.
+Apply a grip to the object, using a 25-kilogram force.
+Rotate the wrist joint clockwise by 90 degrees and dance.
+Dance while rotating the wrist joint 90 degrees clockwise.
+Perform a 90-degree clockwise wrist joint rotation and then dance.
+Begin by rotating the wrist joint 90 degrees clockwise, followed by dancing.
+Start by turning the wrist joint clockwise by 90 degrees, then proceed to dance.
+Lift the arm to a height of 50 centimeters.
+Raise the arm to a height of 50 centimeters.
+Elevate the arm to a height of 50 centimeters.
+Hoist the arm to a height of 50 centimeters.
+Bring the arm up to a height of 50 centimeters.
+Rotate the base joint counterclockwise by 90 degrees.
+Turn the base joint 90 degrees counterclockwise.
+Rotate the base joint in a counterclockwise direction by 90 degrees.
+Twist the base joint to the left by 90 degrees.
+Make a 90-degree counterclockwise rotation of the base joint.
+Extend the arm by 30 centimeters and hold for 10 seconds.
+Stretch the arm outwards, increasing its length by 30 centimeters for a duration of 10 seconds.
+Lengthen the arm by 30 centimeters and maintain the position for 10 seconds.
+Protract the arm by 30 centimeters and keep it in that state for 10 seconds.
+Stretch the arm forward, elongating it by 30 centimeters, and sustain the position for 10 seconds.
+Move to position X:100, Y:50, Z:80 with a velocity of 10 meters per second.
+Travel to coordinates X:100, Y:50, Z:80 at a speed of 10 meters per second.
+Go to location X:100, Y:50, Z:80 at a rate of 10 meters per second.
+Reach the point X:100, Y:50, Z:80 at a velocity of 10 meters per second.
+Advance to position X:100, Y:50, Z:80 with a speed of 10 meters per second.
+Activate the grip mechanism with a force of 8 kilograms.
+Engage the grip mechanism using a force of 8 kilograms.
+Apply a force of 8 kilograms to activate the grip mechanism.
+Use a force of 8 kilograms to activate the grip mechanism's gripping function.
+Activate the grip mechanism by exerting a force of 8 kilograms.
+Rotate the wrist joint clockwise by 30 degrees and hold for 5 seconds.
+Rotate the wrist joint in a clockwise direction, angling it by 30 degrees and maintaining the position for a duration of 5 seconds.
+Turn the wrist joint to the right by 30 degrees, keeping it in that position for 5 seconds.
+Retract the arm to its home position.
+Move the arm back to its original position.
+Return the arm to the starting point.
+Bring the arm back to its home position.
+Move the arm back to where it started.
+Move to position X:0, Y:0, Z:100 with a velocity of 5 meters per second.
+Change your coordinates to X:0, Y:0, Z:100, and maintain a constant velocity of 5 meters per second.
+Head towards position X:0, Y:0, Z:100 at a speed of 5 meters per second.
+Set your destination to X:0, Y:0, Z:100 and travel at a velocity of 5 meters per second.
+Travel to the location specified by X:0, Y:0, Z:100 with a constant velocity of 5 meters per second.
+Grip the object with 10 kilograms of force.
+Apply a force of 10 kilograms to grip the object.
+Exert 10 kilograms of force to securely hold the object.
+Use 10 kilograms of force to firmly grasp the object.
+Apply a gripping force of 10 kilograms to firmly hold onto the object.
+Extend the arm by 20 centimeters, then retract it by 10 centimeters.
+Lengthen the arm by 20 centimeters, then shorten it by 10 centimeters.
+Stretch the arm outwards by 20 centimeters, then pull it back in by 10 centimeters.
+Increase the arm's length by 20 centimeters, then decrease it by 10 centimeters.
+Expand the arm by 20 centimeters, then shrink it by 10 centimeters.
+Rotate the base joint clockwise by 180 degrees and hold.
+Please rotate the base joint in a clockwise direction by 180 degrees and maintain that position.
+Rotate the base joint 180 degrees in a clockwise manner and keep it in place.
+Turn the base joint in a clockwise direction by 180 degrees and hold that position.
+Rotate the base joint in a clockwise fashion, making a 180-degree turn, and hold steady.
+Move to position X:50, Y:100, Z:0 with a velocity of 7 meters per second.
+Go to coordinates X:50, Y:100, Z:0 at a speed of 7 meters per second.
+Travel to the point X:50, Y:100, Z:0 with a velocity of 7 meters per second.
+Change your position to X:50, Y:100, Z:0 at a rate of 7 meters per second.
+Reach the coordinates X:50, Y:100, Z:0 while moving at a speed of 7 meters per second.
+Lift the arm to a height of 80 centimeters and hold for 8 seconds.
+Raise the arm to a height of 80 centimeters and maintain the position for 8 seconds.
+Elevate the arm to a height of 80 centimeters and keep it there for a duration of 8 seconds.
+Hoist the arm up to a height of 80 centimeters and remain in that position for a period of 8 seconds.
+Move the arm upward to a height of 80 centimeters and hold steady for 8 seconds.
+Retract the arm halfway and pause for 3 seconds.
+Pull the arm back to the middle point and wait for 3 seconds.
+Bring the arm back halfway and hold for a duration of 3 seconds.
+Move the arm in reverse to reach the half position, then take a pause of 3 seconds.
+Withdraw the arm to the midpoint, then wait for 3 seconds.
+Rotate the wrist joint counterclockwise by 60 degrees.
+Turn the wrist joint to the left by 60 degrees.
+Twist the wrist joint anticlockwise by 60 degrees.
+Rotate the wrist joint in a counterclockwise direction by 60 degrees.
+Move the wrist joint 60 degrees in the opposite direction of the clock.
+Move to position X:75, Y:25, Z:50 with a velocity of 8 meters per second.
+Go to coordinates X:75, Y:25, Z:50 at a speed of 8 meters per second.
+Travel to X:75, Y:25, Z:50 at a velocity of 8 meters per second.
+Proceed to position X:75, Y:25, Z:50 at a rate of 8 meters per second.
+Head towards X:75, Y:25, Z:50 with a speed of 8 meters per second.
+Extend the arm by 25 centimeters and hold for 4 seconds.
+Stretch out the arm, increasing its length by 25 centimeters, and keep it in that position for 4 seconds.
+Lengthen the arm by 25 centimeters and maintain the position for a duration of 4 seconds.
+Protract the arm, adding 25 centimeters to its length, and hold steady for a period of 4 seconds.
+Elongate the arm by 25 centimeters and sustain the extension for a duration of 4 seconds.
+Grip the object with 6 kilograms of force, then release after 2 seconds.
+Apply a pressure of 6 kilograms to secure your grip on the object, and then let go after 2 seconds.
+Exert a force of 6 kilograms to grasp the object tightly, and then release it after a duration of 2 seconds.
+Clamp onto the object with a force of 6 kilograms, and then loosen your grip after 2 seconds.
+Use 6 kilograms of pressure to firmly hold onto the object, and then release it after a 2-second interval.
+Rotate the base joint counterclockwise by 270 degrees and hold.
+Turn the base joint in an anti-clockwise direction by 270 degrees and maintain the new position.
+Rotate the base joint by 270 degrees in a counterclockwise direction and keep it there.
+Make a 270-degree counterclockwise rotation to the base joint and hold it.
+Twist the base joint counterclockwise by 270 degrees and keep it steady.
+Move to position X:200, Y:150, Z:100 with a velocity of 12 meters per second and then dance.
+Dance after moving to the coordinates X:200, Y:150, Z:100 at a speed of 12 meters per second.
+After reaching the position X:200, Y:150, Z:100 with a velocity of 12 meters per second, start dancing.
+Begin dancing once you have moved to the coordinates X:200, Y:150, Z:100 at a speed of 12 meters per second.
+After traveling to the position X:200, Y:150, Z:100 at a velocity of 12 meters per second, proceed to dance.
+Turn the robot arm on.
+Activate the robot arm.
+Switch on the robot arm.
+Power up the robot arm.
+Enable the robot arm.
+Open the gripper completely.
+Fully open the gripper.
+Open the gripper all the way.
+Ensure that the gripper is completely open.
+Make sure the gripper is fully opened.
+Move the arm to position X:50, Y:75, Z:100.
+Position the arm to coordinates X:50, Y:75, Z:100.
+Adjust the arm to X:50, Y:75, Z:100.
+Shift the arm to coordinates X:50, Y:75, Z:100.
+Set the arm to position X:50, Y:75, Z:100.
+Rotate the elbow joint counterclockwise by 90 degrees.
+Turn the elbow joint in the counterclockwise direction, making a 90-degree rotation.
+Rotate the elbow joint towards the left, turning it by 90 degrees.
+Twist the elbow joint counterclockwise, making a rotation of 90 degrees.
+Spin the elbow joint in a counterclockwise manner, angling it by 90 degrees.
+Extend the arm by 20 centimeters at a velocity of 10 cm/s.
+Increase the arm length by 20 centimeters, moving at a speed of 10 cm/s.
+Stretch the arm out by an additional 20 centimeters, with a velocity of 10 cm/s.
+Lengthen the arm by 20 centimeters, moving at a rate of 10 cm/s.
+Expand the arm's reach by 20 centimeters at a speed of 10 cm/s.
+Grip the object with 3 kilograms of force.
+Apply a 3-kilogram force to grasp the object.
+Exert 3 kilograms of force to grip the object.
+Use a force of 3 kilograms to hold onto the object.
+Hold the object with a force of 3 kilograms.
+Retract the arm by 30 centimeters at a velocity of 5 cm/s.
+Move the arm backwards by a distance of 30 centimeters, with a speed of 5 cm/s.
+Withdraw the arm by 30 centimeters, advancing at a rate of 5 cm/s.
+Pull back the arm by 30 centimeters, traveling at a velocity of 5 cm/s.
+Reverse the arm's position by 30 centimeters, with a speed of 5 cm/s.
+Rotate the wrist joint counterclockwise by 180 degrees.
+Alter the position of the wrist joint in a counterclockwise direction by an angle of 180 degrees.
+Turn the wrist joint counterclockwise with a rotation of 180 degrees.
+Rotate the wrist joint in a counterclockwise manner, shifting it by 180 degrees.
+Perform a 180 degree counterclockwise rotation on the wrist joint.
+Move the arm to position X:100, Y:0, Z:50.
+Adjust the position of the arm to X:100, Y:0, Z:50.
+Relocate the arm so that it is at X:100, Y:0, Z:50.
+Shift the arm's position to X:100, Y:0, Z:50.
+Transfer the arm to the coordinates X:100, Y:0, Z:50.
+Open the gripper halfway.
+Partially open the gripper.
+Open the gripper to a halfway position.
+Adjust the gripper to a halfway open position.
+Set the gripper to open at a midpoint.
+Rotate the shoulder joint clockwise by 45 degrees.
+Turn the shoulder joint in a clockwise direction at a 45-degree angle.
+Rotate the shoulder joint to the right by 45 degrees.
+Twist the shoulder joint in a clockwise motion, 45 degrees.
+Adjust the shoulder joint by rotating it clockwise at a 45-degree angle.
+Extend the arm by 10 centimeters at a velocity of 8 cm/s.
+Increase the length of the arm by 10 centimeters at a speed of 8 centimeters per second.
+Lengthen the arm by 10 centimeters with a velocity of 8 centimeters per second.
+Stretch the arm outwards by 10 centimeters, moving at a speed of 8 centimeters per second.
+Expand the arm's length by 10 centimeters, while maintaining a velocity of 8 centimeters per second.
+Grip the object with 2 kilograms of force.
+Apply 2 kilograms of force to grasp the object.
+Exert a force of 2 kilograms to grab hold of the object.
+Hold onto the object with a force of 2 kilograms.
+Use 2 kilograms of force to secure your grip on the object.
+Retract the arm by 15 centimeters at a velocity of 6 cm/s.
+Move the arm back by 15 centimeters with a speed of 6 cm per second.
+Withdraw the arm, reducing its length by 15 centimeters, at a rate of 6 centimeters per second.
+Pull back the arm, decreasing its extension by 15 centimeters, moving at a pace of 6 centimeters per second.
+Reverse the position of the arm, reducing its protrusion by 15 centimeters, traveling at a speed of 6 centimeters per second.
+Rotate the elbow joint clockwise by 135 degrees.
+Twist the elbow joint in a clockwise direction, turning it 135 degrees.
+Turn the elbow joint to the right, rotating it by 135 degrees.
+Rotate the elbow joint in a clockwise manner, making a 135-degree turn.
+Twist the elbow joint to the right, adjusting it by 135 degrees in a clockwise direction.
+Move the arm to position X:0, Y:100, Z:20.
+Adjust the position of the arm to X coordinate 0, Y coordinate 100, and Z coordinate 20.
+Alter the arm's location to X:0, Y:100, Z:20.
+Shift the arm's position to the coordinates X:0, Y:100, and Z:20.
+Change the arm's placement to X coordinate 0, Y coordinate 100, and Z coordinate 20.
+Close the gripper completely.
+Fully close the gripper.
+Shut the gripper completely.
+Ensure the gripper is completely closed.
+Make sure the gripper is closed tightly.
+Rotate the wrist joint clockwise by 90 degrees.
+Turn the wrist joint 90 degrees clockwise.
+Rotate the wrist joint in a clockwise direction by 90 degrees.
+Twist the wrist joint by 90 degrees in a clockwise manner.
+Perform a 90-degree clockwise rotation of the wrist joint.
+Swim.
+Take a swim.
+Go for a swim.
+Jump in the water and swim.
+Engage in swimming.
+Watch TV.
+Please turn on the television and start watching.
+Begin watching television.
+Start watching your favorite TV show.
+Get ready to enjoy some television programming.
+Lift the object and move it 30 centimeters to the left.
+Pick up the item and shift it 30 centimeters towards the left.
+Grasp the object and relocate it 30 centimeters towards the left.
+Raise and transfer the item 30 centimeters to the left. 
+Elevate the object and shift it 30 centimeters in the leftward direction.
+Rotate the base counterclockwise by 90 degrees.
+Turn the base 90 degrees counterclockwise.
+Rotate the base in a counterclockwise direction, making a 90-degree turn.
+Rotate the base in an anti-clockwise direction, making a 90-degree angle.
+Twist the base counterclockwise, creating a 90-degree rotation.
+Extend the arm by 20 centimeters and hold position for 10 seconds.
+Increase the arm's length by 20 centimeters and maintain the position for 10 seconds.
+Stretch the arm outwards by 20 centimeters and keep it still for 10 seconds.
+Protract the arm by 20 centimeters and sustain the position for 10 seconds.
+Elongate the arm by 20 centimeters and stay in that position for 10 seconds.
+Open the gripper and release the object gently.
+Gently release the object by opening the gripper.
+Carefully open the gripper to let go of the object.
+Softly release the object by opening the gripper.
+Open the gripper in a gentle manner to release the object.
+Move to position X:50, Y:20, Z:10 at a velocity of 0.5 meters per second.
+Go to coordinates X:50, Y:20, Z:10 with a speed of 0.5 meters per second.
+Travel to X:50, Y:20, Z:10 with a velocity of 0.5 meters per second.
+Reach position X:50, Y:20, Z:10 at a pace of 0.5 meters per second.
+Proceed to point X:50, Y:20, Z:10 at a rate of 0.5 meters per second.
+Bend the elbow joint to a 45-degree angle and hold for 5 seconds.
+Flex the elbow joint at a 45-degree angle and maintain the position for 5 seconds.
+Angle the elbow joint to 45 degrees, and keep it in that position for 5 seconds.
+Curve the elbow joint to a 45-degree angle, and hold it for 5 seconds.
+Fold the elbow joint to a 45-degree angle and sustain the pose for 5 seconds.
+Readjust the wrist joint to a neutral position.
+Adjust the position of the wrist joint to a neutral stance.
+Correct the position of the wrist joint to a neutral alignment.
+Realign the wrist joint to a neutral position.
+Reset the wrist joint to a neutral stance.
+Rotate the arm horizontally by 180 degrees.
+Turn the arm in a horizontal direction by a full 180 degrees.
+Rotate the arm sideways, making it complete a 180-degree turn.
+Perform a horizontal rotation of the arm, spanning 180 degrees.
+Twist the arm horizontally, ensuring it moves precisely 180 degrees.
+Grip the object with 10 newtons of force for 2 minutes.
+Apply a force of 10 newtons to firmly hold onto the object for a duration of 2 minutes.
+Grasp the object firmly with a force of 10 newtons and maintain the grip for a period of 2 minutes.
+Exert a 10-newton force to grip the object tightly for 2 minutes.
+Hold onto the object with a force of 10 newtons for a duration of 2 minutes.
+Move to position X:0, Y:0, Z:50 at a velocity of 1 meter per second.
+Travel to the coordinates X:0, Y:0, Z:50 with a speed of 1 meter per second.
+Proceed towards the position X:0, Y:0, Z:50 with a velocity of 1 meter per second.
+Go to the location at X:0, Y:0, Z:50 while moving at a rate of 1 meter per second.
+Navigate to the point X:0, Y:0, Z:50 at a speed of 1 meter per second.
+Retract the arm completely and hold in standby position.
+Fully withdraw the arm and keep it in standby mode.
+Completely retract the arm and maintain it in a standby position.
+Pull back the arm entirely and remain in a standby state.
+Withdraw the arm fully and hold it in a standby position.
+Rotate the gripper 360 degrees clockwise.
+Turn the gripper in a clockwise direction for a full 360 degrees.
+Rotate the gripper to the right by 360 degrees.
+Make a complete clockwise rotation of 360 degrees with the gripper.
+Rotate the gripper in a clockwise motion for an entire 360 degrees.
+Extend the arm by 30 centimeters and hold position for 3 seconds.
+Increase the length of the arm by 30 centimeters and maintain that position for a duration of 3 seconds.
+Stretch out the arm by an additional 30 centimeters and keep it in that posture for 3 seconds.
+Lengthen the arm by 30 centimeters and hold it steady for a period of 3 seconds.
+Straighten out the arm by adding 30 centimeters of length and maintain that pose for 3 seconds.
+Move to position X:30, Y:40, Z:10 at a velocity of 0.3 meters per second.
+Change your position to X:30, Y:40, Z:10 with a speed of 0.3 meters per second.
+Go to the coordinates X:30, Y:40, Z:10 at a speed of 0.3 meters per second.
+Adjust your location to X:30, Y:40, Z:10 with a velocity of 0.3 meters per second.
+Transition to position X:30, Y:40, Z:10, moving at a rate of 0.3 meters per second.
+Bend the elbow joint to a 90-degree angle and hold for 10 seconds.
+Flex the elbow joint to form a 90-degree angle and maintain the position for 10 seconds.
+Curve the elbow joint, bringing it to a 90-degree angle, and keep the posture for 10 seconds.
+Fold the elbow joint to create a 90-degree angle and sustain the position for 10 seconds.
+Crimp the elbow joint to a 90-degree angle and remain in this stance for 10 seconds.
+Open the gripper and close it with 7 kilograms of force.
+Begin by opening the gripper, then apply 7 kilograms of force to close it.
+Use 7 kilograms of force to close the gripper after initially opening it.
+Start by opening the gripper, and proceed to close it by exerting 7 kilograms of force.
+After opening the gripper, apply 7 kilograms of force to seal it shut.
+Rotate the wrist joint counterclockwise by 90 degrees.
+Turn the wrist joint in a counterclockwise direction by 90 degrees.
+Rotate the wrist joint in an anti-clockwise manner by 90 degrees.
+Twist the wrist joint to the left by 90 degrees.
+Rotate the wrist joint in the opposite direction to the clockwise by 90 degrees.
+Move to position X:10, Y:50, Z:20 at a velocity of 0.8 meters per second.
+Proceed to coordinates X:10, Y:50, Z:20 with a speed of 0.8 meters per second.
+Travel to point X:10, Y:50, Z:20 at a velocity of 0.8 meters per second.
+Relocate to position X:10, Y:50, Z:20 at a pace of 0.8 meters per second.
+Shift to the coordinates X:10, Y:50, Z:20 with a velocity of 0.8 meters per second.
+Retract the arm halfway and hold in a hovering position.
+Position the arm in a hovering state, maintaining a halfway retracted position.
+Hold the arm halfway retracted and hover in place.
+Hover while keeping the arm partially retracted.
+Maintain a hovering position while retracting the arm halfway.
+Swim in a circular motion while waving.
+Wave your hand while swimming in a circular motion.
+Perform circular motions while swimming and waving.
+Swim in a circular pattern and wave at the same time.
+Combine swimming in a circular motion with waving gestures.
+Move the base of the arm 90 degrees to the left.
+Rotate the arm's base 90 degrees counterclockwise.
+Adjust the arm's base to the left by 90 degrees.
+Turn the arm's base to the left by 90 degrees.
+Pivot the arm's base to the left by 90 degrees.
+Extend the arm by 20 centimeters at a velocity of 2 meters per second.
+Increase the arm length by 20 centimeters at a rate of 2 meters per second.
+Stretch the arm outwards by 20 centimeters, moving at a speed of 2 meters per second.
+Lengthen the arm by 20 centimeters while moving with a velocity of 2 meters per second.
+Propel the arm forward by 20 centimeters at a rate of 2 meters per second.
+Rotate the elbow joint counterclockwise by 60 degrees.
+Turn the elbow joint in the opposite direction (counterclockwise) by an angle of 60 degrees.
+Rotate the elbow joint anticlockwise, making a 60-degree angle.
+Twist the elbow joint counterclockwise, adjusting it by 60 degrees.
+Spin the elbow joint to the left, rotating it 60 degrees.
+Grip the object with 10 kilograms of force for 10 seconds.
+Apply a force of 10 kilograms to firmly hold the object for a duration of 10 seconds.
+Squeeze the object with a force of 10 kilograms for a period of 10 seconds.
+Exert 10 kilograms of pressure while grasping the object for 10 seconds.
+Maintain a grip on the object with a force of 10 kilograms for a duration of 10 seconds.
+Move to position X:50, Y:50, Z:0 at a velocity of 1 meter per second.
+Go to coordinates X:50, Y:50, Z:0 with a speed of 1 meter per second.
+Travel to position X:50, Y:50, Z:0 with a velocity of 1 meter per second.
+Reach the point X:50, Y:50, Z:0 at a speed of 1 meter per second.
+Achieve the location X:50, Y:50, Z:0 with a velocity of 1 meter per second.
+Retract the arm by 30 centimeters in 5 seconds.
+Withdraw the arm by a distance of 30 centimeters in a duration of 5 seconds.
+Move the arm back by 30 centimeters within a time frame of 5 seconds.
+Bring the arm back by 30 centimeters while taking 5 seconds to do so.
+Pull the arm away by 30 centimeters over the span of 5 seconds.
+Rotate the wrist joint clockwise by 90 degrees.
+Turn the wrist joint 90 degrees in a clockwise direction.
+Rotate the wrist joint in a clockwise manner, making a 90-degree angle.
+Twist the wrist joint in a clockwise direction, creating a 90-degree rotation.
+Adjust the wrist joint by turning it 90 degrees in a clockwise fashion.
+Grip the object with 2 kilograms of force.
+Apply a 2-kilogram force to grip the object.
+Exert 2 kilograms of force to secure your grip on the object.
+Grasp the object firmly with a force of 2 kilograms.
+Employ a 2-kilogram force to firmly hold onto the object.
+Move to position X:100, Y:0, Z:100 at a velocity of 0.5 meters per second.
+Go to coordinates X:100, Y:0, Z:100 gradually with a speed of 0.5 meters per second.
+Travel to the point X:100, Y:0, Z:100 using a velocity of 0.5 meters per second.
+Reach the position X:100, Y:0, Z:100 while moving at a speed of 0.5 meters per second.
+Proceed towards X:100, Y:0, Z:100 at a rate of 0.5 meters per second.
+Retract the arm to the starting position.
+Bring the arm back to the initial position.
+Withdraw the arm and return it to its original position.
+Pull the arm back to the starting point.
+Move the arm back to the initial location.
+Extend the arm by 10 centimeters at a velocity of 0.2 meters per second.
+Increase the length of the arm by 10 centimeters with a speed of 0.2 meters per second.
+Stretch out the arm by 10 centimeters, moving at a velocity of 0.2 meters per second.
+Lengthen the arm by 10 centimeters while maintaining a speed of 0.2 meters per second.
+Expand the arm by 10 centimeters, advancing at a rate of 0.2 meters per second.
+Rotate the elbow joint clockwise by 30 degrees.
+Turn the elbow joint 30 degrees in a clockwise direction.
+Rotate the elbow joint to the right by 30 degrees.
+Twist the elbow joint in a clockwise motion, moving it 30 degrees.
+Adjust the elbow joint by rotating it clockwise, making a 30 degree turn.
+Grip the object with 8 kilograms of force for 3 seconds.
+Apply a force of 8 kilograms to hold onto the object for a duration of 3 seconds.
+Use a grip strength of 8 kilograms to firmly hold the object for 3 seconds.
+Exert 8 kilograms of pressure to maintain a hold on the object for a period of 3 seconds.
+Securely grasp the object with an 8 kilogram force for a duration of 3 seconds.
+Move to position X:0, Y:0, Z:50 at a velocity of 0.1 meters per second.
+Travel to coordinates X:0, Y:0, Z:50 with a speed of 0.1 m/s.
+Go to position X:0, Y:0, Z:50 with a velocity of 0.1 meters per second.
+Shift to the location X:0, Y:0, Z:50 at a rate of 0.1 m/s.
+Reach the point X:0, Y:0, Z:50 at a speed of 0.1 meters per second.
+Retract the arm by 25 centimeters in 4 seconds.
+Within a time frame of 4 seconds, pull the arm back by a distance of 25 centimeters.
+Withdraw the arm, moving it backwards by 25 centimeters over a period of 4 seconds.
+Over the course of 4 seconds, decrease the arm's extension by 25 centimeters.
+In 4 seconds, bring the arm back by 25 centimeters.
+Rotate the wrist joint counterclockwise by 45 degrees.
+Rotate the wrist joint in an anticlockwise direction by 45 degrees.
+Turn the wrist joint to the left by an angle of 45 degrees.
+Rotate the wrist joint in a counterclockwise motion, angling it by 45 degrees.
+Twist the wrist joint anti-clockwise, changing its position by 45 degrees.
+Grip the object with 4 kilograms of force.
+Apply a 4-kilogram force to grasp the object.
+Exert 4 kilograms of pressure to grip the object.
+Employ 4 kilograms of force to securely hold onto the object.
+Apply a grip force of 4 kilograms to firmly hold the object.
+Move to position X:75, Y:75, Z:75 at a velocity of 0.3 meters per second.
+Adjust the coordinates to X:75, Y:75, Z:75 with a speed of 0.3 meters per second.
+Shift to position X:75, Y:75, Z:75 using a velocity of 0.3 meters per second.
+Go to X:75, Y:75, Z:75 at a speed of 0.3 meters per second.
+Travel to the location X:75, Y:75, Z:75 at a speed of 0.3 meters per second.
+Retract the arm to the standby position.
+Move the arm back to the standby position.
+Return the arm to its standby position.
+Withdraw the arm to the standby position.
+Pull the arm back into the standby position.
+Extend the arm by 15 centimeters, then do a little dance.
+Stretch the arm outwards by 15 centimeters before performing a small dance.
+Increase the arm's length by 15 centimeters and proceed to do a brief dance.
+Lengthen the arm by 15 centimeters and then perform a mini dance routine.
+Extend the arm's reach by 15 centimeters, followed by a playful dance.
+Lift the object at a velocity of 5 meters per second.
+Elevate the object at a rate of 5 meters per second.
+Raise the object with a speed of 5 meters per second.
+Hoist the object at a velocity of 5 meters per second.
+Ascend the object with a rate of 5 meters per second.
+Rotate the arm joint counterclockwise by 90 degrees.
+Turn the arm joint in the opposite direction by 90 degrees. 
+Rotate the arm joint anticlockwise by 90 degrees. 
+Twist the arm joint in a counterclockwise direction by 90 degrees. 
+Rotate the arm joint to the left by 90 degrees.
+Extend the arm to a distance of 50 centimeters.
+Reach out the arm and stretch it to a length of 50 centimeters.
+Lengthen the arm by 50 centimeters.
+Increase the arm's length to 50 centimeters.
+Stretch out the arm until it measures 50 centimeters in distance.
+Move to position X:15, Y:25, Z:35 at a duration of 10 seconds.
+Go to position X:15, Y:25, Z:35 within a duration of 10 seconds.
+Travel to the coordinates X:15, Y:25, Z:35 in a span of 10 seconds.
+Adjust your position to X:15, Y:25, Z:35 over a period of 10 seconds.
+Reach the specified location X:15, Y:25, Z:35 within 10 seconds.
+Grip the object with a force of 10 Newtons.
+Apply a force of 10 Newtons to secure your grip on the object.
+Exert a 10 Newton force to firmly hold onto the object.
+Use a 10 Newton force to tightly grasp the object.
+Apply a firm 10 Newton force to firmly seize the object.
+Retract the arm to its starting position.
+Pull the arm back to its initial position.
+Withdraw the arm and return it to its original location.
+Move the arm back to its starting point.
+Bring the arm back to its initial position.
+Rotate the wrist joint clockwise by 30 degrees.
+Turn the wrist joint 30 degrees in a clockwise direction.
+Rotate the wrist joint by 30 degrees in a clockwise manner.
+Twist the wrist joint in a clockwise direction, moving it 30 degrees.
+Rotate the wrist joint in the clockwise direction, making a 30-degree turn.
+Lift the object at a velocity of 2 meters per second.
+Raise the object with a speed of 2 meters per second.
+Elevate the object, moving at a velocity of 2 meters per second.
+Hoist the object, maintaining a rate of 2 meters per second.
+Pick up the object, traveling at a speed of 2 meters per second.
+Extend the arm to a distance of 30 centimeters and hold for 5 seconds.
+Stretch the arm out to a length of 30 centimeters and maintain for a duration of 5 seconds.
+Reach the arm out to a span of 30 centimeters and keep it there for a period of 5 seconds.
+Protract the arm to a distance of 30 centimeters and sustain the position for 5 seconds.
+Lengthen the arm to a distance of 30 centimeters and maintain the extension for a duration of 5 seconds.
+Move to position X:5, Y:10, Z:15 and halt immediately.
+Immediately halt and move to position X:5, Y:10, Z:15.
+Halt at once and move to the coordinates X:5, Y:10, Z:15.
+Move to the specified coordinates X:5, Y:10, Z:15 and come to an immediate stop.
+Come to a stop without delay after moving to the position X:5, Y:10, Z:15.
+Grip the object with 8 kilograms of force.
+Apply a force of 8 kilograms to secure your grip on the object.
+Exert 8 kilograms of pressure to firmly hold onto the object.
+Use 8 kilograms of force to tightly grasp the object.
+Employ an 8-kilogram force to firmly grip the object.
+Retract the arm at a duration of 3 seconds.
+Withdraw the arm over a period of 3 seconds.
+Pull back the arm for a total of 3 seconds.
+Bring the arm back slowly for a duration of 3 seconds.
+Depress the arm gradually, taking 3 seconds to complete the action.
+Rotate the arm joint counterclockwise by 180 degrees.
+Turn the arm joint in a counterclockwise direction by 180 degrees.
+Rotate the arm joint in an anti-clockwise direction by 180 degrees.
+Twist the arm joint counterclockwise by 180 degrees.
+Pivot the arm joint counterclockwise by 180 degrees.
+Extend the arm to a distance of 40 centimeters and hold for 2 seconds.
+Stretch the arm outwards to a length of 40 centimeters and keep it in that position for a duration of 2 seconds.
+Protrude the arm at a distance of 40 centimeters and maintain the position for 2 seconds.
+Lengthen the arm to 40 centimeters and sustain the extension for a period of 2 seconds.
+Reach out the arm to a distance of 40 centimeters and keep it there for a duration of 2 seconds.
+Lift the object at a velocity of 3 meters per second and move to position X:20, Y:30, Z:40.
+Move the object to position X:20, Y:30, Z:40 while lifting it at a velocity of 3 meters per second.
+Lift the object at a speed of 3 meters per second and transport it to point X:20, Y:30, Z:40.
+Raise the object at 3 meters per second and relocate it to coordinates X:20, Y:30, Z:40.
+With a velocity of 3 meters per second, elevate the object and shift it to position X:20, Y:30, Z:40.
+Grip the object with a force of 15 Newtons and rotate the wrist joint clockwise by 60 degrees.
+Apply a force of 15 Newtons to grasp the object, then turn the wrist joint in a clockwise direction by 60 degrees.
+Exert a 15 Newton force to firmly hold the object, and proceed to rotate the wrist joint in a clockwise manner by 60 degrees.
+Use a force of 15 Newtons to grip the object and then twist the wrist joint in a clockwise direction by 60 degrees.
+Grasp the object firmly with a 15 Newton force and proceed to rotate the wrist joint in a clockwise manner by 60 degrees.
+Retract the arm to its starting position and hold for 4 seconds.
+Bring the arm back to its initial position and maintain that position for a duration of 4 seconds.
+Withdraw the arm to its original position and keep it there for a period of 4 seconds.
+Move the arm back to where it started and keep it stationary for 4 seconds.
+Pull the arm back to its starting point and hold it for 4 seconds.
+Lift the object at a velocity of 4 meters per second and extend the arm to a distance of 60 centimeters.
+Raise the object with a speed of 4 meters per second while stretching the arm to a length of 60 centimeters.
+Elevate the object, moving at a velocity of 4 meters per second, and lengthen the arm to a distance of 60 centimeters.
+Increase the height of the object by lifting it at a rate of 4 meters per second and extending the arm to a distance of 60 centimeters.
+Hoist the object, maintaining a speed of 4 meters per second, as the arm is extended to a distance of 60 centimeters.
+Move to position X:10, Y:20, Z:30 at a duration of 8 seconds and rotate the arm joint counterclockwise by 45 degrees.
+Adjust the position to X:10, Y:20, Z:30 over a period of 8 seconds, while rotating the arm joint 45 degrees in the counterclockwise direction.
+Transition to coordinates X:10, Y:20, Z:30 in 8 seconds, simultaneously rotating the arm joint 45 degrees counterclockwise.
+Shift to the specified position (X:10, Y:20, Z:30) in 8 seconds, while also rotating the arm joint 45 degrees counterclockwise.
+Transfer to the designated coordinates (X:10, Y:20, Z:30) smoothly within an 8-second timeframe, while turning the arm joint 45 degrees counterclockwise.
+Swim.
+Take a swim.
+Engage in swimming.
+Get in the water and swim.
+Dive in and start swimming.
+Move the robotic arm to position X:50, Y:100, Z:200.
+Position the robotic arm at X:50, Y:100, Z:200.
+Set the robotic arm to coordinates X:50, Y:100, Z:200.
+Adjust the robotic arm to reach X:50, Y:100, Z:200.
+Move the robotic arm so that it is located at X:50, Y:100, Z:200.
+Rotate the shoulder joint counterclockwise by 90 degrees.
+Turn the shoulder joint 90 degrees counterclockwise.
+Twist the shoulder joint counterclockwise, making a 90-degree rotation.
+Rotate the shoulder joint in a counterclockwise direction, reaching a 90-degree angle.
+Pivot the shoulder joint counterclockwise, achieving a 90-degree rotation.
+Extend the arm by 30 centimeters.
+Increase the arm's length by 30 centimeters.
+Lengthen the arm by an additional 30 centimeters.
+Stretch the arm outwards by 30 centimeters.
+Add 30 centimeters to the arm's reach.
+Grip the object with 10 pounds of force.
+Apply a force of 10 pounds to grasp the object.
+Exert 10 pounds of pressure to firmly hold onto the object.
+Use 10 pounds of strength to tightly grip the object.
+Securely hold the object with a force of 10 pounds.
+Move the arm in a straight line at a velocity of 50 centimeters per second.
+Adjust the arm to move in a linear path with a speed of 50 centimeters per second.
+Direct the arm to travel in a straight line at a rate of 50 centimeters per second.
+Command the arm to execute a straight-line motion at a velocity of 50 centimeters per second.
+Instruct the arm to move in a straight line, maintaining a speed of 50 centimeters per second.
+Rotate the elbow joint clockwise by 60 degrees.
+Turn the elbow joint in a clockwise direction by 60 degrees.
+Rotate the elbow joint to the right by 60 degrees.
+Twist the elbow joint to the right by 60 degrees.
+Move the elbow joint in a clockwise rotation, making a 60-degree angle.
+Retract the arm to its starting position.
+Move the arm back to its original position.
+Withdraw the arm and return it to its initial location.
+Bring the arm back to where it started.
+Pull the arm back until it reaches its starting point.
+Move the robotic arm to position X:0, Y:0, Z:0.
+Adjust the robotic arm to coordinates X:0, Y:0, Z:0.
+Shift the robotic arm to position X:0, Y:0, Z:0.
+Realign the robotic arm to coordinates X:0, Y:0, Z:0.
+Position the robotic arm at X:0, Y:0, Z:0.
+Grip the object with a force of 20 newtons.
+Exert a 20 newton force to hold onto the object.
+Apply a 20 newton force to firmly grasp the object.
+Use a force of 20 newtons to grip the object securely.
+Hold onto the object with a 20 newton force.
+Extend the arm by 10 inches.
+Increase the arm's length by 10 inches.
+Stretch the arm by an additional 10 inches.
+Lengthen the arm by 10 inches.
+Add 10 inches to the arm's extension.
+Rotate the wrist joint counterclockwise by 30 degrees.
+Turn the wrist joint in a counterclockwise direction by 30 degrees.
+Rotate the wrist joint anticlockwise by 30 degrees.
+Move the wrist joint in a counterclockwise rotation of 30 degrees.
+Adjust the wrist joint by rotating it counterclockwise at a 30-degree angle.
+Move the arm in a curve with a radius of 50 centimeters.
+Perform a curved motion with the arm, ensuring a radius of 50 centimeters.
+Rotate the arm in a circular path, maintaining a curvature with a radius measuring 50 centimeters.
+Execute a curvilinear movement with the arm, guaranteeing a 50-centimeter radius.
+Maneuver the arm in a curved trajectory, ensuring a radius spanning 50 centimeters.
+Rotate the shoulder joint clockwise by 45 degrees.
+Rotate the shoulder joint in a clockwise direction, turning it by an angle of 45 degrees.
+Turn the shoulder joint clockwise, rotating it by 45 degrees.
+Twist the shoulder joint in a clockwise manner, changing its position by 45 degrees.
+Rotate the shoulder joint in the clockwise direction, making a 45-degree turn.
+Move the robotic arm to position X:100, Y:50, Z:150.
+Position the robotic arm at coordinates X:100, Y:50, Z:150.
+Transfer the robotic arm to location X:100, Y:50, Z:150.
+Shift the robotic arm to the X:100, Y:50, Z:150 position.
+Adjust the robotic arm to the desired coordinates: X:100, Y:50, Z:150.
+Grip the object with a force of 15 pounds.
+Apply a 15-pound force to grasp the object.
+Exert 15 pounds of force to hold onto the object.
+Use a 15-pound grip to secure the object.
+Hold the object firmly with a force of 15 pounds.
+Retract the arm by 20 centimeters.
+Move the arm back by a distance of 20 centimeters.
+Pull the arm inward, reducing its length by 20 centimeters.
+Withdraw the arm by 20 centimeters.
+Bring the arm back, shortening it by a measurement of 20 centimeters.
+Rotate the elbow joint counterclockwise by 90 degrees.
+Turn the elbow joint in an anticlockwise direction, rotating it by 90 degrees.
+Rotate the elbow joint to the left by 90 degrees.
+Perform a 90-degree counterclockwise rotation of the elbow joint.
+Twist the elbow joint counterclockwise, turning it by 90 degrees.
+Move the arm in a zigzag pattern with a velocity of 75 centimeters per second.
+The arm should be moved in a zigzag pattern at a speed of 75 centimeters per second.
+Move the arm with a velocity of 75 centimeters per second in a zigzag pattern.
+With a speed of 75 centimeters per second, move the arm in a zigzag pattern.
+In a zigzag pattern, move the arm with a velocity of 75 centimeters per second.
+Extend the arm by 5 inches.
+Increase the arm's length by 5 inches.
+Lengthen the arm by an additional 5 inches.
+Stretch the arm outwards, adding 5 inches to its total length.
+Expand the arm's size by 5 inches.
+Rotate the wrist joint clockwise by 15 degrees.
+Turn the wrist joint in a clockwise direction, angling it 15 degrees.
+Rotate the wrist joint to the right by 15 degrees.
+Twist the wrist joint in a clockwise motion, adjusting it by 15 degrees.
+Move the wrist joint in a clockwise rotation, offsetting it by 15 degrees.
+Swim.
+Take a swim.
+Go for a swim.
+Dive into the water.
+Engage in swimming.
+Lift the object 5 centimeters off the ground.
+Raise the object to a height of 5 centimeters above the ground.
+Elevate the object so that it is positioned 5 centimeters above the ground.
+Increase the height of the object by 5 centimeters from its current position on the ground.
+Ascend the object by 5 centimeters, lifting it away from the ground.
+Rotate the base joint counterclockwise by 90 degrees.
+Turn the base joint anti-clockwise by an angle of 90 degrees.
+Twist the base joint in a counterclockwise direction by 90 degrees.
+Rotate the base joint in the counterclockwise direction by 90 degrees.
+Execute a 90-degree counterclockwise rotation of the base joint.
+Extend the arm to position X:50, Y:0, Z:80.
+Move the arm to coordinates X:50, Y:0, Z:80.
+Adjust the arm to reach position X:50, Y:0, Z:80.
+Stretch out the arm until it reaches X:50, Y:0, Z:80.
+Set the arm's coordinates to X:50, Y:0, Z:80.
+Open the grip completely for 3 seconds.
+Fully open the grip and hold for 3 seconds.
+Release the grip completely for a duration of 3 seconds.
+Keep the grip wide open for a period of 3 seconds.
+Hold the grip in a fully extended position for 3 seconds.
+Move the object to position X:20, Y:30, Z:10 at a velocity of 10 centimeters per second.
+Transfer the item to coordinates X:20, Y:30, Z:10 with a speed of 10 centimeters per second.
+Relocate the object to X:20, Y:30, Z:10, moving at a rate of 10 centimeters per second.
+Transport the item to position X:20, Y:30, Z:10 with a velocity of 10 centimeters per second.
+Shift the object to coordinates X:20, Y:30, Z:10 at a speed of 10 centimeters per second.
+Close the grip with 10 kilograms of force.
+Apply 10 kilograms of force to secure the grip.
+Exert a 10-kilogram force to close the grip.
+Use 10 kilograms of pressure to tighten the grip.
+Apply 10 kilograms of force to finalize the grip closure.
+Rotate the wrist joint clockwise by 180 degrees.
+Turn the wrist joint in a clockwise direction, making a 180-degree rotation.
+Rotate the wrist joint by 180 degrees in a clockwise direction.
+Twist the wrist joint clockwise, completing a 180-degree rotation.
+Perform a 180-degree clockwise rotation of the wrist joint.
+Lift the arm to its maximum height and hold for 10 seconds.
+Elevate the arm to its highest point and maintain for a duration of 10 seconds.
+Raise the arm as high as possible and keep it in that position for 10 seconds.
+Hoist the arm to its utmost height and keep it there for a period of 10 seconds.
+Ascend the arm to its peak height and hold the position for 10 seconds.
+Retract the arm to standby position.
+Bring the arm back to its standby position.
+Move the arm back to the standby position.
+Return the arm to the standby position.
+Withdraw the arm and place it in the standby position.
+Move to position X:100, Y:50, Z:150 at a velocity of 20 centimeters per second.
+Change your position to X:100, Y:50, Z:150 moving at a speed of 20 centimeters per second.
+Travel to coordinates X:100, Y:50, Z:150 with a velocity of 20 centimeters per second.
+Go to position X:100, Y:50, Z:150 at a speed of 20 centimeters per second.
+Reach the coordinates X:100, Y:50, Z:150 at a velocity of 20 centimeters per second.
+Open the grip halfway for 2 seconds.
+Partially open the grip for a duration of 2 seconds.
+Open the grip halfway and hold for 2 seconds.
+Temporarily open the grip halfway for a period of 2 seconds.
+Maintain the grip at a mid-point opening for 2 seconds.
+Extend the arm by 30 centimeters.
+Increase the arm length by 30 centimeters.
+Stretch the arm outwards by 30 centimeters.
+Elongate the arm by 30 centimeters.
+Expand the arm by 30 centimeters.
+Rotate the base joint clockwise by 45 degrees.
+Turn the base joint to the right by 45 degrees.
+Twist the base joint in a clockwise direction by 45 degrees.
+Rotate the base joint in a clockwise manner, making a 45 degree turn.
+Shift the base joint to the right, rotating it by 45 degrees in a clockwise motion.
+Lift the object to position X:0, Y:0, Z:50 and hold for 5 seconds.
+Elevate the object to coordinates X:0, Y:0, Z:50 and maintain that position for a duration of 5 seconds.
+Hoist the object until it reaches the location X:0, Y:0, Z:50, and then keep it steady for a period of 5 seconds.
+Raise the object up to X:0, Y:0, Z:50, and keep it suspended in that spot for 5 seconds.
+Carry out a vertical movement to position the object at coordinates X:0, Y:0, Z:50, and keep it in place for a duration of 5 seconds.
+Close the grip with 7 kilograms of force.
+Apply a force of 7 kilograms to tighten the grip.
+Securely tighten the grip with a force of 7 kilograms.
+Use 7 kilograms of force to close the grip.
+Apply a force of 7 kilograms to firmly close the grip.
+Move to position X:75, Y:25, Z:100 at a velocity of 15 centimeters per second.
+Go to the coordinates X:75, Y:25, Z:100 with a speed of 15 centimeters per second.
+Travel to position X:75, Y:25, Z:100 at a rate of 15 centimeters per second.
+Change your location to X:75, Y:25, Z:100 with a velocity of 15 centimeters per second.
+Reach the coordinates X:75, Y:25, Z:100 at a speed of 15 centimeters per second.
+Rotate the wrist joint counterclockwise by 270 degrees.
+Turn the wrist joint in the opposite direction by 270 degrees.
+Rotate the wrist joint anti-clockwise by an angle of 270 degrees.
+Twist the wrist joint in a counterclockwise direction, rotating it by 270 degrees.
+Rotate the wrist joint in the counterclockwise direction, making a 270-degree turn.
+Retract the arm to standby position and wait for further instruction.
+Bring the arm back to standby position and remain there until further instructions.
+Move the arm back to its standby position and await further instruction.
+Withdraw the arm to the standby position and expect further guidance.
+Return the arm to its original position and stay there until you receive more instructions.
+Lift the arm by 20 centimeters and hold for 3 seconds.
+Raise the arm by a distance of 20 centimeters and maintain the position for a duration of 3 seconds.
+Elevate the arm by 20 centimeters and keep it held for 3 seconds.
+Increase the height of the arm by 20 centimeters, then hold steady for 3 seconds.
+Lift the arm upwards by 20 centimeters and maintain the lifted position for a period of 3 seconds.
+Rotate the base joint counterclockwise by 180 degrees and dance.
+Perform a counterclockwise rotation of 180 degrees on the base joint, then carry out a dance.
+Turn the base joint in a counterclockwise direction, making a 180 degree rotation before proceeding to dance.
+Rotate the base joint 180 degrees in the counterclockwise direction, then showcase your dance moves.
+Execute a 180 degree counterclockwise rotation on the base joint and follow it with a dance routine.
+Move the arm to position X:50, Y:70, Z:90.
+Adjust the arm's position to coordinates X:50, Y:70, Z:90.
+Shift the arm to the designated coordinates of X:50, Y:70, Z:90.
+Relocate the arm to the specified position of X:50, Y:70, Z:90.
+Transpose the arm to the desired coordinates at X:50, Y:70, Z:90.
+Rotate the wrist joint counterclockwise by 90 degrees.
+Turn the wrist joint in a counterclockwise direction, rotating it 90 degrees.
+Rotate the wrist joint anti-clockwise by 90 degrees.
+Clockwise rotation of the wrist joint by 90 degrees is not required; instead, rotate it counterclockwise.
+In order to achieve a 90-degree counterclockwise rotation, turn the wrist joint.
+Extend the arm by 20 centimeters.
+Increase the length of the arm by 20 centimeters.
+Stretch out the arm by an additional 20 centimeters.
+Lengthen the arm by an extra 20 centimeters.
+Add 20 centimeters to the arm's current length.
+Grip the object with 10 kilograms of force.
+Apply a force of 10 kilograms to grip the object.
+Exert 10 kilograms of force to grasp the object.
+Use a gripping force of 10 kilograms on the object.
+Apply 10 kilograms of pressure to hold onto the object.
+Move the arm to position X:30, Y:40, Z:50.
+Adjust the arm's position to X:30, Y:40, Z:50.
+Set the arm's coordinates to X:30, Y:40, Z:50.
+Move the arm's location to X:30, Y:40, Z:50.
+Position the arm at X:30, Y:40, Z:50.
+Rotate the wrist joint clockwise by 60 degrees.
+Turn the wrist joint in a clockwise direction by 60 degrees.
+Perform a 60-degree clockwise rotation of the wrist joint.
+Rotate the wrist joint to the right by 60 degrees.
+Move the wrist joint in a clockwise direction, turning it by 60 degrees.
+Retract the arm to standby position.
+Move the arm back to the standby position.
+Return the arm to the standby position.
+Bring the arm back to the standby position.
+Take the arm back to the standby position.
+Grip the object with 15 kilograms of force.
+Apply a gripping force of 15 kilograms to the object.
+Exert 15 kilograms of force to hold onto the object.
+Use a gripping strength of 15 kilograms to secure the object.
+Grasp the object firmly with a 15-kilogram force.
+Move the arm to position X:70, Y:80, Z:90.
+Adjust the arm's position to coordinates X:70, Y:80, Z:90.
+Relocate the arm so that it is at position X:70, Y:80, Z:90.
+Shift the arm's location to X:70, Y:80, Z:90.
+Set the arm's coordinates to X:70, Y:80, Z:90.
+Rotate the wrist joint counterclockwise by 120 degrees.
+Turn the wrist joint in a counterclockwise direction by 120 degrees.
+Rotate the wrist joint anti-clockwise by 120 degrees.
+Twist the wrist joint in the counterclockwise direction by 120 degrees.
+Move the wrist joint in a counterclockwise rotation by 120 degrees.
+Extend the arm by 25 centimeters.
+Increase the length of the arm by 25 centimeters.
+Stretch out the arm by an additional 25 centimeters.
+Lengthen the arm by 25 centimeters.
+Add 25 centimeters to the arm's reach.
+Grip the object with 20 kilograms of force.
+Apply a 20-kilogram force to grasp the object.
+Exert 20 kilograms of force to hold onto the object.
+Use a gripping force of 20 kilograms to secure the object.
+Apply pressure equivalent to 20 kilograms to firmly hold the object.
+Move the arm to position X:10, Y:20, Z:30.
+Position the arm at X:10, Y:20, Z:30.
+Set the arm's coordinates to X:10, Y:20, Z:30.
+Adjust the arm's position to X:10, Y:20, Z:30.
+Move the arm's location to X:10, Y:20, Z:30.
+Rotate the wrist joint clockwise by 30 degrees.
+Turn the wrist joint in a clockwise direction by 30 degrees.
+Rotate the wrist joint in the clockwise direction, making a 30-degree angle.
+Twist the wrist joint to the right by 30 degrees.
+Adjust the wrist joint by turning it clockwise 30 degrees.
+Retract the arm to standby position.
+Move the arm back to the standby position.
+Pull the arm back into the standby position.
+Return the arm to its standby position.
+Bring the arm back to the standby position.
+Grip the object with 12 kilograms of force.
+Apply a force of 12 kilograms to tightly hold onto the object.
+Exert a gripping force of 12 kilograms on the object.
+Use 12 kilograms of strength to firmly grasp the object.
+Tighten your grip on the object with a force of 12 kilograms.
+Move the arm to position X:80, Y:60, Z:40.
+Position the arm at X:80, Y:60, Z:40.
+Set the arm's coordinates to X:80, Y:60, Z:40.
+Adjust the arm to the location X:80, Y:60, Z:40.
+Move the arm to the desired coordinates, X:80, Y:60, Z:40.
+Rotate the wrist joint counterclockwise by 75 degrees.
+Turn the wrist joint anti-clockwise at a 75-degree angle.
+Rotate the wrist joint in the counterclockwise direction, making a 75-degree rotation.
+Twist the wrist joint to the left by 75 degrees.
+Adjust the wrist joint by rotating it counterclockwise with a 75-degree angle.
+Extend the arm by 18 centimeters.
+Stretch out the arm, adding an additional 18 centimeters in length.
+Increase the arm's length by 18 centimeters.
+Lengthen the arm by 18 centimeters.
+Stretch the arm outwards until it is 18 centimeters longer.
+Grip the object with 8 kilograms of force.
+Apply 8 kilograms of force to grip the object.
+Exert a force of 8 kilograms to hold onto the object.
+Securely grip the object with 8 kilograms of force.
+Hold the object using a force of 8 kilograms.
+Move the arm to position X:40, Y:50, Z:60.
+Set the arm's position to X:40, Y:50, Z:60.
+Adjust the arm's coordinates to X:40, Y:50, Z:60.
+Position the arm at X:40, Y:50, Z:60.
+Move the arm's location to X:40, Y:50, Z:60.
+Rotate the wrist joint clockwise by 45 degrees.
+Turn the wrist joint in a clockwise direction by 45 degrees.
+Rotate the wrist joint to the right by 45 degrees.
+Twist the wrist joint in a clockwise manner by 45 degrees.
+Rotate the wrist joint in the clockwise direction, making a 45-degree angle.
+Retract the arm to standby position, then wave.
+Bring the arm back to its initial position and subsequently perform a waving motion.
+Revert the arm to its default position and proceed to wave.
+Withdraw the arm to standby position before waving.
+Pull back the arm and proceed to wave.
+Extend the arm by 20 centimeters.
+Lengthen the arm by 20 centimeters.
+Stretch the arm out an additional 20 centimeters.
+Increase the arm's length by 20 centimeters.
+Add 20 centimeters to the arm's extension.
+Rotate the wrist joint counterclockwise by 90 degrees.
+Turn the wrist joint in a counterclockwise direction, rotating it by 90 degrees.
+Rotate the wrist joint 90 degrees counterclockwise.
+Perform a counterclockwise rotation of the wrist joint, turning it by 90 degrees.
+Adjust the wrist joint by rotating it counterclockwise at a 90 degree angle.
+Grip the object with 10 kilograms of force.
+Apply a force of 10 kilograms to hold onto the object.
+Utilize 10 kilograms of force to grip the object firmly.
+Exert a grip on the object with 10 kilograms of force.
+Hold onto the object with a force of 10 kilograms.
+Move to position X:50, Y:75, Z:100.
+Relocate to coordinates X:50, Y:75, Z:100.
+Transfer to position with X coordinate of 50, Y coordinate of 75, and Z coordinate of 100.
+Proceed to the location with X value 50, Y value 75, and Z value 100.
+Change position to X:50, Y:75, Z:100.
+Retract the arm by 30 centimeters.
+Pull the arm back by a distance of 30 centimeters.
+Withdraw the arm by 30 centimeters.
+Move the arm back by a length of 30 centimeters.
+Bring the arm back 30 centimeters.
+Rotate the shoulder joint clockwise by 180 degrees.
+Turn the shoulder joint in a clockwise direction, making a 180-degree rotation.
+Rotate the shoulder joint in a clockwise manner, making a complete 180-degree turn.
+Twist the shoulder joint clockwise, turning it by 180 degrees.
+Perform a 180-degree clockwise rotation of the shoulder joint.
+Release the object gently.
+Gently let go of the object.
+Softly loosen your grip on the object.
+Carefully release the object in a gentle manner.
+Handle the object with caution as you relinquish your hold on it.
+Move to position X:0, Y:0, Z:50.
+Proceed to coordinates X:0, Y:0, and Z:50.
+Relocate yourself to the destination with the coordinates X:0, Y:0, and Z:50.
+Shift your position to X:0, Y:0, Z:50.
+Transfer yourself to the specified coordinates: X:0, Y:0, and Z:50.
+Extend the arm by 10 centimeters at a velocity of 5 centimeters per second.
+Increase the length of the arm by 10 centimeters, moving at a speed of 5 centimeters per second.
+Add 10 centimeters to the arm's reach, advancing at a rate of 5 centimeters per second.
+Stretch the arm forward by 10 centimeters, with a velocity of 5 centimeters per second.
+Lengthen the arm by 10 centimeters, moving at a pace of 5 centimeters per second.
+Rotate the wrist joint counterclockwise by 45 degrees at a velocity of 90 degrees per second.
+- Turn the wrist joint to the left by 45 degrees at a speed of 90 degrees per second.
+- Rotate the wrist joint in an anti-clockwise direction, making a 45 degree angle, at a rate of 90 degrees per second.
+- Move the wrist joint counterclockwise for 45 degrees with a velocity of 90 degrees per second.
+- Adjust the wrist joint by rotating it counterclockwise at a speed of 90 degrees per second, achieving a 45 degree angle.
+Grip the object with 8 kilograms of force for 10 seconds.
+Apply a force of 8 kilograms to the object for a duration of 10 seconds.
+Hold the object with a grip that exerts 8 kilograms of force for 10 seconds.
+Grasp the object firmly, exerting a force of 8 kilograms, and maintain the grip for 10 seconds.
+Use 8 kilograms of force to firmly grip the object for a period of 10 seconds.
+Move to position X:25, Y:50, Z:75 in 5 seconds.
+In 5 seconds, go to the coordinates X:25, Y:50, Z:75.
+Reach the position X:25, Y:50, Z:75 within a span of 5 seconds.
+Within 5 seconds, relocate yourself to the coordinates X:25, Y:50, Z:75.
+Move to X:25, Y:50, Z:75 within 5 seconds.
+Retract the arm by 15 centimeters at a velocity of 2 centimeters per second.
+Move the arm back by 15 centimeters at a speed of 2 centimeters per second.
+Withdraw the arm, reducing its length by 15 centimeters, while moving at a rate of 2 centimeters per second.
+Decrease the arm's extension by 15 centimeters, moving it at a velocity of 2 centimeters per second.
+Pull the arm back by 15 centimeters, maintaining a speed of 2 centimeters per second.
+Rotate the shoulder joint clockwise by 270 degrees in 3 seconds.
+In a time span of 3 seconds, turn the shoulder joint in a clockwise direction by 270 degrees.
+Perform a 270-degree clockwise rotation of the shoulder joint within a 3-second timeframe.
+Rotate the shoulder joint in a clockwise manner, covering a distance of 270 degrees, and complete this action within 3 seconds.
+Within a duration of 3 seconds, turn the shoulder joint in a clockwise direction, making a rotation of 270 degrees.
+Move to position X:100, Y:100, Z:0 in 10 seconds.
+Go to coordinates X:100, Y:100, Z:0 within a time frame of 10 seconds.
+Shift to position X:100, Y:100, Z:0 within a duration of 10 seconds.
+Transfer yourself to coordinates X:100, Y:100, Z:0 in a span of 10 seconds.
+Travel to position X:100, Y:100, Z:0 within a 10-second timeframe.
+Extend the arm by 5 centimeters, then swim.
+Swim after extending the arm by 5 centimeters.
+After extending the arm by 5 centimeters, proceed to swim.
+Extend the arm by 5 centimeters first, then start swimming.
+First, extend the arm by 5 centimeters, and then initiate swimming.

@@ -1,0 +1,125 @@
+### 1) 
+
+Ground Robot JSON Structure (17 pairs)
+
+{
+"action": "go_to_goal",
+"params": {
+  "location": {
+    "type": "str",
+    "value": "Kitchen"}}}
+{
+"action": "move",
+"params": {
+  "linear_speed": 0.5,
+  "distance": distance,
+  "is_forward": True,
+  "unit": "meter"}}
+{
+"action": "rotate",
+"params": {
+  "angular_velocity": 0.35,
+  "angle": 40,
+  "is_clockwise": is_clockwise,
+  "unit": "degrees"}}
+
+
+### 2) UAV (Unmanned Aerial Vehicle) JSON Structure: (37 pairs)
+
+{
+"action": "navigate_to_point",
+"params": {
+  "coordinates": {
+    "type": "tuple",
+    "value": "(latitude, longitude, altitude)"}}}
+{
+"action": "fly",
+"params": {
+  "speed": 10.5,
+  "altitude": 100,
+  "direction": {
+    "type": "str",
+    "value": "north"},
+  "duration": 10,
+  "unit_speed": "m/s",
+  "unit_altitude": "meters",
+  "unit_duration": "seconds"}}
+{
+"action": "hover",
+"params": {
+  "duration": {
+    "type": "float",
+    "value": 15.0},
+  "altitude": {
+    "type": "float",
+    "value": 50.0},
+  "unit_duration": "seconds",
+  "unit_altitude": "meters"}}
+{
+"action": "rotate",
+"params": {
+  "angular_velocity": 0.5,
+  "angle": 90,
+  "is_clockwise": true,
+  "unit": "degrees"}}
+{
+"action": "land",
+"params": {
+  "location": {
+    "type": "tuple",
+    "value": "(latitude, longitude)"}}
+}
+  
+
+### 3) Robotic Arm JSON Structure: (43 pairs)
+
+{
+"action": "move_joint",
+"params": {
+  "joint_name": {
+    "type": "str",
+    "value": "elbow"},
+  "angle": {
+    "type": "float",
+    "value": 45.0},
+  "direction": {
+    "type": "str",
+    "value": "clockwise"},
+  "speed": {
+    "type": "float",
+    "value": 0.5},
+  "unit": "degrees",
+  "unit_speed": "degrees/s"}}
+{
+"action": "extend_arm",
+"params": {
+  "extension_length": {
+    "type": "float",
+    "value": 10.0},
+  "speed": {
+    "type": "float",
+    "value": 1.0},
+  "unit_length": "centimeters",
+  "unit_speed": "cm/s"}}
+{
+"action": "grip_object",
+"params": {
+  "force": {
+    "type": "float",
+    "value": 5.0},
+  "duration": {
+    "type": "float",
+    "value": 2.0},
+  "unit_force": "newtons",
+  "unit_duration": "seconds"}}
+{
+"action": "release_grip",
+"params": {}}
+{
+"action": "set_orientation",
+"params": {
+  "orientation": {
+    "type": "str",
+    "value": "upright"}}
+}
+  
